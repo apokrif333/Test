@@ -8,7 +8,7 @@ from termcolor import colored
 from pprint import pprint as pp
 
 
-def create_file():
+def random_txt_file():
     t1 = time.time()
     with open('Temp.txt', 'w') as f:
         for _ in range(4_000_000):
@@ -17,7 +17,7 @@ def create_file():
     print(f'Time for create file by  is {t2 - t1} seconds')
 
 
-def little_file():
+def random_npy_file():
     np_array = np.random.rand(4, 5, 5)
     np.save('Temp.npy', np_array)
 
