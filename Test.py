@@ -26,6 +26,20 @@ def filter_by_column(file: np.ndarray, column: int, value: float) -> np.array:
     pp(file)
     return file[file[:, :, column] > value][:, np.array([False, False, True, False, True])]
 
+
+def each_element(file: np.ndarray):
+    for el in file.flat:
+        pass
+
+
+def auto_change_by_rows(file: np.ndarray, rows: int):
+    return file.reshape((rows, -1))
+
+
+def massive_copy(file):
+    return file.copy()
+
+
 # create_file()
 # with open('Temp.txt', 'r') as f:
 #     f_data = f.read()
@@ -36,5 +50,9 @@ def filter_by_column(file: np.ndarray, column: int, value: float) -> np.array:
 # np.save('Temp.npy', np_array)
 
 
-pp(filter_by_column(np.load('Temp.npy'), 0, 0.5))
+file = np.load('Temp.npy')
+print(file)
+file = massive_copy(file[:, 1:3, 1:2])
+print(file)
+
 
