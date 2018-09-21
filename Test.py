@@ -1,5 +1,4 @@
 import pandas as pd
-import csv
 import numpy as np
 import time
 
@@ -18,7 +17,7 @@ def random_txt_file():
 
 
 def random_npy_file():
-    np_array = np.random.rand(4, 5, 5)
+    np_array = np.random.randint(0, 10, (4, 5, 6), dtype=int)
     np.save('Temp.npy', np_array)
 
 
@@ -49,10 +48,7 @@ def massive_copy(file):
 # pp(np_array)
 # np.save('Temp.npy', np_array)
 
-
 file = np.load('Temp.npy')
-print(file)
-file = massive_copy(file[:, 1:3, 1:2])
-print(file)
+print(np.random.seed(1000))
 
 
