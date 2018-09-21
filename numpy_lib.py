@@ -1,9 +1,7 @@
-import pandas as pd
 import numpy as np
 import time
 
-from datetime import datetime
-from termcolor import colored
+from numpy import linalg
 from pprint import pprint as pp
 
 
@@ -23,7 +21,7 @@ def random_npy_file():
 
 def filter_by_column(file: np.ndarray, column: int, value: float) -> np.array:
     pp(file)
-    return file[file[:, :, column] > value][:, np.array([False, False, True, False, True])]
+    return file[file[:, :, column] > value][:, np.array([False, False, True, False, True, False])]
 
 
 def each_element(file: np.ndarray):
@@ -31,24 +29,22 @@ def each_element(file: np.ndarray):
         pass
 
 
-def auto_change_by_rows(file: np.ndarray, rows: int):
+def auto_change_by_rows(file: np.ndarray, rows: int) -> np.array:
     return file.reshape((rows, -1))
 
 
-def massive_copy(file):
+def massive_copy(file: np.ndarray) -> np.array:
     return file.copy()
 
 
-# create_file()
-# with open('Temp.txt', 'r') as f:
-#     f_data = f.read()
-# list_ = f_data.split(',')
-# list_.pop()
-# np_array = np.array(list_, dtype=float).reshape(2000, 2000)
-# pp(np_array)
-# np.save('Temp.npy', np_array)
+def connect_str_to_str(file_1: np.array, file_2: np.array) -> np.array:
+    return np.core.defchararray.add(file_1, file_2)
 
-file = np.load('Temp.npy')
-print(np.random.seed(1000))
 
+def sort_by_column(file: np.array, column: int):
+    return file[file[:, column].argsort()]
+
+
+if __name__ == '__main__':
+    file = np.load('Temp.npy')
 
