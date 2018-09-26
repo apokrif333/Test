@@ -6,59 +6,62 @@ from alpha_vantage.timeseries import TimeSeries
 alpha_vantage_key = 'FE8STYV4I7XHRIAI'
 
 
-# Удаляем все строчки, где нехватка данных или дата 1970 год
-def delete_bad_rows(files_list):
-    for f in files_list:
-        file = pd.read_excel('earnings/123_Earnings_Data/' + str(f), skiprows=3)
-
-        for i in range(len(file['Ticker'])):
-            if math.isnan(file['@est_eps'][i]) or math.isnan(file['@act_eps'][i]) or \
-                    math.isnan(file['@est_sales'][i]) or math.isnan(file['@act_sales'][i]) or \
-                    file['@date_'][i] == 19700101:
-                file = file.drop(i)
-
-        file[''] = [x for x in range(len(file['Ticker']))]
-        file = file.drop(columns='Unnamed: 0').set_index('')
-        if 'Price' in file.columns:
-            file = file.drop(columns='Price')
-        if 'LatestNewsDate' in file.columns:
-            file = file.drop(columns='LatestNewsDate')
-
-        file.to_excel('earnings/123_Earnings_Data/NewFiles/' + str(f))
-
-
-# Корректируем числовую дату, в нормальный формат даты
-def date_correct(files_list):
-    for f in files_list:
-        temp = []
-        file = pd.read_excel('earnings/123_Earnings_Data/NewFiles/' + str(f))
-        file['@date_'] = file['@date_'].apply(str)
-
-        for i in range(len(file['Ticker'])):
-            temp.append(pd.datetime(int(file['@date_'][i][:4]), int(file['@date_'][i][4:6]), int(file['@date_'][i][6:8])))
-        file['@date_'] = temp
-
-        file.to_excel('earnings/123_Earnings_Data/NewFiles/' + str(f))
-
-
 # Создаём единый файл
 def singe_file(files_list):
     main_file = pd.DataFrame({})
     for f in files_list:
-        file = pd.read_excel('earnings/123_Earnings_Data/NewFiles/' + str(f))
+        print(f)
+        file = pd.read_excel(str(f), header=3)
         main_file = pd.concat([main_file, file], sort=False, ignore_index=True)
 
-    main_file = main_file.drop(columns=['Unnamed: 13', 'Unnamed: 12'])
-    main_file.to_excel('earnings/123_Earnings_Data/NewFiles/Total_File123.xlsx')
+    # main_file = main_file.drop(columns=['Unnamed: 13', 'Unnamed: 12'])
+    main_file.to_excel('Total_File123.xlsx')
+
+
+# Удаляем все строчки, где нехватка данных или дата 1970 год
+def delete_bad_rows():
+    file = pd.read_excel('Total_File123.xlsx')
+
+    for i in range(len(file)):
+        if math.isnan(file['@est_eps'][i]) or math.isnan(file['@act_eps'][i]) or \
+                math.isnan(file['@est_sales'][i]) or math.isnan(file['@act_sales'][i]) or \
+                file['@date_'][i] == 19700101:
+            file = file.drop(i)
+
+    file[''] = [x for x in range(len(file))]
+    # file = file.drop(columns='Unnamed: 0').set_index('')
+    if 'Price' in file.columns:
+        file = file.drop(columns='Price')
+    if 'LatestNewsDate' in file.columns:
+        file = file.drop(columns='LatestNewsDate')
+    if 'Last' in file.columns:
+        file = file.drop(columns='Last')
+
+    file = file.reset_index(drop=True)
+    file.to_excel('Total_File123_New.xlsx')
+
+
+# Корректируем числовую дату, в нормальный формат даты
+def date_correct():
+        temp = []
+        file = pd.read_excel('Total_File123.xlsx')
+        file['@date_'] = file['@date_'].apply(str)
+
+        for i in range(len(file['Ticker'])):
+            temp.append(
+                pd.datetime(int(file['@date_'][i][:4]), int(file['@date_'][i][4:6]), int(file['@date_'][i][6:8])))
+        file['@date_'] = temp
+
+        file.to_excel('Total_File123_New.xlsx')
 
 
 # Ищем в едином файле дубликаты
 def del_duplicate():
     indexes_for_drop = []
-    file = pd.read_excel('earnings/123_Earnings_Data/NewFiles/Total_File123.xlsx')
+    file = pd.read_excel('Total_File123.xlsx')
     # print(file.index[file['Ticker'] == file['Ticker'][5000]].tolist())
 
-    for i in range(len(file['Ticker'])):
+    for i in range(len(file)):
         rows_for_del = file.loc[(file['Ticker'] == file['Ticker'][i]) & (file['@date_'] == file['@date_'][i])]
         index_list = list(rows_for_del.index.values)
         print(index_list)
@@ -73,7 +76,8 @@ def del_duplicate():
         print(str(len(indexes_for_drop)) + ' | ' + str(i))
         file = file.drop(indexes_for_drop[i])
 
-    file.to_excel('earnings/123_Earnings_Data/NewFiles/True_File123.xlsx')
+    file = file.reset_index(drop=True)
+    file.to_excel('True_File123.xlsx')
 
 
 # Работаем с alphavantage
@@ -110,6 +114,14 @@ def vol_check(file):
 
 
 if __name__ == '__main__':
-    # files_list = os.listdir('earnings/123_Earnings_Data/NewFiles')
-    file = pd.read_excel('earnings/123_Earnings_Data/NewFiles/True_File123.xlsx')
-    vol_check(file)
+
+    ''' Создаём единый файл
+    files_list = os.listdir()
+    del_index = files_list.index('02_WorkingWith123.py')
+    del files_list[del_index]
+    singe_file(files_list)
+    '''
+
+    del_duplicate()
+    # file = pd.read_excel('earnings/123_Earnings_Data/NewFiles/True_File123.xlsx')
+    # vol_check(file)
