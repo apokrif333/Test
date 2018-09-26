@@ -1,9 +1,10 @@
 import os
 import pandas as pd
 import math
-from alpha_vantage.timeseries import TimeSeries
+import trading_lib as tl
 
-alpha_vantage_key = 'FE8STYV4I7XHRIAI'
+
+default_data_dir = 'exportTables'
 
 
 # Создаём единый файл
@@ -80,38 +81,16 @@ def del_duplicate():
     file.to_excel('True_File123.xlsx')
 
 
-# Работаем с alphavantage
-def alpha_data(ticker):
-    data = None
+# Удаляем хвсоты с ^
+def del_excess():
+    file = pd.read_excel('True_File123.xlsx')
+    for i in range(len(file)):
+        if '^' in file['Ticker'][i]:
+            file.loc[i, 'Ticker'] = file['Ticker'][i].split('^', 1)[0]
+    file.to_excel('True_File123_New.xlsx')
 
-    file_list = os.listdir('data/alpha/daily')
-    for i in range(len(file_list)):
-        file_list[i] = os.path.splitext(file_list[i])[0]
-    if ticker in file_list:
-        return
-
-    try:
-        ts = TimeSeries(key=alpha_vantage_key, retries=0)
-        data, meta_data = ts.get_daily(ticker, outputsize='full')
-    except Exception as err:
-        if 'Invalid API call' in str(err):
-            print('AlphaVantage: ticker data not available for %s' % ticker)
-            return
-
-    print(data)
 
 # Проверяем объёмы на сегодня/завтра, чтобы обозначить AMC и BMO
-def vol_check(file):
-    ticker_list = list(set(file['Ticker']))
-    ticker_list = [x for x in ticker_list if '.' not in x]
-    for i in range(len(ticker_list)):
-        if '^' in ticker_list[i]:
-            ticker_list[i] = ticker_list[i].split('^')[0]
-    ticker_list = list(filter(lambda x: x.isalpha(), ticker_list))
-
-    for ticker in ticker_list:
-        alpha_data(ticker)
-
 
 if __name__ == '__main__':
 
@@ -122,6 +101,8 @@ if __name__ == '__main__':
     singe_file(files_list)
     '''
 
-    del_duplicate()
-    # file = pd.read_excel('earnings/123_Earnings_Data/NewFiles/True_File123.xlsx')
-    # vol_check(file)
+    file = pd.read_excel('True_File123.xlsx')
+    tickers_list = file['Ticker'].unique()
+    for t in tickers_list:
+        if os.path.isfile(os.path.join(default_data_dir, str(t) + '.csv')) is False:
+            tl.download_alpha(t)

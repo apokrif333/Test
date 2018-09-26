@@ -1,6 +1,7 @@
 import pandas as pd
 from termcolor import colored
 
+
 # Проверка по объёму и возратат True or False
 def volume(ticker, date):
     print(date)
