@@ -81,7 +81,7 @@ def del_duplicate():
     file.to_excel('True_File123.xlsx')
 
 
-# Удаляем хвсоты с ^
+# Удаляем хвосты с ^
 def del_excess():
     file = pd.read_excel('True_File123.xlsx')
     for i in range(len(file)):
@@ -90,7 +90,26 @@ def del_excess():
     file.to_excel('True_File123_New.xlsx')
 
 
+# Удаляем .
+def del_point():
+    file = pd.read_excel('True_File123.xlsx')
+    for index, row in file.iterrows():
+        if '.' in row['Ticker']:
+            file.drop(index, inplace=True)
+    file = file.reset_index(drop=True)
+    file.to_excel('True_File123_New.xlsx')
+
+
+# Переименовываем файлы
+def file_rename():
+    path = default_data_dir
+    files = os.listdir(path)
+    for file in files:
+        os.rename(os.path.join(path, file), os.path.join(path, file + '.csv'))
+
+
 # Проверяем объёмы на сегодня/завтра, чтобы обозначить AMC и BMO
+
 
 if __name__ == '__main__':
 
@@ -101,8 +120,10 @@ if __name__ == '__main__':
     singe_file(files_list)
     '''
 
+    ''' Скачиваем данные по каждому тикеру
     file = pd.read_excel('True_File123.xlsx')
     tickers_list = file['Ticker'].unique()
     for t in tickers_list:
         if os.path.isfile(os.path.join(default_data_dir, str(t) + '.csv')) is False:
             tl.download_alpha(t)
+    '''
