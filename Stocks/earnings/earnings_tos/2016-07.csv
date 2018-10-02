@@ -1,0 +1,823 @@
+﻿Calendar for  only Earnings
+
+July 2016
+Date est,Date act,Time est,Time act,Symbol,Quarter,EPS est,EPS act,Status
+7/5/16,,Unspecified,,MESG,Q1,<empty>,<empty>,Unconfirmed
+7/5/16,,After Market,,TV,Q2,0.2,<empty>,Unconfirmed
+7/5/16,7/5/16,Before Market,5:30:00 AM CDT,AZZ,Q1,0.833,0.81,Verified
+7/5/16,7/5/16,Before Market,6:30:00 AM CDT,ISCA,Q2,0.37,0.29,Verified
+7/6/16,7/6/16,Before Market,5:00:00 AM CDT,GBX,Q3,1.087,1.12,Verified
+7/6/16,7/6/16,Before Market,5:45:00 AM CDT,MSM,Q3,1.007,1.05,Verified
+7/6/16,7/6/16,Before Market,6:00:00 AM CDT,WBA,Q3,1.145,1.18,Verified
+7/6/16,7/6/16,Before Market,8:25:00 AM CDT,SPCB,Q1,0.075,0.01,Verified
+7/6/16,7/6/16,During Market,2:33:00 PM CDT,ORMP,Q3,-0.19,-0.15,Verified
+7/6/16,7/6/16,After Market,4:07:00 PM CDT,PCYO,Q3,<empty>,-0.02,Verified
+7/7/16,7/7/16,Before Market,5:00:00 AM CDT,EMMS,Q1,<empty>,0.06,Verified
+7/7/16,7/7/16,Before Market,5:30:00 AM CDT,PEP,Q2,1.286,1.35,Verified
+7/7/16,7/7/16,Unspecified,6:00:00 AM CDT,NCQ,Q2,<empty>,-0.01,Verified
+7/7/16,7/7/16,Before Market,7:00:00 AM CDT,NTIC,Q3,<empty>,0.2,Verified
+7/7/16,7/7/16,Before Market,7:30:00 AM CDT,CSVI,Q1,<empty>,0.48,Verified
+7/7/16,7/7/16,After Market,3:00:00 PM CDT,PSMT,Q3,0.7,0.55,Verified
+7/7/16,7/7/16,After Market,3:01:00 PM CDT,HELE,Q1,0.99,1.27,Verified
+7/7/16,7/7/16,After Market,3:05:00 PM CDT,WDFC,Q3,0.855,0.88,Verified
+7/7/16,7/7/16,After Market,3:10:00 PM CDT,CUDA,Q1,0.01,0.2,Verified
+7/7/16,7/7/16,After Market,3:24:00 PM CDT,CCF,Q3,<empty>,0.8,Verified
+7/7/16,7/7/16,After Market,4:20:00 PM CDT,APOL,Q3,0.276,0.37,Verified
+7/7/16,7/7/16,After Market,4:24:00 PM CDT,LUB,Q3,<empty>,0,Verified
+7/8/16,,Unspecified,,FWMHQ,Q4,<empty>,<empty>,Unconfirmed
+7/8/16,7/8/16,During Market,8:43:00 AM CDT,GRIF,Q2,<empty>,-0.07,Verified
+7/11/16,,Unspecified,,VISN,Q4,<empty>,<empty>,Unconfirmed
+7/11/16,7/11/16,Before Market,5:00:00 AM CDT,OZRK,Q2,0.578,0.6,Verified
+7/11/16,7/11/16,After Market,3:03:00 PM CDT,AA,Q2,0.093,0.15,Verified
+7/11/16,7/11/16,After Market,3:20:00 PM CDT,VOXX,Q1,-0.1,0.01,Verified
+7/11/16,7/11/16,After Market,4:30:00 PM CDT,NEPT,Q1,<empty>,<empty>,Verified
+7/12/16,7/12/16,Before Market,5:05:00 AM CDT,AOI,Q4,<empty>,11.33,Verified
+7/12/16,7/12/16,Before Market,5:50:00 AM CDT,FAST,Q2,0.475,0.45,Verified
+7/12/16,7/12/16,Before Market,6:00:00 AM CDT,GMS,Q4,0.423,0.53,Verified
+7/12/16,7/12/16,Before Market,6:00:00 AM CDT,MRUS,Q1,-0.525,-0.7,Verified
+7/12/16,7/12/16,Before Market,7:00:00 AM CDT,RMCF,Q1,<empty>,0.12,Verified
+7/12/16,7/12/16,After Market,3:01:00 PM CDT,LEDS,Q3,<empty>,-1.06,Verified
+7/12/16,7/12/16,After Market,3:03:00 PM CDT,AIR,Q4,0.45,0.32,Verified
+7/12/16,7/12/16,After Market,3:10:00 PM CDT,HCSG,Q2,0.265,0.26,Verified
+7/12/16,7/12/16,After Market,3:35:00 PM CDT,CNBKA,Q2,<empty>,1.12,Verified
+7/12/16,7/12/16,After Market,9:40:00 PM CDT,ADTN,Q2,0.187,0.25,Verified
+7/13/16,,After Market,,ATNY,Q2,<empty>,<empty>,Unconfirmed
+7/13/16,7/13/16,Before Market,5:00:00 AM CDT,ANGO,Q4,0.163,0.19,Verified
+7/13/16,7/13/16,Before Market,6:00:00 AM CDT,CBSH,Q2,0.685,0.7,Verified
+7/13/16,7/13/16,Before Market,7:00:00 AM CDT,IPCI,Q2,<empty>,-0.08,Verified
+7/13/16,7/13/16,During Market,9:06:00 AM CDT,HIFS,Q2,<empty>,2.73,Verified
+7/13/16,7/13/16,During Market,10:53:00 AM CDT,WINA,Q2,<empty>,1.25,Verified
+7/13/16,7/13/16,During Market,1:57:00 PM CDT,CSX,Q2,0.44,0.47,Verified
+7/13/16,7/13/16,After Market,3:08:00 PM CDT,AROPQ,Q1,-0.385,-0.73,Verified
+7/13/16,7/13/16,After Market,3:12:00 PM CDT,SAR,Q1,<empty>,0.46,Verified
+7/13/16,7/13/16,After Market,3:15:00 PM CDT,YUM,Q2,0.744,0.75,Verified
+7/14/16,,Before Market,,TSM,Q2,0.42,0.43,Verified
+7/14/16,,Before Market,,WAFD,Q3,0.433,0.47,Verified
+7/14/16,7/14/16,Before Market,5:00:00 AM CDT,WNS,Q1,0.36,0.45,Verified
+7/14/16,7/14/16,Before Market,5:30:00 AM CDT,BLK,Q2,4.79,4.78,Verified
+7/14/16,7/14/16,Before Market,5:40:00 AM CDT,OMC,Q2,1.338,1.36,Verified
+7/14/16,7/14/16,Before Market,5:43:00 AM CDT,JPM,Q2,1.428,1.55,Verified
+7/14/16,7/14/16,Before Market,6:00:00 AM CDT,DAL,Q2,1.433,1.47,Verified
+7/14/16,7/14/16,Before Market,6:00:00 AM CDT,MYCC,Q2,0.117,0.08,Verified
+7/14/16,7/14/16,Before Market,6:30:00 AM CDT,SKIS,Q4,0.64,0.5,Verified
+7/14/16,7/14/16,Before Market,7:00:00 AM CDT,FRC,Q2,0.921,0.97,Verified
+7/14/16,7/14/16,Before Market,7:15:00 AM CDT,CPAH,Q4,-0.05,-0.18,Verified
+7/14/16,7/14/16,Before Market,7:22:00 AM CDT,PGR,Q2,0.318,0.33,Verified
+7/14/16,7/14/16,During Market,8:46:00 AM CDT,BKSC,Q2,<empty>,0.26,Verified
+7/14/16,7/14/16,After Market,3:01:00 PM CDT,SLP,Q3,0.12,0.11,Verified
+7/14/16,7/14/16,After Market,3:05:00 PM CDT,CIDM,Q4,-1.25,-0.95,Verified
+7/14/16,7/14/16,After Market,3:05:00 PM CDT,PPHM,Q4,-0.033,-0.05,Verified
+7/14/16,7/14/16,After Market,3:05:00 PM CDT,RECN,Q4,0.21,0.23,Verified
+7/14/16,7/14/16,After Market,3:15:00 PM CDT,PLG,Q3,<empty>,<empty>,Verified
+7/14/16,7/14/16,After Market,3:31:00 PM CDT,GLDC,Q4,<empty>,0.08,Verified
+7/14/16,7/14/16,After Market,4:28:00 PM CDT,UBFO,Q2,<empty>,0.12,Verified
+7/14/16,7/14/16,After Market,4:36:00 PM CDT,FIZZ,Q4,<empty>,<empty>,Verified
+7/14/16,7/14/16,After Market,4:42:00 PM CDT,TRX,Q3,<empty>,-0.007,Verified
+7/14/16,7/14/16,After Market,4:45:00 PM CDT,FBRC,Q2,0.11,-1.08,Verified
+7/15/16,,Before Market,,KUTV,Q1,<empty>,<empty>,Unconfirmed
+7/15/16,7/15/16,Before Market,1:46:00 AM CDT,INFY,Q1,0.227,0.22,Verified
+7/15/16,7/15/16,Before Market,5:34:00 AM CDT,PNC,Q2,1.749,1.68,Verified
+7/15/16,7/15/16,Before Market,5:45:00 AM CDT,USB,Q2,0.808,0.83,Verified
+7/15/16,7/15/16,Before Market,5:50:00 AM CDT,FHN,Q2,0.228,0.24,Verified
+7/15/16,7/15/16,Unspecified,6:00:00 AM CDT,ANCX,Q2,0.405,0.46,Verified
+7/15/16,7/15/16,Before Market,6:00:00 AM CDT,PACW,Q2,0.722,0.68,Verified
+7/15/16,7/15/16,Before Market,6:59:00 AM CDT,C,Q2,1.093,1.24,Verified
+7/15/16,7/15/16,Before Market,7:00:00 AM CDT,WFC,Q2,1.018,1.01,Verified
+7/15/16,7/15/16,During Market,10:30:00 AM CDT,ARTW,Q2,<empty>,-0.01,Verified
+7/15/16,7/15/16,After Market,3:16:00 PM CDT,CAW,Q2,<empty>,0.06,Verified
+7/15/16,7/15/16,After Market,4:03:00 PM CDT,VALU,Q4,<empty>,<empty>,Verified
+7/18/16,7/18/16,Before Market,5:30:00 AM CDT,CALM,Q4,-0.195,-0.01,Verified
+7/18/16,7/18/16,Before Market,5:30:00 AM CDT,HAS,Q2,0.389,0.41,Verified
+7/18/16,7/18/16,Before Market,5:50:00 AM CDT,BAC,Q2,0.336,0.36,Verified
+7/18/16,7/18/16,Before Market,6:32:00 AM CDT,JBHT,Q2,0.96,0.92,Verified
+7/18/16,7/18/16,Before Market,7:00:00 AM CDT,LII,Q2,2.347,2.53,Verified
+7/18/16,7/18/16,Before Market,7:45:00 AM CDT,SCHW,Q2,0.3,0.3,Verified
+7/18/16,7/18/16,After Market,3:01:00 PM CDT,NFLX,Q2,0.022,0.09,Verified
+7/18/16,7/18/16,After Market,3:01:00 PM CDT,SFBS,Q2,0.67,0.71,Verified
+7/18/16,7/18/16,After Market,3:05:00 PM CDT,BBCN,Q2,0.313,0.29,Verified
+7/18/16,7/18/16,After Market,3:05:00 PM CDT,RMBS,Q2,0.1,0.15,Verified
+7/18/16,7/18/16,After Market,3:09:00 PM CDT,IBM,Q2,2.889,2.95,Verified
+7/18/16,7/18/16,After Market,3:15:00 PM CDT,VMW,Q2,0.69,0.97,Verified
+7/18/16,7/18/16,After Market,3:16:00 PM CDT,ELS,Q2,0.74,0.75,Verified
+7/18/16,7/18/16,After Market,3:18:00 PM CDT,EMC,Q2,0.32,0.45,Verified
+7/18/16,7/18/16,After Market,3:45:00 PM CDT,YHOO,Q2,0.024,0.09,Verified
+7/18/16,7/18/16,After Market,3:57:00 PM CDT,IEX,Q2,0.925,0.99,Verified
+7/18/16,7/18/16,After Market,4:00:00 PM CDT,BRO,Q2,0.44,0.49,Verified
+7/18/16,7/18/16,After Market,4:42:00 PM CDT,WIBC,Q2,0.2,0.22,Verified
+7/18/16,7/18/16,After Market,5:00:00 PM CDT,FDEF,Q2,0.71,0.8,Verified
+7/18/16,7/18/16,After Market,5:00:00 PM CDT,STLD,Q2,0.562,0.58,Verified
+7/18/16,7/18/16,After Market,8:15:00 PM CDT,AGR,Q2,0.495,0.32,Verified
+7/19/16,,After Market,,HTS,Q2,<empty>,<empty>,Unconfirmed
+7/19/16,,Before Market,,NVS,Q2,1.178,1.23,Verified
+7/19/16,,Before Market,,TELNY,Q2,0.11,<empty>,Verified
+7/19/16,,Before Market,,VLVLY,Q2,0.21,0.113,Verified
+7/19/16,,Before Market,,WIT,Q1,0.12,0.124,Verified
+7/19/16,7/19/16,Before Market,12:14:00 AM CDT,AKZOY,Q2,<empty>,<empty>,Verified
+7/19/16,7/19/16,Before Market,12:29:00 AM CDT,ERIC,Q2,0.133,0.096,Verified
+7/19/16,7/19/16,Before Market,4:55:00 AM CDT,UNH,Q2,1.889,1.96,Verified
+7/19/16,7/19/16,Before Market,5:00:00 AM CDT,RF,Q2,0.204,0.2,Verified
+7/19/16,7/19/16,Before Market,5:01:00 AM CDT,MBWM,Q2,0.41,0.46,Verified
+7/19/16,7/19/16,Before Market,5:30:00 AM CDT,SNV,Q2,0.467,0.49,Verified
+7/19/16,7/19/16,Before Market,5:40:00 AM CDT,CMA,Q2,0.684,0.58,Verified
+7/19/16,7/19/16,Before Market,5:40:00 AM CDT,JNJ,Q2,1.675,1.74,Verified
+7/19/16,7/19/16,Before Market,5:45:00 AM CDT,MTG,Q2,0.198,0.26,Verified
+7/19/16,7/19/16,Before Market,5:59:00 AM CDT,PM,Q2,1.207,1.15,Verified
+7/19/16,7/19/16,Before Market,6:25:00 AM CDT,LMT,Q2,2.92,3.32,Verified
+7/19/16,7/19/16,Before Market,6:30:00 AM CDT,AMTD,Q3,0.386,0.45,Verified
+7/19/16,7/19/16,Before Market,6:30:00 AM CDT,BDC,Q2,1.26,1.54,Verified
+7/19/16,7/19/16,Before Market,6:30:00 AM CDT,GWW,Q2,3.156,2.79,Verified
+7/19/16,7/19/16,Before Market,6:36:00 AM CDT,GS,Q2,3.013,3.72,Verified
+7/19/16,7/19/16,Before Market,7:00:00 AM CDT,ASRV,Q2,<empty>,0.07,Verified
+7/19/16,7/19/16,Before Market,7:00:00 AM CDT,KSU,Q2,1.042,1.22,Verified
+7/19/16,7/19/16,Before Market,7:00:00 AM CDT,PLD,Q2,0.588,0.6,Verified
+7/19/16,7/19/16,Before Market,7:00:00 AM CDT,TTS,Q2,0.134,0.14,Verified
+7/19/16,7/19/16,Before Market,7:30:00 AM CDT,GPC,Q2,1.298,1.28,Verified
+7/19/16,7/19/16,Before Market,7:30:00 AM CDT,HAFC,Q2,0.422,0.44,Verified
+7/19/16,7/19/16,Before Market,7:45:00 AM CDT,NEOG,Q4,0.26,0.26,Verified
+7/19/16,7/19/16,After Market,3:00:00 PM CDT,RLI,Q2,0.625,0.61,Verified
+7/19/16,7/19/16,After Market,3:00:00 PM CDT,SRPT,Q2,-1.192,-1.19,Verified
+7/19/16,7/19/16,After Market,3:01:00 PM CDT,IBKR,Q2,0.35,0.36,Verified
+7/19/16,7/19/16,After Market,3:01:00 PM CDT,IVTY,Q2,-0.808,-0.76,Verified
+7/19/16,7/19/16,After Market,3:01:00 PM CDT,MRTN,Q2,0.253,0.26,Verified
+7/19/16,7/19/16,After Market,3:05:00 PM CDT,AWH,Q2,0.435,0.91,Verified
+7/19/16,7/19/16,After Market,3:05:00 PM CDT,EXPO,Q2,0.427,0.38,Verified
+7/19/16,7/19/16,After Market,3:05:00 PM CDT,ISRG,Q2,4.207,5.62,Verified
+7/19/16,7/19/16,After Market,3:05:00 PM CDT,LSBG,Q2,<empty>,0.28,Verified
+7/19/16,7/19/16,After Market,3:05:00 PM CDT,MANH,Q2,0.41,0.49,Verified
+7/19/16,7/19/16,After Market,3:06:00 PM CDT,MSFT,Q4,0.576,0.69,Verified
+7/19/16,7/19/16,After Market,3:10:00 PM CDT,UCFC,Q2,0.1,0.112,Verified
+7/19/16,7/19/16,After Market,3:10:00 PM CDT,WSBC,Q2,0.557,0.59,Verified
+7/19/16,7/19/16,After Market,3:15:00 PM CDT,CTAS,Q4,1.015,1.08,Verified
+7/19/16,7/19/16,After Market,3:15:00 PM CDT,LTXB,Q2,0.448,0.5,Verified
+7/19/16,7/19/16,After Market,3:15:00 PM CDT,PZN,Q2,<empty>,0.1,Verified
+7/19/16,7/19/16,After Market,3:15:00 PM CDT,UAL,Q2,2.554,2.61,Verified
+7/19/16,7/19/16,After Market,3:18:00 PM CDT,DFS,Q2,1.419,1.47,Verified
+7/19/16,7/19/16,After Market,3:30:00 PM CDT,FULT,Q2,0.22,0.23,Verified
+7/19/16,7/19/16,After Market,3:30:00 PM CDT,PTIE,Q2,<empty>,-0.07,Verified
+7/19/16,7/19/16,After Market,3:38:00 PM CDT,NAVI,Q2,0.45,0.47,Verified
+7/19/16,7/19/16,After Market,3:39:00 PM CDT,WTFC,Q2,0.862,0.9,Verified
+7/19/16,7/19/16,After Market,3:51:00 PM CDT,UBNK,Q2,0.25,0.2,Verified
+7/19/16,7/19/16,After Market,4:00:00 PM CDT,HAWK,Q2,0.27,0.37,Verified
+7/19/16,7/19/16,After Market,4:05:00 PM CDT,RNST,Q2,0.57,0.59,Verified
+7/19/16,7/19/16,After Market,4:15:00 PM CDT,OKSB,Q2,0.24,0.28,Verified
+7/25/16,7/19/16,After Market,4:26:00 PM CDT,CYDY,Q4,<empty>,<empty>,Unconfirmed
+7/19/16,7/19/16,After Market,4:30:00 PM CDT,PNFP,Q2,0.743,0.75,Verified
+7/19/16,7/19/16,After Market,5:00:00 PM CDT,FMBI,Q2,0.302,0.32,Verified
+7/19/16,7/19/16,After Market,6:05:00 PM CDT,HLX,Q2,-0.152,-0.1,Verified
+7/20/16,,After Market,,AFOP,Q2,<empty>,<empty>,Unconfirmed
+7/20/16,,Before Market,,ASML,Q2,0.87,0.913,Verified
+7/20/16,,Before Market,,ELUXY,Q2,<empty>,<empty>,Unconfirmed
+7/20/16,,After Market,,INTC,Q2,0.533,0.59,Verified
+7/20/16,,After Market,,RJF,Q3,0.88,0.93,Verified
+7/20/16,,Before Market,,SYT,Q3,<empty>,<empty>,Unconfirmed
+7/20/16,7/20/16,Before Market,12:20:00 AM CDT,SAP,Q2,0.775,0.902,Verified
+7/20/16,7/20/16,Before Market,3:00:00 AM CDT,EDU,Q4,<empty>,0.29,Verified
+7/20/16,7/20/16,Before Market,4:00:00 AM CDT,SBNY,Q2,1.975,1.9,Verified
+7/20/16,7/20/16,Before Market,5:00:00 AM CDT,JAKK,Q2,-0.303,-0.27,Verified
+7/20/16,7/20/16,Before Market,5:00:00 AM CDT,PII,Q2,1.069,1.09,Verified
+7/20/16,7/20/16,Before Market,5:00:00 AM CDT,PPBI,Q2,0.42,0.37,Verified
+7/20/16,7/20/16,Before Market,5:00:00 AM CDT,TEL,Q3,1.036,1.08,Verified
+7/20/16,7/20/16,Before Market,5:30:00 AM CDT,MDSO,Q2,0.085,0.24,Verified
+7/20/16,7/20/16,Before Market,5:30:00 AM CDT,WBC,Q2,1.396,1.43,Verified
+7/20/16,7/20/16,Before Market,5:45:00 AM CDT,BKU,Q2,0.506,0.52,Verified
+7/20/16,7/20/16,Before Market,5:50:00 AM CDT,HAL,Q2,-0.192,-0.14,Verified
+7/20/16,7/20/16,Before Market,5:51:00 AM CDT,MTB,Q2,2.084,2.07,Verified
+7/20/16,7/20/16,Before Market,5:55:00 AM CDT,MS,Q2,0.601,0.75,Verified
+7/20/16,7/20/16,Before Market,6:00:00 AM CDT,BABY,Q2,0.357,0.39,Verified
+7/20/16,7/20/16,Before Market,6:00:00 AM CDT,OLBK,Q2,0.283,0.28,Verified
+7/20/16,7/20/16,Before Market,6:00:00 AM CDT,SCL,Q2,1.17,1.31,Verified
+7/20/16,7/20/16,Before Market,6:00:00 AM CDT,TUP,Q2,1.107,1.16,Verified
+7/20/16,7/20/16,Before Market,6:15:00 AM CDT,STJ,Q2,1.056,1.06,Verified
+7/20/16,7/20/16,Before Market,6:30:00 AM CDT,NTRS,Q2,1.05,1.09,Verified
+7/20/16,7/20/16,Before Market,6:30:00 AM CDT,WBS,Q2,0.518,0.53,Verified
+7/20/16,7/20/16,Before Market,6:45:00 AM CDT,ABT,Q2,0.529,0.55,Verified
+7/20/16,7/20/16,Before Market,7:00:00 AM CDT,APH,Q2,0.628,0.65,Verified
+7/20/16,7/20/16,Before Market,7:02:00 AM CDT,ITW,Q2,1.399,1.46,Verified
+7/20/16,7/20/16,Before Market,7:14:00 AM CDT,SIFY,Q1,<empty>,<empty>,Verified
+7/20/16,7/20/16,Before Market,7:30:00 AM CDT,CP,Q2,1.559,1.569,Verified
+7/20/16,7/20/16,Before Market,7:54:00 AM CDT,CTBI,Q2,0.68,0.66,Verified
+7/20/16,7/20/16,Before Market,7:55:00 AM CDT,FCCO,Q2,0.235,0.26,Verified
+7/20/16,7/20/16,During Market,9:00:00 AM CDT,CBAN,Q2,<empty>,0.21,Verified
+7/20/16,7/20/16,During Market,9:55:00 AM CDT,HARL,Q3,<empty>,0.36,Verified
+7/20/16,7/20/16,During Market,11:13:00 AM CDT,CFNL,Q2,0.357,0.42,Verified
+7/20/16,7/20/16,During Market,11:36:00 AM CDT,AROW,Q2,<empty>,0.51,Verified
+7/20/16,7/20/16,During Market,12:30:00 PM CDT,UNB,Q2,<empty>,0.48,Verified
+7/20/16,7/20/16,During Market,2:53:00 PM CDT,OVLY,Q2,<empty>,0.24,Verified
+7/20/16,7/20/16,After Market,3:00:00 PM CDT,CVCY,Q2,0.26,0.55,Verified
+7/20/16,7/20/16,After Market,3:00:00 PM CDT,QCRH,Q2,0.517,0.55,Verified
+7/20/16,7/20/16,After Market,3:01:00 PM CDT,BNCN,Q2,0.39,0.41,Verified
+7/20/16,7/20/16,After Market,3:01:00 PM CDT,EGP,Q2,0.99,0.99,Verified
+7/20/16,7/20/16,After Market,3:01:00 PM CDT,TSCO,Q2,1.156,1.16,Verified
+7/20/16,7/20/16,After Market,3:02:00 PM CDT,EGBN,Q2,0.67,0.71,Verified
+7/20/16,7/20/16,After Market,3:02:00 PM CDT,PLXS,Q3,0.757,0.82,Verified
+7/20/16,7/20/16,After Market,3:03:00 PM CDT,TCBI,Q2,0.763,0.78,Verified
+7/20/16,7/20/16,After Market,3:05:00 PM CDT,AXP,Q2,1.924,2.1,Verified
+7/20/16,7/20/16,After Market,3:05:00 PM CDT,BKFS,Q2,0.277,0.29,Verified
+7/20/16,7/20/16,After Market,3:05:00 PM CDT,BPFH,Q2,0.185,0.18,Verified
+7/20/16,7/20/16,After Market,3:05:00 PM CDT,FFIV,Q3,1.382,1.81,Verified
+7/20/16,7/20/16,After Market,3:05:00 PM CDT,FMNB,Q2,0.18,0.19,Verified
+7/20/16,7/20/16,After Market,3:05:00 PM CDT,KMI,Q2,0.154,0.15,Verified
+7/20/16,7/20/16,After Market,3:05:00 PM CDT,MAT,Q2,-0.056,-0.02,Verified
+7/20/16,7/20/16,After Market,3:05:00 PM CDT,MCRI,Q2,0.33,0.32,Verified
+7/20/16,7/20/16,After Market,3:05:00 PM CDT,MLNX,Q2,0.55,0.87,Verified
+7/20/16,7/20/16,After Market,3:05:00 PM CDT,PTC,Q3,0.203,0.26,Verified
+7/20/16,7/20/16,After Market,3:05:00 PM CDT,SCSS,Q2,0.011,0.03,Verified
+7/20/16,7/20/16,After Market,3:05:00 PM CDT,TACO,Q2,0.12,0.13,Verified
+7/20/16,7/20/16,After Market,3:05:00 PM CDT,TBI,Q2,0.43,0.51,Verified
+7/20/16,7/20/16,After Market,3:05:00 PM CDT,UFPI,Q2,1.44,1.64,Verified
+7/20/16,7/20/16,After Market,3:05:00 PM CDT,WWD,Q3,0.76,0.81,Verified
+7/20/16,7/20/16,After Market,3:07:00 PM CDT,QCOM,Q3,0.829,1.16,Verified
+7/20/16,7/20/16,After Market,3:10:00 PM CDT,GBNK,Q2,0.285,0.27,Verified
+7/20/16,7/20/16,After Market,3:10:00 PM CDT,GGG,Q2,0.994,0.89,Verified
+7/20/16,7/20/16,After Market,3:10:00 PM CDT,PKBK,Q2,<empty>,0.97,Verified
+7/20/16,7/20/16,After Market,3:10:00 PM CDT,URI,Q2,1.825,2.06,Verified
+7/20/16,7/20/16,After Market,3:12:00 PM CDT,IMAX,Q2,0.1,0.18,Verified
+7/20/16,7/20/16,After Market,3:13:00 PM CDT,BMI,Q2,0.665,0.65,Verified
+7/20/16,7/20/16,After Market,3:15:00 PM CDT,BDN,Q2,0.314,0.32,Verified
+7/20/16,7/20/16,After Market,3:15:00 PM CDT,BKMU,Q2,0.08,0.09,Verified
+7/20/16,7/20/16,After Market,3:15:00 PM CDT,CUBI,Q2,0.59,0.6,Verified
+7/20/16,7/20/16,After Market,3:15:00 PM CDT,DWCH,Q3,-0.28,-0.25,Verified
+7/20/16,7/20/16,After Market,3:15:00 PM CDT,EBAY,Q2,0.356,0.43,Verified
+7/20/16,7/20/16,After Market,3:15:00 PM CDT,FNF,Q2,0.647,0.74,Verified
+7/20/16,7/20/16,After Market,3:15:00 PM CDT,FNFV,Q2,0.01,0.06,Verified
+7/20/16,7/20/16,After Market,3:15:00 PM CDT,FNLC,Q2,<empty>,0.43,Verified
+7/20/16,7/20/16,After Market,3:15:00 PM CDT,FTI,Q2,0.297,0.22,Verified
+7/20/16,7/20/16,After Market,3:15:00 PM CDT,HXL,Q2,0.644,0.7,Verified
+7/20/16,7/20/16,After Market,3:15:00 PM CDT,LHO,Q2,0.957,0.92,Verified
+7/20/16,7/20/16,After Market,3:15:00 PM CDT,LSTR,Q2,0.815,0.76,Verified
+7/20/16,7/20/16,After Market,3:15:00 PM CDT,NEM,Q2,0.276,0.44,Verified
+7/20/16,7/20/16,After Market,3:15:00 PM CDT,PFBC,Q2,0.587,0.61,Verified
+7/20/16,7/20/16,After Market,3:15:00 PM CDT,UMPQ,Q2,0.292,0.31,Verified
+7/20/16,7/20/16,After Market,3:16:00 PM CDT,CBU,Q2,0.56,0.58,Verified
+7/20/16,7/20/16,After Market,3:20:00 PM CDT,CTO,Q2,<empty>,0.28,Verified
+7/20/16,7/20/16,After Market,3:24:00 PM CDT,NVEC,Q1,0.54,0.65,Verified
+7/20/16,7/20/16,After Market,3:25:00 PM CDT,TSC,Q2,0.22,0.24,Verified
+7/20/16,7/20/16,After Market,3:30:00 PM CDT,BXS,Q2,0.394,0.39,Verified
+7/20/16,7/20/16,After Market,3:30:00 PM CDT,CATY,Q2,0.43,0.44,Verified
+7/20/16,7/20/16,After Market,3:30:00 PM CDT,KALU,Q2,1.42,1.02,Verified
+7/20/16,7/20/16,After Market,3:30:00 PM CDT,SLM,Q2,0.11,0.12,Verified
+7/20/16,7/20/16,After Market,3:31:00 PM CDT,PCBK,Q2,0.287,0.13,Verified
+7/20/16,7/20/16,After Market,3:43:00 PM CDT,CNS,Q2,0.5,0.46,Verified
+7/20/16,7/20/16,After Market,3:44:00 PM CDT,RELL,Q4,<empty>,-0.01,Verified
+7/20/16,7/20/16,After Market,3:45:00 PM CDT,CVLY,Q2,<empty>,0.38,Verified
+7/20/16,7/20/16,After Market,3:48:00 PM CDT,OFLX,Q2,<empty>,0.37,Unconfirmed
+7/20/16,7/20/16,After Market,3:57:00 PM CDT,FBNK,Q2,0.225,0.24,Verified
+7/20/16,7/20/16,After Market,4:00:00 PM CDT,BRKL,Q2,0.19,0.18,Verified
+7/20/16,7/20/16,After Market,4:00:00 PM CDT,EWBC,Q2,0.69,0.71,Verified
+7/20/16,7/20/16,After Market,4:00:00 PM CDT,HBHC,Q2,0.442,0.59,Verified
+7/20/16,7/20/16,After Market,4:02:00 PM CDT,CCK,Q2,1.1,1.19,Verified
+7/20/16,7/20/16,After Market,4:09:00 PM CDT,ASR,Q2,1.513,1.564,Verified
+7/20/16,7/20/16,After Market,4:20:00 PM CDT,PKG,Q2,1.18,1.25,Verified
+7/20/16,7/20/16,After Market,4:24:00 PM CDT,SLG,Q2,3.177,3.41,Verified
+7/20/16,7/20/16,After Market,4:25:00 PM CDT,CLB,Q2,0.353,0.35,Verified
+7/20/16,7/20/16,After Market,4:30:00 PM CDT,VMI,Q2,1.74,1.85,Verified
+7/20/16,7/20/16,After Market,5:01:00 PM CDT,CVBF,Q2,0.248,0.23,Verified
+7/20/16,7/20/16,After Market,5:06:00 PM CDT,MSA,Q2,0.723,0.79,Verified
+7/20/16,7/20/16,After Market,5:33:00 PM CDT,ESND,Q2,0.82,0.55,Verified
+7/20/16,7/20/16,After Market,6:00:00 PM CDT,GSBC,Q2,0.795,0.89,Verified
+7/20/16,7/20/16,After Market,6:32:00 PM CDT,AMBZ,Q2,<empty>,0.3,Verified
+7/20/16,7/20/16,After Market,7:00:00 PM CDT,FFKT,Q2,0.43,0.47,Verified
+7/20/16,7/20/16,After Market,7:47:00 PM CDT,SFNC,Q2,0.805,0.82,Verified
+7/20/16,7/20/16,After Market,10:08:00 PM CDT,MBFI,Q2,0.558,0.58,Verified
+7/21/16,,Before Market,,ABB,Q2,0.247,0.35,Verified
+7/21/16,,After Market,,AVNU,Q2,<empty>,<empty>,Unconfirmed
+7/21/16,,Before Market,,BX,Q2,0.397,0.3,Verified
+7/21/16,,Unspecified,,DASTY,Q2,0.56,0.628,Verified
+7/21/16,,Before Market,,GMT,Q2,<empty>,<empty>,Unconfirmed
+7/21/16,,Unspecified,,HDB,Q1,0.57,<empty>,Verified
+7/21/16,,After Market,,HERO,Q2,<empty>,<empty>,Unconfirmed
+7/21/16,,Before Market,,MNRK,Q2,<empty>,<empty>,Unconfirmed
+7/21/16,,After Market,,MORN,Q2,<empty>,0.73,Verified
+7/21/16,,Before Market,,MXCYY,Q2,<empty>,<empty>,Verified
+7/21/16,,Before Market,,PGSVY,Q2,<empty>,-0.22,Verified
+7/21/16,,Before Market,,PKX,Q2,<empty>,<empty>,Verified
+7/21/16,,Before Market,,PUBGY,Q1,<empty>,<empty>,Verified
+7/21/16,,Unspecified,,QIHU,Q1,<empty>,<empty>,Unconfirmed
+7/21/16,,Before Market,,SEOAY,Q2,0.2,0.132,Verified
+7/21/16,,During Market,,UACL,Q2,<empty>,<empty>,Unconfirmed
+7/21/16,,Before Market,,UL,Q1,<empty>,<empty>,Verified
+7/21/16,,Before Market,,UN,Q1,<empty>,<empty>,Verified
+7/21/16,7/21/16,Before Market,12:05:00 AM CDT,NHYDY,Q2,<empty>,0.061,Verified
+7/21/16,7/21/16,Before Market,1:31:00 AM CDT,MIICF,Q2,<empty>,0.04,Verified
+7/21/16,7/21/16,Before Market,4:13:00 AM CDT,DDAIF,Q2,<empty>,2.501,Verified
+7/21/16,7/21/16,Before Market,4:45:00 AM CDT,BBT,Q2,0.648,0.71,Verified
+7/21/16,7/21/16,Before Market,5:00:00 AM CDT,BANC,Q2,0.407,0.46,Verified
+7/21/16,7/21/16,Before Market,5:00:00 AM CDT,DFRG,Q2,0.186,0.19,Verified
+7/21/16,7/21/16,Before Market,5:00:00 AM CDT,DHI,Q3,0.662,0.66,Verified
+7/21/16,7/21/16,Before Market,5:00:00 AM CDT,DNKN,Q2,0.555,0.57,Verified
+7/21/16,7/21/16,Before Market,5:00:00 AM CDT,ECA,Q2,-0.083,0.1,Verified
+7/21/16,7/21/16,Before Market,5:06:00 AM CDT,DISH,Q2,0.74,0.88,Verified
+7/21/16,7/21/16,Before Market,5:15:00 AM CDT,STC,Q2,0.86,1,Verified
+7/21/16,7/21/16,Before Market,5:18:00 AM CDT,KB,Q2,<empty>,<empty>,Verified
+7/21/16,7/21/16,Before Market,5:30:00 AM CDT,BK,Q2,0.754,0.76,Verified
+7/21/16,7/21/16,Before Market,5:30:00 AM CDT,CBF,Q2,0.38,0.42,Verified
+7/21/16,7/21/16,Before Market,5:30:00 AM CDT,DST,Q2,1.25,1.58,Verified
+7/21/16,7/21/16,Before Market,5:30:00 AM CDT,IIIN,Q3,<empty>,0.71,Verified
+7/21/16,7/21/16,Before Market,5:30:00 AM CDT,LUV,Q2,1.22,1.19,Verified
+7/21/16,7/21/16,Before Market,5:30:00 AM CDT,PHM,Q2,0.33,0.34,Verified
+7/21/16,7/21/16,Before Market,5:30:00 AM CDT,SNA,Q2,2.222,2.36,Verified
+7/21/16,7/21/16,Before Market,5:40:00 AM CDT,DOV,Q2,0.858,0.76,Verified
+7/21/16,7/21/16,Before Market,5:45:00 AM CDT,DGX,Q2,1.315,1.34,Verified
+7/21/16,7/21/16,Before Market,5:45:00 AM CDT,FAF,Q2,0.81,0.92,Verified
+7/21/16,7/21/16,Before Market,5:45:00 AM CDT,SON,Q2,0.681,0.55,Verified
+7/21/16,7/21/16,Before Market,5:46:00 AM CDT,UTL,Q2,0.13,0.18,Verified
+7/21/16,7/21/16,Before Market,5:50:00 AM CDT,ADPT,Q2,0.48,0.48,Verified
+7/21/16,7/21/16,Before Market,5:50:00 AM CDT,CFG,Q2,0.433,0.46,Verified
+7/21/16,7/21/16,Before Market,5:50:00 AM CDT,RS,Q2,1.313,1.36,Verified
+7/21/16,7/21/16,Before Market,5:51:00 AM CDT,PPG,Q2,1.841,1.85,Verified
+7/21/16,7/21/16,Before Market,5:55:00 AM CDT,HBAN,Q2,0.208,0.19,Verified
+7/21/16,7/21/16,Before Market,5:55:00 AM CDT,JCI,Q3,1.03,1.07,Verified
+7/21/16,7/21/16,Before Market,5:57:00 AM CDT,TRV,Q2,2.106,2.24,Verified
+7/21/16,7/21/16,Before Market,5:59:00 AM CDT,DAN,Q2,0.468,0.53,Verified
+7/21/16,7/21/16,Before Market,6:00:00 AM CDT,BHE,Q2,0.33,0.31,Verified
+7/21/16,7/21/16,Before Market,6:00:00 AM CDT,BIIB,Q2,4.693,5.21,Verified
+7/21/16,7/21/16,Before Market,6:00:00 AM CDT,IPG,Q2,0.33,0.38,Verified
+7/21/16,7/21/16,Before Market,6:00:00 AM CDT,KCG,Q2,0.338,0.38,Verified
+7/21/16,7/21/16,Before Market,6:00:00 AM CDT,NURO,Q2,-0.93,-5.37,Verified
+7/21/16,7/21/16,Before Market,6:00:00 AM CDT,POOL,Q2,1.91,1.98,Verified
+7/21/16,7/21/16,Before Market,6:00:00 AM CDT,SASR,Q2,0.45,0.44,Verified
+7/21/16,7/21/16,Before Market,6:00:00 AM CDT,SCHL,Q4,0.995,1.22,Verified
+7/21/16,7/21/16,Before Market,6:00:00 AM CDT,SGC,Q2,<empty>,0.21,Verified
+7/21/16,7/21/16,Before Market,6:00:00 AM CDT,SHW,Q2,4.174,3.99,Verified
+7/21/16,7/21/16,Before Market,6:05:00 AM CDT,AIMC,Q2,0.393,0.42,Verified
+7/21/16,7/21/16,Before Market,6:15:00 AM CDT,CAMT,Q2,0.02,0.04,Verified
+7/21/16,7/21/16,Before Market,6:30:00 AM CDT,ADS,Q2,3.321,1.24,Verified
+7/21/16,7/21/16,Before Market,6:30:00 AM CDT,DPZ,Q2,0.928,0.98,Verified
+7/21/16,7/21/16,Before Market,6:30:00 AM CDT,GM,Q2,1.515,1.86,Verified
+7/21/16,7/21/16,Before Market,6:30:00 AM CDT,LAWS,Q2,0.167,0.02,Verified
+7/21/16,7/21/16,Before Market,6:30:00 AM CDT,MAN,Q2,1.524,1.6,Verified
+7/21/16,7/21/16,Before Market,6:30:00 AM CDT,PVTB,Q2,0.624,0.58,Verified
+7/21/16,7/21/16,Before Market,6:30:00 AM CDT,STBA,Q2,0.503,0.46,Verified
+7/21/16,7/21/16,Before Market,7:00:00 AM CDT,ALK,Q2,2.08,2.12,Verified
+7/21/16,7/21/16,Before Market,7:00:00 AM CDT,BSF,Q2,<empty>,0.11,Verified
+7/21/16,7/21/16,Before Market,7:00:00 AM CDT,CASS,Q2,<empty>,0.52,Verified
+7/21/16,7/21/16,Before Market,7:00:00 AM CDT,HFWA,Q2,0.308,0.3,Verified
+7/21/16,7/21/16,Before Market,7:00:00 AM CDT,HOMB,Q2,0.297,0.31,Verified
+7/21/16,7/21/16,Before Market,7:00:00 AM CDT,UNP,Q2,1.166,1.17,Verified
+7/21/16,7/21/16,Before Market,7:00:00 AM CDT,VAC,Q2,1.033,1.08,Verified
+7/21/16,7/21/16,Before Market,7:16:00 AM CDT,ASPS,Q2,1.565,1.58,Verified
+7/21/16,7/21/16,Before Market,7:22:00 AM CDT,TRIB,Q2,0.057,0.085,Verified
+7/21/16,7/21/16,Before Market,7:23:00 AM CDT,FNB,Q2,0.225,0.22,Verified
+7/21/16,7/21/16,Before Market,7:30:00 AM CDT,GATX,Q2,1.235,1.49,Verified
+7/21/16,7/21/16,Before Market,7:30:00 AM CDT,SYNT,Q2,0.647,0.7,Verified
+7/21/16,7/21/16,Before Market,7:35:00 AM CDT,YDKN,Q2,0.4,0.41,Verified
+7/21/16,7/21/16,Before Market,8:00:00 AM CDT,BHBK,Q2,0.07,0.05,Verified
+7/21/16,7/21/16,Before Market,8:00:00 AM CDT,MNI,Q2,-0.54,-1.89,Verified
+7/21/16,7/21/16,Before Market,8:00:00 AM CDT,NUE,Q2,0.697,0.73,Verified
+7/21/16,7/21/16,Before Market,8:00:00 AM CDT,NVR,Q2,27.19,22.01,Verified
+7/21/16,7/21/16,Before Market,8:00:00 AM CDT,UTEK,Q2,0.087,0.23,Verified
+7/21/16,7/21/16,Before Market,8:15:00 AM CDT,AMRB,Q2,0.195,0.19,Verified
+7/21/16,7/21/16,Unspecified,9:47:00 AM CDT,CCNE,Q2,0.38,0.28,Verified
+7/21/16,7/21/16,During Market,9:59:00 AM CDT,WABC,Q2,0.57,0.57,Verified
+7/21/16,7/21/16,Unspecified,10:12:00 AM CDT,SRCE,Q2,0.55,0.56,Verified
+7/21/16,7/21/16,During Market,12:10:00 PM CDT,LION,Q2,0.46,0.26,Verified
+7/21/16,7/21/16,After Market,3:00:00 PM CDT,SYK,Q2,1.361,1.39,Verified
+7/21/16,7/21/16,After Market,3:00:00 PM CDT,TRST,Q2,<empty>,0.109,Verified
+7/21/16,7/21/16,After Market,3:01:00 PM CDT,ABAX,Q1,0.325,0.3,Verified
+7/21/16,7/21/16,After Market,3:01:00 PM CDT,ATHN,Q2,0.156,0.34,Verified
+7/21/16,7/21/16,After Market,3:01:00 PM CDT,EBTC,Q2,<empty>,0.45,Verified
+7/21/16,7/21/16,After Market,3:01:00 PM CDT,HA,Q2,1.14,1.21,Verified
+7/21/16,7/21/16,After Market,3:01:00 PM CDT,MBVT,Q2,0.57,0.61,Verified
+7/21/16,7/21/16,After Market,3:01:00 PM CDT,MXIM,Q4,0.482,0.49,Verified
+7/21/16,7/21/16,After Market,3:01:00 PM CDT,PBCT,Q2,0.222,0.22,Verified
+7/21/16,7/21/16,After Market,3:01:00 PM CDT,SKX,Q2,0.506,0.48,Verified
+7/21/16,7/21/16,After Market,3:01:00 PM CDT,T,Q2,0.717,0.72,Verified
+7/21/16,7/21/16,After Market,3:01:00 PM CDT,TESS,Q1,0.27,0.16,Verified
+7/21/16,7/21/16,After Market,3:02:00 PM CDT,P,Q2,-0.304,-0.12,Verified
+7/21/16,7/21/16,After Market,3:03:00 PM CDT,SWFT,Q2,0.305,0.34,Verified
+7/21/16,7/21/16,After Market,3:04:00 PM CDT,SBUX,Q3,0.487,0.49,Verified
+7/21/16,7/21/16,After Market,3:05:00 PM CDT,AMNB,Q2,0.46,0.47,Verified
+7/21/16,7/21/16,After Market,3:05:00 PM CDT,COF,Q2,1.863,1.76,Verified
+7/21/16,7/21/16,After Market,3:05:00 PM CDT,EGHT,Q1,-0.014,0.06,Verified
+7/21/16,7/21/16,After Market,3:05:00 PM CDT,ETFC,Q2,0.386,0.48,Verified
+7/21/16,7/21/16,After Market,3:05:00 PM CDT,FCB,Q2,0.545,0.56,Verified
+7/21/16,7/21/16,After Market,3:05:00 PM CDT,FFIN,Q2,0.405,0.41,Verified
+7/21/16,7/21/16,After Market,3:05:00 PM CDT,FLEX,Q1,0.24,0.27,Verified
+7/21/16,7/21/16,After Market,3:05:00 PM CDT,FWRD,Q2,0.58,0.57,Verified
+7/21/16,7/21/16,After Market,3:05:00 PM CDT,PFPT,Q2,-0.61,0.06,Verified
+7/21/16,7/21/16,After Market,3:05:00 PM CDT,PLCM,Q2,0.133,0.21,Verified
+7/21/16,7/21/16,After Market,3:05:00 PM CDT,PYPL,Q2,0.295,0.36,Verified
+7/21/16,7/21/16,After Market,3:05:00 PM CDT,WERN,Q2,0.228,0.25,Verified
+7/21/16,7/21/16,After Market,3:06:00 PM CDT,V,Q3,0.669,0.69,Verified
+7/21/16,7/21/16,After Market,3:09:00 PM CDT,SIVB,Q2,1.693,1.78,Verified
+7/21/16,7/21/16,After Market,3:10:00 PM CDT,CMG,Q2,1.019,0.87,Verified
+7/21/16,7/21/16,After Market,3:10:00 PM CDT,SLB,Q2,0.218,0.23,Verified
+7/21/16,7/21/16,After Market,3:10:00 PM CDT,STS,Q2,<empty>,0.48,Verified
+7/21/16,7/21/16,After Market,3:15:00 PM CDT,AMD,Q2,-0.111,-0.05,Verified
+7/21/16,7/21/16,After Market,3:15:00 PM CDT,ASB,Q2,0.303,0.31,Verified
+7/21/16,7/21/16,After Market,3:15:00 PM CDT,BANF,Q2,1.03,1.1,Verified
+7/21/16,7/21/16,After Market,3:15:00 PM CDT,CLS,Q2,0.18,0.29,Verified
+7/21/16,7/21/16,After Market,3:15:00 PM CDT,CLW,Q2,1.17,1.37,Verified
+7/21/16,7/21/16,After Market,3:15:00 PM CDT,FFBC,Q2,0.343,0.36,Verified
+7/21/16,7/21/16,After Market,3:15:00 PM CDT,INDB,Q2,0.76,0.78,Verified
+7/21/16,7/21/16,After Market,3:15:00 PM CDT,SAM,Q2,1.967,2.06,Verified
+7/21/16,7/21/16,After Market,3:15:00 PM CDT,SBFG,Q2,<empty>,0.35,Verified
+7/21/16,7/21/16,After Market,3:15:00 PM CDT,SWKS,Q3,1.115,1.24,Verified
+7/21/16,7/21/16,After Market,3:15:00 PM CDT,TRN,Q2,0.446,0.62,Verified
+7/21/16,7/21/16,After Market,3:15:00 PM CDT,ZHNE,Q2,0,-0.05,Verified
+7/21/16,7/21/16,After Market,3:25:00 PM CDT,BMTC,Q2,0.515,0.53,Verified
+7/21/16,7/21/16,After Market,3:25:00 PM CDT,CCI,Q2,1.1,1.05,Verified
+7/21/16,7/21/16,Unspecified,3:29:00 PM CDT,MPB,Q2,<empty>,0.48,Verified
+7/21/16,7/21/16,After Market,3:30:00 PM CDT,GBCI,Q2,0.412,0.4,Verified
+7/21/16,7/21/16,After Market,3:30:00 PM CDT,HNI,Q2,0.61,0.68,Verified
+7/21/16,7/21/16,After Market,3:30:00 PM CDT,SONA,Q2,0.21,0.23,Verified
+7/21/16,7/21/16,After Market,3:35:00 PM CDT,SHBI,Q2,0.17,0.18,Verified
+7/21/16,7/21/16,After Market,3:45:00 PM CDT,EQBK,Q2,<empty>,0.34,Verified
+7/21/16,7/21/16,After Market,3:46:00 PM CDT,WAL,Q2,0.61,0.62,Verified
+7/21/16,7/21/16,After Market,3:53:00 PM CDT,NBHC,Q2,0.21,0.15,Verified
+7/21/16,7/21/16,After Market,4:00:00 PM CDT,BLMT,Q2,<empty>,0.33,Verified
+7/21/16,7/21/16,After Market,4:00:00 PM CDT,FSBK,Q2,<empty>,0.17,Verified
+7/21/16,7/21/16,After Market,4:02:00 PM CDT,OII,Q2,0.276,0.27,Verified
+7/21/16,7/21/16,After Market,4:25:00 PM CDT,PWOD,Q2,<empty>,0.65,Verified
+7/21/16,7/21/16,After Market,4:27:00 PM CDT,SWN,Q2,-0.105,-0.09,Verified
+7/21/16,7/21/16,After Market,4:29:00 PM CDT,COBZ,Q2,0.18,0.21,Verified
+7/21/16,7/21/16,After Market,5:00:00 PM CDT,SIMO,Q2,0.657,0.86,Verified
+7/21/16,7/21/16,After Market,5:18:00 PM CDT,CPAC,Q2,0.12,<empty>,Verified
+7/21/16,7/21/16,After Market,5:19:00 PM CDT,SXT,Q2,0.79,0.84,Verified
+7/21/16,7/21/16,After Market,5:29:00 PM CDT,DNBF,Q2,0.41,0.47,Verified
+7/21/16,7/21/16,After Market,6:00:00 PM CDT,BAS,Q2,-1.444,-1.34,Verified
+7/22/16,,Before Market,,ALV,Q2,1.726,1.75,Verified
+7/22/16,,During Market,,CHEV,Q2,<empty>,<empty>,Unconfirmed
+7/22/16,,Unspecified,,DHRM,Q3,<empty>,<empty>,Unconfirmed
+7/22/16,,Before Market,,GE,Q2,0.455,0.51,Verified
+7/22/16,,Unspecified,,SYT,Q1,<empty>,<empty>,Verified
+7/22/16,,During Market,,TKAGY,Q2,0.13,<empty>,Verified
+7/22/16,,Before Market,,VOD,Q1,<empty>,<empty>,Unconfirmed
+7/22/16,7/22/16,Before Market,1:21:00 AM CDT,NJ,Q1,<empty>,<empty>,Verified
+7/22/16,7/22/16,Before Market,1:21:00 AM CDT,NJDCY,Q1,<empty>,<empty>,Verified
+7/22/16,7/22/16,Before Market,5:00:00 AM CDT,NWE,Q2,0.558,0.65,Verified
+7/22/16,7/22/16,Before Market,5:00:00 AM CDT,STI,Q2,0.877,0.94,Verified
+7/22/16,7/22/16,Before Market,5:00:00 AM CDT,SWK,Q2,1.719,1.84,Verified
+7/22/16,7/22/16,Before Market,5:00:00 AM CDT,WHR,Q2,3.347,3.5,Verified
+7/22/16,7/22/16,Before Market,5:30:00 AM CDT,HON,Q2,1.638,1.66,Verified
+7/22/16,7/22/16,Before Market,5:30:00 AM CDT,SYF,Q2,0.548,0.58,Verified
+7/22/16,7/22/16,Before Market,5:30:00 AM CDT,TXT,Q2,0.631,0.66,Verified
+7/22/16,7/22/16,Before Market,5:45:00 AM CDT,VLRS,Q2,0.285,0.49,Verified
+7/22/16,7/22/16,Before Market,5:55:00 AM CDT,VFC,Q2,0.337,0.35,Verified
+7/22/16,7/22/16,Before Market,6:00:00 AM CDT,CNOB,Q2,0.313,0.38,Verified
+7/22/16,7/22/16,Before Market,6:00:00 AM CDT,MCO,Q2,1.255,1.3,Verified
+7/22/16,7/22/16,Before Market,6:00:00 AM CDT,SSB,Q2,1.107,1.18,Verified
+7/22/16,7/22/16,Before Market,6:05:00 AM CDT,ABCB,Q2,0.52,0.57,Verified
+7/22/16,7/22/16,Before Market,6:30:00 AM CDT,AAL,Q2,1.651,1.68,Verified
+7/22/16,7/22/16,Before Market,6:30:00 AM CDT,BNCL,Q2,<empty>,0.04,Verified
+7/22/16,7/22/16,Before Market,6:30:00 AM CDT,OFG,Q2,0.255,0.25,Verified
+7/22/16,7/22/16,Before Market,6:30:00 AM CDT,UBSH,Q2,0.407,0.44,Verified
+7/22/16,7/22/16,Before Market,6:30:00 AM CDT,WSO,Q2,2.03,1.82,Verified
+7/22/16,7/22/16,Before Market,7:00:00 AM CDT,GNTX,Q2,0.291,0.3,Verified
+7/22/16,7/22/16,Before Market,7:00:00 AM CDT,KFS,Q2,<empty>,-0.09,Verified
+7/22/16,7/22/16,Before Market,7:00:00 AM CDT,TCB,Q2,0.291,0.31,Verified
+7/22/16,7/22/16,Before Market,7:05:00 AM CDT,RBCAA,Q2,<empty>,0.4,Verified
+7/22/16,7/22/16,Before Market,8:00:00 AM CDT,ACU,Q2,0.81,0.91,Verified
+7/22/16,7/22/16,Before Market,8:00:00 AM CDT,TMP,Q2,<empty>,0.96,Verified
+7/22/16,7/22/16,Before Market,8:15:00 AM CDT,FFNW,Q2,0.15,0.11,Verified
+7/22/16,7/22/16,Before Market,8:25:00 AM CDT,LBAI,Q2,0.24,0.24,Verified
+7/22/16,7/22/16,During Market,10:00:00 AM CDT,BOCH,Q2,0.19,0.11,Verified
+7/22/16,7/22/16,During Market,1:19:00 PM CDT,WSBF,Q2,<empty>,0.29,Verified
+7/22/16,7/22/16,During Market,2:00:00 PM CDT,CBNK,Q2,<empty>,0.04,Verified
+7/22/16,7/22/16,During Market,2:30:00 PM CDT,PFIS,Q2,<empty>,0.62,Verified
+7/22/16,7/22/16,After Market,3:00:00 PM CDT,FBSI,Q2,<empty>,0.11,Verified
+7/22/16,7/22/16,After Market,3:30:00 PM CDT,EMCF,Q2,<empty>,0.43,Verified
+7/22/16,7/22/16,After Market,6:09:00 PM CDT,FBMS,Q2,0.42,0.47,Verified
+7/22/16,7/22/16,After Market,10:30:00 PM CDT,HMNF,Q2,<empty>,0.31,Verified
+7/25/16,,After Market,,DHRM,Q2,<empty>,<empty>,Unconfirmed
+7/25/16,,After Market,,HFFC,Q4,<empty>,<empty>,Unconfirmed
+7/25/16,,Unspecified,,LUX,Q1,<empty>,<empty>,Verified
+7/25/16,7/25/16,Before Market,12:00:00 AM CDT,PHG,Q2,<empty>,0.505,Verified
+7/25/16,,Before Market,,RYAAY,Q1,1.05,<empty>,Verified
+7/25/16,,After Market,,TSU,Q2,0.073,<empty>,Verified
+7/25/16,,After Market,,WCN,Q2,<empty>,<empty>,Unconfirmed
+7/25/16,7/25/16,Before Market,5:00:00 AM CDT,EXP,Q1,0.86,0.93,Verified
+7/25/16,7/25/16,Before Market,5:00:00 AM CDT,SMMF,Q2,<empty>,0.37,Verified
+7/25/16,7/25/16,Before Market,5:00:00 AM CDT,UNTY,Q2,<empty>,0.33,Verified
+7/25/16,7/25/16,Before Market,5:01:00 AM CDT,DHR,Q2,1.092,1.25,Verified
+7/25/16,7/25/16,Before Market,5:30:00 AM CDT,COL,Q3,1.588,1.63,Verified
+7/25/16,7/25/16,Before Market,5:45:00 AM CDT,WAB,Q2,1.074,1,Verified
+7/25/16,7/25/16,Before Market,5:55:00 AM CDT,ROP,Q2,1.607,1.56,Verified
+7/25/16,7/25/16,Before Market,5:58:00 AM CDT,GSS,Q2,-0.005,-0.08,Verified
+7/25/16,7/25/16,Before Market,6:00:00 AM CDT,OPB,Q2,0.65,0.46,Verified
+7/25/16,7/25/16,Before Market,6:30:00 AM CDT,KMB,Q2,1.482,1.53,Verified
+7/25/16,7/25/16,Before Market,6:30:00 AM CDT,LECO,Q2,0.828,0.83,Verified
+7/25/16,7/25/16,Before Market,6:30:00 AM CDT,S,Q1,-0.087,-0.08,Verified
+7/25/16,7/25/16,Before Market,7:00:00 AM CDT,BMRC,Q2,0.8,0.79,Verified
+7/25/16,7/25/16,Before Market,7:00:00 AM CDT,LKFN,Q2,0.717,0.76,Verified
+7/25/16,7/25/16,Before Market,7:00:00 AM CDT,PETS,Q1,0.3,0.32,Verified
+7/25/16,7/25/16,Before Market,7:00:00 AM CDT,PMBC,Q2,<empty>,-0.21,Verified
+7/25/16,7/25/16,Before Market,7:01:00 AM CDT,BSRR,Q2,0.33,0.31,Verified
+7/25/16,7/25/16,Before Market,7:15:00 AM CDT,SILC,Q2,<empty>,0.63,Verified
+7/25/16,7/25/16,Before Market,7:30:00 AM CDT,BOH,Q2,0.938,1.03,Verified
+7/25/16,7/25/16,Before Market,7:30:00 AM CDT,CASH,Q3,0.86,1.04,Verified
+7/25/16,7/25/16,Before Market,8:00:00 AM CDT,EVBS,Q2,0.11,0.11,Verified
+7/25/16,7/25/16,Unspecified,8:00:00 AM CDT,MFSF,Q2,0.37,0.55,Verified
+7/25/16,7/25/16,Before Market,8:00:00 AM CDT,PEBK,Q2,<empty>,0.53,Verified
+7/25/16,7/25/16,Before Market,8:03:00 AM CDT,SCCO,Q2,0.268,0.29,Verified
+7/25/16,7/25/16,During Market,9:41:00 AM CDT,GCBC,Q4,<empty>,0.27,Verified
+7/25/16,7/25/16,During Market,9:45:00 AM CDT,FEIM,Q4,<empty>,-0.01,Verified
+7/25/16,7/25/16,During Market,10:34:00 AM CDT,GLBZ,Q2,<empty>,0.11,Verified
+7/25/16,7/25/16,Unspecified,10:38:00 AM CDT,NWBI,Q2,0.2,-0.07,Unconfirmed
+7/25/16,7/25/16,Unspecified,10:54:00 AM CDT,LUX,Q2,0.71,<empty>,Verified
+7/25/16,7/25/16,During Market,2:15:00 PM CDT,THFF,Q2,0.605,0.68,Verified
+7/25/16,7/25/16,After Market,3:00:00 PM CDT,CSFL,Q2,0.27,0.32,Verified
+7/25/16,7/25/16,After Market,3:00:00 PM CDT,HTLF,Q2,0.77,0.84,Verified
+7/25/16,7/25/16,After Market,3:00:00 PM CDT,JJSF,Q3,1.35,1.43,Verified
+7/25/16,7/25/16,After Market,3:01:00 PM CDT,ACC,Q2,0.528,0.54,Verified
+7/25/16,7/25/16,After Market,3:01:00 PM CDT,ADC,Q2,0.612,0.61,Verified
+7/25/16,7/25/16,After Market,3:01:00 PM CDT,ESRX,Q2,1.574,1.57,Verified
+7/25/16,7/25/16,After Market,3:01:00 PM CDT,MPWR,Q2,0.32,0.54,Verified
+7/25/16,7/25/16,After Market,3:01:00 PM CDT,PEB,Q2,0.75,0.81,Verified
+7/25/16,7/25/16,After Market,3:01:00 PM CDT,WRB,Q2,0.788,0.82,Verified
+7/25/16,7/25/16,After Market,3:03:00 PM CDT,HSII,Q2,0.303,0.35,Verified
+7/25/16,7/25/16,After Market,3:05:00 PM CDT,BRX,Q2,0.496,0.5,Verified
+7/25/16,7/25/16,After Market,3:05:00 PM CDT,CDNS,Q2,0.18,0.29,Verified
+7/25/16,7/25/16,After Market,3:05:00 PM CDT,EFII,Q2,0.28,0.56,Verified
+7/25/16,7/25/16,After Market,3:05:00 PM CDT,GIG,Q2,0.02,0.05,Verified
+7/25/16,7/25/16,After Market,3:05:00 PM CDT,SANM,Q3,0.625,0.63,Verified
+7/25/16,7/25/16,After Market,3:05:00 PM CDT,SMSI,Q2,-0.04,-0.04,Verified
+7/25/16,7/25/16,After Market,3:05:00 PM CDT,VASC,Q2,0.3,0.33,Verified
+7/25/16,7/25/16,After Market,3:05:00 PM CDT,WASH,Q2,<empty>,0.64,Verified
+7/25/16,7/25/16,After Market,3:08:00 PM CDT,GILD,Q2,2.985,3.08,Verified
+7/25/16,7/25/16,After Market,3:10:00 PM CDT,GOOD,Q2,<empty>,0.38,Verified
+7/25/16,7/25/16,After Market,3:15:00 PM CDT,CHE,Q2,1.72,1.8,Verified
+7/25/16,7/25/16,After Market,3:15:00 PM CDT,CMP,Q2,0.172,0.18,Verified
+7/25/16,7/25/16,After Market,3:15:00 PM CDT,NBTB,Q2,0.445,0.46,Verified
+7/25/16,7/25/16,After Market,3:15:00 PM CDT,RE,Q2,2.716,3.17,Verified
+7/25/16,7/25/16,After Market,3:17:00 PM CDT,AVB,Q2,2.089,1.99,Verified
+7/25/16,7/25/16,After Market,3:20:00 PM CDT,APAM,Q2,0.567,0.53,Verified
+7/25/16,7/25/16,After Market,3:28:00 PM CDT,LVS,Q2,0.558,0.52,Verified
+7/25/16,7/25/16,After Market,3:30:00 PM CDT,HSTM,Q2,0.083,0.04,Verified
+7/25/16,7/25/16,After Market,3:30:00 PM CDT,PRK,Q2,1.34,1.3,Verified
+7/25/16,7/25/16,After Market,3:30:00 PM CDT,SPN,Q2,-0.574,-0.53,Verified
+7/25/16,7/25/16,After Market,3:30:00 PM CDT,TXN,Q2,0.725,0.76,Verified
+7/25/16,7/25/16,After Market,3:31:00 PM CDT,STLY,Q2,-0.01,-0.1,Verified
+7/25/16,7/25/16,After Market,3:38:00 PM CDT,CNXC,Q2,0.194,<empty>,Verified
+7/25/16,7/25/16,After Market,3:38:00 PM CDT,HMST,Q2,0.68,0.9,Verified
+7/25/16,7/25/16,After Market,3:40:00 PM CDT,CLGX,Q2,0.55,0.65,Verified
+7/25/16,7/25/16,After Market,3:45:00 PM CDT,CE,Q2,1.551,1.59,Verified
+7/25/16,7/25/16,After Market,4:00:00 PM CDT,CR,Q2,1.017,1.21,Verified
+7/25/16,7/25/16,After Market,4:00:00 PM CDT,IBTX,Q2,0.693,0.74,Verified
+7/25/16,7/25/16,After Market,4:02:00 PM CDT,VNOM,Q2,0.082,<empty>,Verified
+7/25/16,7/25/16,After Market,4:09:00 PM CDT,BHLB,Q2,0.537,-0.54,Verified
+7/25/16,7/25/16,After Market,4:13:00 PM CDT,GABC,Q2,0.56,0.64,Verified
+7/25/16,7/25/16,After Market,4:15:00 PM CDT,IBA,Q2,<empty>,1.679,Verified
+7/25/16,7/25/16,After Market,4:30:00 PM CDT,FIBK,Q2,0.518,0.52,Verified
+7/25/16,7/25/16,After Market,4:34:00 PM CDT,CRY,Q2,0.017,0.13,Verified
+7/25/16,7/25/16,After Market,4:56:00 PM CDT,YCB,Q2,<empty>,0.68,Verified
+7/25/16,7/25/16,Unspecified,5:00:00 PM CDT,OMAB,Q2,0.495,0.49,Verified
+7/25/16,7/25/16,After Market,5:15:00 PM CDT,SMBC,Q4,<empty>,0.49,Verified
+7/25/16,7/25/16,After Market,5:24:00 PM CDT,KRC,Q2,0.853,0.86,Verified
+7/25/16,7/25/16,After Market,5:28:00 PM CDT,HF,Q2,0.51,0.41,Verified
+7/25/16,7/25/16,After Market,5:51:00 PM CDT,SSW,Q2,0.284,0.3,Verified
+7/25/16,7/25/16,After Market,7:45:00 PM CDT,EEFT,Q2,0.85,0.97,Verified
+7/26/16,,Before Market,,ARG,Q1,<empty>,<empty>,Unconfirmed
+7/26/16,,Before Market,,BP,Q2,0.26,-0.46,Verified
+7/26/16,,Before Market,,CAJ,Q2,<empty>,0.469,Verified
+7/26/16,,Before Market,,CNV,Q2,-0.045,-0.187,Verified
+7/26/16,,After Market,,CSCD,Q2,<empty>,<empty>,Unconfirmed
+7/26/16,,Unspecified,,DHOXY,Q2,<empty>,<empty>,Verified
+7/26/16,,Unspecified,,FFDF,Q4,<empty>,0.9,Verified
+7/26/16,7/26/16,Before Market,12:00:00 AM CDT,GRAM,Q2,<empty>,<empty>,Verified
+7/26/16,,Before Market,,RDY,Q1,<empty>,0.001,Verified
+7/26/16,7/26/16,Before Market,12:36:00 AM CDT,ORAN,Q2,<empty>,<empty>,Verified
+7/26/16,7/26/16,Before Market,12:55:00 AM CDT,CETV,Q2,<empty>,-0.98,Verified
+7/26/16,7/26/16,Before Market,1:00:00 AM CDT,BEAV,Q2,0.82,0.84,Verified
+7/26/16,7/26/16,Before Market,2:07:00 AM CDT,AUDC,Q2,0.04,0.06,Verified
+7/26/16,7/26/16,Before Market,3:00:00 AM CDT,XRS,Q1,0.29,0.25,Verified
+7/26/16,7/26/16,Before Market,4:00:00 AM CDT,CHKP,Q2,0.965,1.09,Verified
+7/26/16,7/26/16,Before Market,4:00:00 AM CDT,EXAS,Q2,-0.547,-0.46,Verified
+7/26/16,7/26/16,Before Market,5:00:00 AM CDT,CNC,Q2,1.093,1.29,Verified
+7/26/16,7/26/16,Before Market,5:00:00 AM CDT,CSL,Q2,1.633,1.75,Verified
+7/26/16,7/26/16,Before Market,5:00:00 AM CDT,DD,Q2,1.095,1.24,Verified
+7/26/16,7/26/16,Before Market,5:00:00 AM CDT,EVER,Q2,0.356,0.32,Verified
+7/26/16,7/26/16,Before Market,5:00:00 AM CDT,ICLR,Q2,1.134,1.14,Verified
+7/26/16,7/26/16,Before Market,5:00:00 AM CDT,KKR,Q2,0.098,0.23,Verified
+7/26/16,7/26/16,Before Market,5:00:00 AM CDT,NORD,Q3,0.265,0.28,Verified
+7/26/16,7/26/16,Before Market,5:00:00 AM CDT,PROV,Q4,0.33,0.34,Verified
+7/26/16,7/26/16,Before Market,5:00:00 AM CDT,RDWR,Q2,0,0.06,Verified
+7/26/16,7/26/16,Before Market,5:00:00 AM CDT,ST,Q2,0.721,0.73,Verified
+7/26/16,7/26/16,Before Market,5:25:00 AM CDT,LLY,Q2,0.858,0.86,Verified
+7/26/16,7/26/16,Before Market,5:30:00 AM CDT,AXE,Q2,1.297,1.32,Verified
+7/26/16,7/26/16,Before Market,5:30:00 AM CDT,FBC,Q2,0.587,0.66,Verified
+7/26/16,7/26/16,Before Market,5:30:00 AM CDT,GPK,Q2,0.19,0.19,Verified
+7/26/16,7/26/16,Before Market,5:30:00 AM CDT,HOT,Q2,0.734,0.71,Verified
+7/26/16,7/26/16,Before Market,5:30:00 AM CDT,KEY,Q2,0.275,0.27,Verified
+7/26/16,7/26/16,Before Market,5:30:00 AM CDT,NLSN,Q2,0.69,0.71,Verified
+7/26/16,7/26/16,Before Market,5:30:00 AM CDT,WWW,Q2,0.22,0.25,Verified
+7/26/16,7/26/16,Before Market,5:45:00 AM CDT,AVY,Q2,1.014,1.09,Verified
+7/26/16,7/26/16,Before Market,5:45:00 AM CDT,AXTA,Q2,0.336,0.2,Verified
+7/26/16,7/26/16,Before Market,5:45:00 AM CDT,CNX,Q2,-0.167,-2.05,Verified
+7/26/16,7/26/16,Before Market,5:45:00 AM CDT,CPLA,Q2,0.882,0.82,Verified
+7/26/16,7/26/16,Before Market,5:45:00 AM CDT,HZO,Q3,0.444,0.57,Verified
+7/26/16,7/26/16,Before Market,5:45:00 AM CDT,PCH,Q2,0.067,-0.77,Verified
+7/26/16,7/26/16,Before Market,5:45:00 AM CDT,WDR,Q2,0.48,0.41,Verified
+7/26/16,7/26/16,Before Market,5:50:00 AM CDT,AOS,Q2,0.912,0.98,Verified
+7/26/16,7/26/16,Before Market,5:50:00 AM CDT,WAT,Q2,1.464,1.58,Verified
+7/26/16,7/26/16,Before Market,5:55:00 AM CDT,CTG,Q2,0.03,0.08,Verified
+7/26/16,7/26/16,Before Market,5:55:00 AM CDT,UTX,Q2,1.652,1.82,Verified
+7/26/16,7/26/16,Before Market,6:00:00 AM CDT,ABTX,Q2,0.37,0.4,Verified
+7/26/16,7/26/16,Before Market,6:00:00 AM CDT,AHGP,Q2,0.66,0.76,Verified
+7/26/16,7/26/16,Before Market,6:00:00 AM CDT,ARLP,Q2,0.563,0.82,Verified
+7/26/16,7/26/16,Before Market,6:00:00 AM CDT,ASTE,Q2,0.752,0.79,Verified
+7/26/16,7/26/16,Before Market,6:00:00 AM CDT,BAX,Q2,0.393,0.46,Verified
+7/26/16,7/26/16,Before Market,6:00:00 AM CDT,CCBG,Q2,0.17,0.22,Verified
+7/26/16,7/26/16,Before Market,6:00:00 AM CDT,CIGI,Q2,0.565,0.63,Verified
+7/26/16,7/26/16,Before Market,6:00:00 AM CDT,DORM,Q2,0.723,0.75,Verified
+7/26/16,7/26/16,Before Market,6:00:00 AM CDT,FBP,Q2,0.095,0.1,Verified
+7/26/16,7/26/16,Before Market,6:00:00 AM CDT,FIS,Q2,0.865,0.9,Verified
+7/26/16,7/26/16,Before Market,6:00:00 AM CDT,JNS,Q2,0.218,0.21,Verified
+7/26/16,7/26/16,Before Market,6:00:00 AM CDT,MAS,Q2,0.416,0.46,Verified
+7/26/16,7/26/16,Before Market,6:00:00 AM CDT,MBLY,Q2,0.1,0.17,Verified
+7/26/16,7/26/16,Before Market,6:00:00 AM CDT,MLI,Q2,<empty>,0.49,Verified
+7/26/16,7/26/16,Before Market,6:00:00 AM CDT,NCI,Q2,0.263,0.33,Verified
+7/26/16,7/26/16,Before Market,6:00:00 AM CDT,NEO,Q2,0.018,0.04,Verified
+7/26/16,7/26/16,Before Market,6:00:00 AM CDT,PRGX,Q2,0.06,0,Verified
+7/26/16,7/26/16,Before Market,6:00:00 AM CDT,RDHL,Q2,-0.605,-0.06,Verified
+7/26/16,7/26/16,Before Market,6:00:00 AM CDT,SIR,Q2,0.74,0.72,Verified
+7/26/16,7/26/16,Before Market,6:00:00 AM CDT,SIRI,Q2,0.041,0.03,Verified
+7/26/16,7/26/16,Before Market,6:00:00 AM CDT,UAA,Q2,0.011,0.01,Verified
+7/26/16,7/26/16,Before Market,6:00:00 AM CDT,VZ,Q2,0.93,0.17,Verified
+7/26/16,7/26/16,Before Market,6:03:00 AM CDT,VLO,Q2,1.014,1.07,Verified
+7/26/16,7/26/16,Before Market,6:05:00 AM CDT,ABG,Q2,1.635,1.65,Verified
+7/26/16,7/26/16,Before Market,6:25:00 AM CDT,RAI,Q2,0.607,0.58,Verified
+7/26/16,7/26/16,Before Market,6:30:00 AM CDT,ALLY,Q2,0.516,0.54,Verified
+7/26/16,7/26/16,Before Market,6:30:00 AM CDT,ATI,Q2,-0.386,-0.18,Verified
+7/26/16,7/26/16,Before Market,6:30:00 AM CDT,CAT,Q2,0.963,0.93,Verified
+7/26/16,7/26/16,Before Market,6:30:00 AM CDT,CHCO,Q2,0.795,0.83,Verified
+7/26/16,7/26/16,Before Market,6:30:00 AM CDT,DTE,Q2,0.92,0.98,Verified
+7/26/16,7/26/16,Before Market,6:30:00 AM CDT,FMER,Q2,0.337,0.36,Verified
+7/26/16,7/26/16,Before Market,6:30:00 AM CDT,HBCP,Q2,0.56,0.53,Verified
+7/26/16,7/26/16,Before Market,6:30:00 AM CDT,HUBB,Q2,1.428,1.53,Verified
+7/26/16,7/26/16,Before Market,6:30:00 AM CDT,JBLU,Q2,0.494,0.53,Verified
+7/26/16,7/26/16,Before Market,6:30:00 AM CDT,MDXG,Q2,0.035,0.02,Verified
+7/26/16,7/26/16,Before Market,6:30:00 AM CDT,MMM,Q2,2.08,2.08,Verified
+7/26/16,7/26/16,Before Market,6:30:00 AM CDT,SAH,Q2,0.498,0.5,Verified
+7/26/16,7/26/16,Before Market,6:30:00 AM CDT,TROW,Q2,1.128,0.76,Verified
+7/26/16,7/26/16,Before Market,6:30:00 AM CDT,VBTX,Q2,<empty>,0.29,Verified
+7/26/16,7/26/16,Before Market,6:40:00 AM CDT,CVLT,Q1,-0.047,0.21,Verified
+7/26/16,7/26/16,Before Market,6:40:00 AM CDT,LPT,Q2,0.643,0.68,Verified
+7/26/16,7/26/16,Before Market,6:58:00 AM CDT,MCD,Q2,1.376,1.25,Verified
+7/26/16,7/26/16,Before Market,7:00:00 AM CDT,ACW,Q2,0.035,0.05,Verified
+7/26/16,7/26/16,Before Market,7:00:00 AM CDT,BLX,Q2,<empty>,0.57,Verified
+7/26/16,7/26/16,Before Market,7:00:00 AM CDT,BPOP,Q2,0.82,0.85,Verified
+7/26/16,7/26/16,Before Market,7:00:00 AM CDT,CYNO,Q2,0.293,0.36,Verified
+7/26/16,7/26/16,Before Market,7:00:00 AM CDT,DGICA,Q2,<empty>,0.31,Verified
+7/26/16,7/26/16,Before Market,7:00:00 AM CDT,DGICB,Q2,<empty>,0.28,Verified
+7/26/16,7/26/16,Before Market,7:00:00 AM CDT,FCX,Q2,-0.009,-0.23,Verified
+7/26/16,7/26/16,Before Market,7:00:00 AM CDT,FELE,Q2,0.493,0.51,Verified
+7/26/16,7/26/16,Before Market,7:00:00 AM CDT,PCAR,Q2,1.025,1.06,Verified
+7/26/16,7/26/16,Before Market,7:00:00 AM CDT,TOWR,Q2,0.71,0.81,Verified
+7/26/16,7/26/16,Before Market,7:00:00 AM CDT,TRCB,Q2,0.21,0.21,Verified
+7/26/16,7/26/16,Before Market,7:00:00 AM CDT,USG,Q2,0.481,0.46,Verified
+7/26/16,7/26/16,Before Market,7:15:00 AM CDT,PEBO,Q2,0.405,0.44,Verified
+7/26/16,7/26/16,Before Market,7:30:00 AM CDT,AKS,Q2,-0.043,0.08,Verified
+7/26/16,7/26/16,Unspecified,7:30:00 AM CDT,CAC,Q2,0.93,0.93,Verified
+7/26/16,7/26/16,Before Market,7:30:00 AM CDT,CNHI,Q2,0.11,0.16,Verified
+7/26/16,7/26/16,Before Market,7:30:00 AM CDT,TGNA,Q2,0.49,0.5,Verified
+7/26/16,7/26/16,Before Market,7:37:00 AM CDT,FCH,Q2,0.335,0.32,Verified
+7/26/16,7/26/16,Before Market,7:45:00 AM CDT,TNC,Q2,0.707,0.85,Verified
+7/26/16,7/26/16,Before Market,7:50:00 AM CDT,ACPW,Q2,-0.115,-0.08,Verified
+7/26/16,7/26/16,Before Market,8:00:00 AM CDT,SNBC,Q2,<empty>,0.16,Verified
+7/26/16,7/26/16,Before Market,8:00:00 AM CDT,SSBI,Q2,<empty>,0.26,Verified
+7/26/16,7/26/16,Before Market,8:00:00 AM CDT,UTMD,Q2,<empty>,0.86,Verified
+7/26/16,7/26/16,Before Market,8:05:00 AM CDT,CUNB,Q2,0.36,0.36,Verified
+7/26/16,7/26/16,Unspecified,8:09:00 AM CDT,SFST,Q2,0.45,0.49,Verified
+7/26/16,7/26/16,Before Market,8:25:00 AM CDT,TRMK,Q2,0.405,0.32,Verified
+7/26/16,7/26/16,Unspecified,8:34:00 AM CDT,FRME,Q2,0.463,0.49,Verified
+7/26/16,7/26/16,Unspecified,1:19:00 PM CDT,CFFI,Q2,<empty>,1.37,Verified
+7/26/16,7/26/16,After Market,3:00:00 PM CDT,BANR,Q2,0.72,0.67,Verified
+7/26/16,7/26/16,After Market,3:00:00 PM CDT,FCBC,Q2,<empty>,0.38,Verified
+7/26/16,7/26/16,After Market,3:00:00 PM CDT,RVSB,Q1,0.07,0.08,Verified
+7/26/16,7/26/16,After Market,3:00:00 PM CDT,ULTI,Q2,0.221,0.76,Verified
+7/26/16,7/26/16,After Market,3:01:00 PM CDT,AEHR,Q4,<empty>,-0.21,Verified
+7/26/16,7/26/16,After Market,3:01:00 PM CDT,AKAM,Q2,0.497,0.64,Verified
+7/26/16,7/26/16,After Market,3:01:00 PM CDT,CHFC,Q2,0.65,0.72,Verified
+7/26/16,7/26/16,After Market,3:01:00 PM CDT,DOX,Q3,0.808,0.9,Verified
+7/26/16,7/26/16,After Market,3:01:00 PM CDT,GHL,Q2,0.46,0.62,Verified
+7/26/16,7/26/16,After Market,3:01:00 PM CDT,HUBG,Q2,0.568,0.61,Verified
+7/26/16,7/26/16,After Market,3:01:00 PM CDT,KN,Q2,0.043,0.13,Verified
+7/26/16,7/26/16,After Market,3:01:00 PM CDT,KTCC,Q4,0.18,0.2,Verified
+7/26/16,7/26/16,After Market,3:01:00 PM CDT,LLTC,Q4,0.534,0.54,Verified
+7/26/16,7/26/16,After Market,3:01:00 PM CDT,PNRA,Q2,1.752,1.78,Verified
+7/26/16,7/26/16,After Market,3:02:00 PM CDT,ETH,Q4,0.512,0.57,Verified
+7/26/16,7/26/16,After Market,3:02:00 PM CDT,NUVA,Q2,0.364,0.4,Verified
+7/26/16,7/26/16,After Market,3:02:00 PM CDT,SGEN,Q2,-0.316,-0.23,Verified
+7/26/16,7/26/16,After Market,3:03:00 PM CDT,BJRI,Q2,0.563,0.56,Verified
+7/26/16,7/26/16,After Market,3:03:00 PM CDT,IRBT,Q2,0.105,0.17,Verified
+7/26/16,7/26/16,After Market,3:05:00 PM CDT,ALDR,Q2,-0.747,-0.79,Verified
+7/26/16,7/26/16,After Market,3:05:00 PM CDT,APC,Q2,-0.769,-0.6,Verified
+7/26/16,7/26/16,After Market,3:05:00 PM CDT,AWRE,Q2,<empty>,0.06,Verified
+7/26/16,7/26/16,After Market,3:05:00 PM CDT,BWLD,Q2,1.254,1.27,Verified
+7/26/16,7/26/16,After Market,3:05:00 PM CDT,CAVM,Q2,0.065,0.29,Verified
+7/26/16,7/26/16,After Market,3:05:00 PM CDT,CINF,Q2,0.52,0.57,Verified
+7/26/16,7/26/16,After Market,3:05:00 PM CDT,CTXS,Q2,0.917,1.2,Verified
+7/26/16,7/26/16,After Market,3:05:00 PM CDT,DMRC,Q2,-0.628,-0.62,Verified
+7/26/16,7/26/16,After Market,3:05:00 PM CDT,EBSB,Q2,0.14,0.11,Verified
+7/26/16,7/26/16,After Market,3:05:00 PM CDT,FBNC,Q2,0.345,0.37,Verified
+7/26/16,7/26/16,After Market,3:05:00 PM CDT,FISI,Q2,0.48,0.47,Verified
+7/26/16,7/26/16,After Market,3:05:00 PM CDT,ILMN,Q2,0.733,0.86,Verified
+7/26/16,7/26/16,After Market,3:05:00 PM CDT,LNDC,Q4,0.154,0.17,Verified
+7/26/16,7/26/16,After Market,3:05:00 PM CDT,LOGM,Q2,0.183,0.49,Verified
+7/26/16,7/26/16,After Market,3:05:00 PM CDT,MTSI,Q3,0.385,0.51,Verified
+7/26/16,7/26/16,After Market,3:05:00 PM CDT,NANO,Q2,0.267,0.26,Verified
+7/26/16,7/26/16,After Market,3:05:00 PM CDT,RSYS,Q2,0.04,0.1,Verified
+7/26/16,7/26/16,After Market,3:05:00 PM CDT,VICR,Q2,<empty>,-0.01,Verified
+7/26/16,7/26/16,After Market,3:05:00 PM CDT,WES,Q2,0.51,0.55,Verified
+7/26/16,7/26/16,After Market,3:05:00 PM CDT,WGP,Q2,0.35,0.41,Verified
+7/26/16,7/26/16,After Market,3:05:00 PM CDT,ZIXI,Q2,0.06,0.06,Verified
+7/26/16,7/26/16,After Market,3:07:00 PM CDT,RGC,Q2,0.243,0.23,Verified
+7/26/16,7/26/16,After Market,3:09:00 PM CDT,TRU,Q2,0.323,0.37,Verified
+7/26/16,7/26/16,After Market,3:10:00 PM CDT,BOOT,Q1,0.018,0.02,Verified
+7/26/16,7/26/16,After Market,3:10:00 PM CDT,STL,Q2,0.275,0.27,Verified
+7/26/16,7/26/16,After Market,3:10:00 PM CDT,ZION,Q2,0.415,0.44,Verified
+7/26/16,7/26/16,After Market,3:12:00 PM CDT,TWTR,Q2,-0.147,0.13,Verified
+7/26/16,7/26/16,After Market,3:13:00 PM CDT,EQR,Q2,0.766,0.9,Verified
+7/26/16,7/26/16,After Market,3:14:00 PM CDT,CVA,Q2,-0.047,-0.22,Verified
+7/26/16,7/26/16,After Market,3:15:00 PM CDT,AAT,Q2,0.458,0.45,Verified
+7/26/16,7/26/16,After Market,3:15:00 PM CDT,AIZ,Q2,1.413,1.42,Verified
+7/26/16,7/26/16,After Market,3:15:00 PM CDT,AMP,Q2,2.265,2.23,Verified
+7/26/16,7/26/16,After Market,3:15:00 PM CDT,AXS,Q2,0.352,0.51,Verified
+7/26/16,7/26/16,After Market,3:15:00 PM CDT,BCR,Q2,2.465,2.54,Verified
+7/26/16,7/26/16,After Market,3:15:00 PM CDT,CEB,Q2,0.825,0.97,Verified
+7/26/16,7/26/16,After Market,3:15:00 PM CDT,CHRW,Q2,1.003,1,Verified
+7/26/16,7/26/16,After Market,3:15:00 PM CDT,CNO,Q2,0.34,0.34,Verified
+7/26/16,7/26/16,After Market,3:15:00 PM CDT,CUZ,Q2,0.222,0.21,Verified
+7/26/16,7/26/16,After Market,3:15:00 PM CDT,EW,Q2,0.698,0.76,Verified
+7/26/16,7/26/16,After Market,3:15:00 PM CDT,FSB,Q2,0.56,0.62,Verified
+7/26/16,7/26/16,After Market,3:15:00 PM CDT,FSP,Q2,0.257,0.27,Verified
+7/26/16,7/26/16,After Market,3:15:00 PM CDT,JBT,Q2,0.583,0.67,Verified
+7/26/16,7/26/16,After Market,3:15:00 PM CDT,JNPR,Q2,0.37,0.5,Verified
+7/26/16,7/26/16,After Market,3:15:00 PM CDT,NCR,Q2,0.65,0.72,Verified
+7/26/16,7/26/16,After Market,3:15:00 PM CDT,QLGC,Q1,0.19,0.29,Verified
+7/26/16,7/26/16,After Market,3:15:00 PM CDT,RHI,Q2,0.733,0.71,Verified
+7/26/16,7/26/16,After Market,3:15:00 PM CDT,RM,Q2,0.385,0.53,Verified
+7/26/16,7/26/16,After Market,3:15:00 PM CDT,RNR,Q2,2.007,1.55,Verified
+7/26/16,7/26/16,After Market,3:15:00 PM CDT,TRNS,Q1,<empty>,0.12,Verified
+7/26/16,7/26/16,After Market,3:15:00 PM CDT,TSS,Q2,0.679,0.74,Verified
+7/26/16,7/26/16,After Market,3:16:00 PM CDT,BXMT,Q2,0.62,0.67,Verified
+7/26/16,7/26/16,After Market,3:16:00 PM CDT,MDR,Q2,0.021,0.08,Verified
+7/26/16,7/26/16,After Market,3:16:00 PM CDT,UDR,Q2,0.441,0.44,Verified
+7/26/16,7/26/16,After Market,3:16:00 PM CDT,UHS,Q2,1.937,1.94,Verified
+7/26/16,7/26/16,After Market,3:16:00 PM CDT,VR,Q2,0.75,0.66,Verified
+7/26/16,7/26/16,After Market,3:20:00 PM CDT,AKR,Q2,0.377,0.37,Verified
+7/26/16,7/26/16,After Market,3:20:00 PM CDT,ARI,Q2,0.49,0.51,Verified
+7/26/16,7/26/16,After Market,3:20:00 PM CDT,SKT,Q2,0.56,0.59,Verified
+7/26/16,7/26/16,After Market,3:20:00 PM CDT,USNA,Q2,1.93,2.07,Verified
+7/26/16,7/26/16,After Market,3:24:00 PM CDT,CB,Q2,2.261,2.25,Verified
+7/26/16,7/26/16,After Market,3:26:00 PM CDT,OSBC,Q2,0.13,0.13,Verified
+7/26/16,7/26/16,After Market,3:30:00 PM CDT,AAPL,Q3,1.384,1.42,Verified
+7/26/16,7/26/16,After Market,3:30:00 PM CDT,CSV,Q2,0.4,0.37,Verified
+7/26/16,7/26/16,After Market,3:30:00 PM CDT,GMED,Q2,0.285,0.29,Verified
+7/26/16,7/26/16,After Market,3:30:00 PM CDT,HURN,Q2,0.795,1.09,Verified
+7/26/16,7/26/16,After Market,3:30:00 PM CDT,MTCH,Q2,0.132,0.17,Verified
+7/26/16,7/26/16,After Market,3:30:00 PM CDT,PMD,Q2,<empty>,0.3,Verified
+7/26/16,7/26/16,After Market,3:30:00 PM CDT,RUSHA,Q2,0.263,0.27,Verified
+7/26/16,7/26/16,After Market,3:30:00 PM CDT,RUSHB,Q2,<empty>,0.27,Verified
+7/26/16,7/26/16,After Market,3:30:00 PM CDT,UIS,Q2,0.25,0.81,Verified
+7/26/16,7/26/16,After Market,3:30:00 PM CDT,WNC,Q2,0.467,0.55,Verified
+7/26/16,7/26/16,After Market,3:31:00 PM CDT,RRC,Q2,-0.29,-0.14,Verified
+7/26/16,7/26/16,After Market,3:34:00 PM CDT,PEI,Q2,0.414,0.42,Verified
+7/26/16,7/26/16,After Market,3:46:00 PM CDT,FTK,Q2,-0.08,-0.04,Verified
+7/26/16,7/26/16,After Market,3:50:00 PM CDT,WMK,Q2,<empty>,0.57,Verified
+7/26/16,7/26/16,After Market,3:50:00 PM CDT,X,Q2,-0.553,-0.31,Verified
+7/26/16,7/26/16,After Market,3:58:00 PM CDT,QTS,Q2,0.605,0.58,Verified
+7/26/16,7/26/16,After Market,3:58:00 PM CDT,SLCT,Q2,0.15,0.16,Verified
+7/26/16,7/26/16,After Market,4:00:00 PM CDT,ASH,Q3,2.068,1.95,Verified
+7/26/16,7/26/16,After Market,4:00:00 PM CDT,CIZN,Q2,<empty>,0.36,Verified
+7/26/16,7/26/16,After Market,4:00:00 PM CDT,DDR,Q2,0.31,0.33,Verified
+7/26/16,7/26/16,After Market,4:00:00 PM CDT,SGBK,Q2,0.55,0.54,Verified
+7/26/16,7/26/16,After Market,4:00:00 PM CDT,TBK,Q2,0.235,0.25,Verified
+7/26/16,7/26/16,After Market,4:00:00 PM CDT,TGB,Q2,-0.065,-0.068,Verified
+7/26/16,7/26/16,After Market,4:00:00 PM CDT,UMBF,Q2,0.733,0.8,Verified
+7/26/16,7/26/16,After Market,4:04:00 PM CDT,PSB,Q2,1.315,1.3,Verified
+7/26/16,7/26/16,After Market,4:05:00 PM CDT,OSHC,Q2,<empty>,0.28,Verified
+7/26/16,7/26/16,After Market,4:10:00 PM CDT,TI,Q2,<empty>,<empty>,Verified
+7/26/16,7/26/16,After Market,4:17:00 PM CDT,FFIC,Q2,0.37,0.39,Verified
+7/26/16,7/26/16,After Market,4:20:00 PM CDT,BXP,Q2,1.394,1.43,Verified
+7/26/16,7/26/16,After Market,4:28:00 PM CDT,GLF,Q2,-0.555,-0.57,Verified
+7/26/16,7/26/16,After Market,4:30:00 PM CDT,AI,Q2,<empty>,0.67,Verified
+7/26/16,7/26/16,After Market,4:50:00 PM CDT,VIV,Q2,0.193,<empty>,Verified
+7/26/16,7/26/16,After Market,5:30:00 PM CDT,NCOM,Q2,0.363,0.39,Verified
+7/26/16,7/26/16,After Market,6:17:00 PM CDT,BVN,Q2,-0.03,0.22,Verified
+7/26/16,7/26/16,After Market,6:30:00 PM CDT,OIS,Q2,-0.272,-0.22,Verified
+7/26/16,7/26/16,After Market,6:49:00 PM CDT,TSBK,Q3,<empty>,0.36,Verified
+7/26/16,7/26/16,After Market,8:00:00 PM CDT,BLDP,Q2,-0.042,-0.04,Verified
+7/27/16,,Before Market,,ARCAY,Q2,<empty>,<empty>,Unconfirmed
+7/27/16,,Before Market,,ARMH,Q2,0.298,0.346,Verified
+7/27/16,,Before Market,,BAYRY,Q2,2.19,2.275,Verified
+7/27/16,,Before Market,,BXLT,Q2,<empty>,<empty>,Unconfirmed
+7/27/16,,After Market,,CBD,Q2,<empty>,<empty>,Verified
+7/27/16,,Unspecified,,DB,Q2,<empty>,<empty>,Verified
+7/27/16,,Before Market,,DXYN,Q2,-0.06,0.12,Verified
+7/27/16,,Before Market,,FMX,Q2,0.66,0.74,Verified
+7/27/16,,Unspecified,,FUJIY,Q1,<empty>,<empty>,Verified
+7/27/16,,After Market,,FXCB,Q2,<empty>,<empty>,Unconfirmed
+7/27/16,,Unspecified,,GSK,Q2,0.547,<empty>,Verified
+7/27/16,,Unspecified,,LPL,Q2,-0.145,<empty>,Verified
+7/27/16,,Before Market,,MHFI,Q2,<empty>,<empty>,Unconfirmed
+7/27/16,,Before Market,,MMYT,Q1,-0.64,-0.73,Verified
+7/27/16,,Unspecified,,NSANY,Q1,0.71,<empty>,Verified
+7/27/16,,Unspecified,,SAN,Q2,<empty>,0.12,Verified
+7/27/16,,Before Market,,SCRYY,Q2,<empty>,<empty>,Verified
+7/27/16,,After Market,,SNDK,Q2,<empty>,<empty>,Unconfirmed
+7/27/16,,After Market,,SSNLF,Q2,<empty>,<empty>,Unconfirmed
+7/27/16,,After Market,,TAL,Q2,<empty>,<empty>,Unconfirmed
+7/27/16,,During Market,,TCLRY,Q1,<empty>,<empty>,Verified
+7/27/16,7/27/16,Before Market,12:00:00 AM CDT,WIX,Q2,-0.26,-0.09,Verified

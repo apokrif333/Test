@@ -1,0 +1,871 @@
+﻿Calendar for  only Earnings
+
+March 2013
+Date est,Date act,Time est,Time act,Symbol,Quarter,EPS est,EPS act,Status
+3/1/13,,Before Market,,AONEQ,Q3,-0.35,<empty>,Unconfirmed
+3/1/13,,Before Market,,OSGIQ,Q3,<empty>,<empty>,Unconfirmed
+3/1/13,,Before Market,,PCXCQ,Q4,-0.575,<empty>,Unconfirmed
+3/1/13,,Before Market,,WPPGY,Q3,<empty>,<empty>,Verified
+3/1/13,3/1/13,Before Market,4:00:00 AM CST,MGA,Q4,1.143,1.49,Verified
+3/1/13,3/1/13,Before Market,5:00:00 AM CST,BANC,Q4,0.147,-0.3,Verified
+3/1/13,3/1/13,Before Market,5:00:00 AM CST,EXLS,Q4,0.353,0.44,Verified
+3/1/13,3/1/13,Before Market,5:00:00 AM CST,NWN,Q4,1.104,1.05,Verified
+3/1/13,3/1/13,Before Market,5:37:00 AM CST,EVEP,Q4,0.451,-0.23,Verified
+3/1/13,3/1/13,Before Market,6:00:00 AM CST,HPT,Q4,0.762,0.76,Verified
+3/1/13,3/1/13,Before Market,6:00:00 AM CST,WLB,Q4,0.83,<empty>,Verified
+3/1/13,3/1/13,Before Market,6:00:00 AM CST,WPPGY,Q4,<empty>,<empty>,Verified
+3/1/13,3/1/13,Before Market,6:00:00 AM CST,XLS,Q4,0.45,0.47,Verified
+3/1/13,3/1/13,Before Market,6:10:00 AM CST,FWLT,Q4,0.462,0.27,Verified
+3/1/13,3/1/13,Before Market,6:28:00 AM CST,POM,Q4,0.202,0.19,Verified
+3/1/13,3/1/13,Before Market,6:55:00 AM CST,SRI,Q4,0.138,0.1,Verified
+3/1/13,3/1/13,Before Market,7:00:00 AM CST,AMAG,Q4,-0.064,-0.17,Verified
+3/1/13,3/1/13,Before Market,7:00:00 AM CST,BBY,Q4,1.555,1.64,Verified
+3/1/13,3/1/13,Before Market,7:00:00 AM CST,NVAX,Q4,-0.044,-0.06,Verified
+3/1/13,3/1/13,Before Market,7:00:00 AM CST,SHLO,Q1,<empty>,0.15,Verified
+3/1/13,3/1/13,Before Market,7:00:00 AM CST,SUP,Q4,0.257,0.1,Verified
+3/1/13,3/1/13,Before Market,7:30:00 AM CST,PNM,Q4,0.11,0.13,Verified
+3/1/13,3/1/13,Before Market,7:40:00 AM CST,FBNK,Q4,0.06,0.2,Verified
+3/4/13,3/1/13,During Market,10:52:00 AM CST,SBR,Q4,<empty>,0.79,Verified
+3/1/13,3/1/13,During Market,11:18:00 AM CST,FCNCA,Q4,4.68,2.15,Verified
+3/1/13,3/1/13,During Market,1:23:00 PM CST,AUMN,Q4,-0.15,<empty>,Verified
+3/1/13,3/1/13,Unspecified,1:51:00 PM CST,SJT,Q4,0.13,<empty>,Verified
+3/1/13,3/1/13,After Market,3:00:00 PM CST,BRK.A,Q4,999.99,1704,Verified
+3/1/13,3/1/13,After Market,3:00:00 PM CST,BRK.B,Q4,1.125,<empty>,Verified
+3/1/13,3/1/13,After Market,3:00:00 PM CST,DVAX,Q4,-0.08,-0.11,Verified
+3/1/13,3/1/13,After Market,3:01:00 PM CST,VNR,Q4,0.341,0.7,Verified
+3/1/13,3/1/13,After Market,3:02:00 PM CST,PDLI,Q4,0.323,0.34,Verified
+3/1/13,3/1/13,After Market,3:15:00 PM CST,DHIL,Q4,1.41,1.53,Verified
+3/1/13,3/1/13,After Market,3:32:00 PM CST,LORL,Q4,<empty>,1.46,Verified
+3/1/13,3/1/13,After Market,3:49:00 PM CST,APNT,Q4,-0.01,-0.01,Verified
+3/1/13,3/1/13,After Market,3:55:00 PM CST,RIG,Q4,0.808,0.91,Verified
+3/1/13,3/1/13,After Market,4:15:00 PM CST,VHC,Q4,-0.145,-0.14,Verified
+3/1/13,3/1/13,After Market,6:40:00 PM CST,PICO,Q4,1,-0.13,Verified
+3/4/13,,After Market,,CCRT,Q4,<empty>,<empty>,Unconfirmed
+3/4/13,,Before Market,,GLNG,Q4,0.426,<empty>,Verified
+3/4/13,,Before Market,,HBC,Q4,<empty>,<empty>,Unconfirmed
+3/4/13,,Before Market,,IRE,Q4,<empty>,<empty>,Verified
+3/4/13,,Unspecified,,URG,Q4,<empty>,<empty>,Unconfirmed
+3/4/13,3/4/13,Before Market,1:00:00 AM CST,ALVR,Q4,-0.09,-0.07,Verified
+3/4/13,3/4/13,Before Market,3:00:00 AM CST,BYD,Q4,-0.133,-0.31,Verified
+3/4/13,3/4/13,Before Market,4:19:00 AM CST,CEL,Q4,0.25,0.083,Verified
+3/4/13,3/4/13,Before Market,5:00:00 AM CST,TECD,Q4,1.75,1.48,Verified
+3/4/13,3/4/13,Before Market,5:30:00 AM CST,SSYS,Q4,0.268,0.4,Verified
+3/4/13,3/4/13,Before Market,6:00:00 AM CST,ARNA,Q4,-0.02,-0.1,Verified
+3/4/13,3/4/13,Before Market,6:00:00 AM CST,TSON,Q4,-0.188,-0.2,Verified
+3/4/13,3/4/13,Before Market,7:30:00 AM CST,SMP,Q4,0.206,0.28,Verified
+3/4/13,3/4/13,Before Market,7:52:00 AM CST,CIB,Q4,1.04,1.24,Verified
+3/4/13,3/4/13,Before Market,8:00:00 AM CST,YGE,Q4,-0.543,-0.93,Verified
+3/4/13,3/4/13,After Market,3:00:00 PM CST,CISG,Q4,<empty>,0.064,Verified
+3/4/13,3/4/13,After Market,3:00:00 PM CST,EPIQ,Q4,<empty>,0.26,Verified
+3/4/13,3/4/13,After Market,3:00:00 PM CST,NLS,Q4,0.22,0.23,Verified
+3/4/13,3/4/13,After Market,3:00:00 PM CST,SHFL,Q1,0.135,0.12,Verified
+3/4/13,3/4/13,After Market,3:02:00 PM CST,ASNA,Q2,0.222,0.23,Verified
+3/4/13,3/4/13,After Market,3:03:00 PM CST,DCO,Q4,0.416,0.32,Verified
+3/4/13,3/4/13,After Market,3:05:00 PM CST,SNTS,Q4,0.012,0.08,Verified
+3/4/13,3/4/13,After Market,3:14:00 PM CST,APP,Q4,<empty>,0.04,Verified
+3/4/13,3/4/13,After Market,3:14:00 PM CST,REGI,Q4,-0.022,<empty>,Verified
+3/4/13,3/4/13,After Market,3:15:00 PM CST,ACUR,Q4,<empty>,-0.06,Verified
+3/4/13,3/4/13,After Market,3:15:00 PM CST,CWST,Q3,-0.163,-0.29,Verified
+3/4/13,3/4/13,After Market,3:15:00 PM CST,PTNT,Q4,<empty>,<empty>,Verified
+3/4/13,3/4/13,After Market,3:30:00 PM CST,MPG,Q4,-0.145,2.24,Verified
+3/4/13,3/4/13,After Market,4:00:00 PM CST,ABM,Q1,0.22,0.26,Verified
+3/4/13,3/4/13,After Market,4:00:00 PM CST,SNHY,Q4,0.23,0.26,Verified
+3/4/13,3/4/13,After Market,4:01:00 PM CST,PKOH,Q4,0.49,0.63,Verified
+3/4/13,3/4/13,After Market,6:02:00 PM CST,BRFS,Q4,0.23,<empty>,Verified
+3/4/13,3/4/13,After Market,6:34:00 PM CST,QUAD,Q4,0.903,0.43,Verified
+3/4/13,3/4/13,After Market,7:43:00 PM CST,GSS,Q4,0.026,0.03,Verified
+3/4/13,3/4/13,After Market,8:14:00 PM CST,RSO,Q4,0.17,0.22,Verified
+3/5/13,,After Market,,DUSA,Q4,<empty>,<empty>,Unconfirmed
+3/5/13,,Unspecified,,EDPFY,Q4,<empty>,<empty>,Unconfirmed
+3/5/13,,After Market,,FACE,Q4,<empty>,<empty>,Unconfirmed
+3/5/13,,After Market,,TNS,Q4,<empty>,<empty>,Unconfirmed
+3/5/13,3/5/13,Before Market,5:00:00 AM CST,MEMP,Q4,0.48,0.19,Verified
+3/5/13,3/5/13,Before Market,6:00:00 AM CST,AETI,Q4,<empty>,0.06,Verified
+3/5/13,3/5/13,Before Market,6:00:00 AM CST,HEES,Q4,0.3,0.31,Verified
+3/5/13,3/5/13,Before Market,6:17:00 AM CST,TRIB,Q4,0.205,0.198,Verified
+3/5/13,3/5/13,Before Market,6:30:00 AM CST,BNS,Q1,1.257,1.217,Verified
+3/5/13,3/5/13,Before Market,6:30:00 AM CST,CEP,Q4,<empty>,-3.15,Verified
+3/5/13,3/5/13,Before Market,6:30:00 AM CST,CKP,Q4,0.18,0.09,Verified
+3/5/13,3/5/13,Before Market,6:30:00 AM CST,RIGL,Q4,-0.322,-0.3,Verified
+3/5/13,3/5/13,Before Market,7:30:00 AM CST,BKR,Q4,0.063,-0.23,Verified
+3/5/13,3/5/13,Before Market,7:33:00 AM CST,MCGC,Q4,0.08,0.07,Verified
+3/5/13,3/5/13,Before Market,7:44:00 AM CST,FOE,Q4,-0.022,-0.07,Verified
+3/5/13,3/5/13,Before Market,8:00:00 AM CST,CVGW,Q1,0.267,0.24,Verified
+3/5/13,3/5/13,Before Market,8:25:00 AM CST,TAXI,Q4,0.26,0.3,Verified
+3/5/13,3/5/13,After Market,3:00:00 PM CST,APT,Q4,<empty>,0.01,Verified
+3/5/13,3/5/13,Unspecified,3:00:00 PM CST,IMUC,Q4,-0.078,0.01,Verified
+3/5/13,3/5/13,After Market,3:00:00 PM CST,INFI,Q4,-0.913,-1.15,Verified
+3/5/13,3/5/13,After Market,3:01:00 PM CST,HCI,Q4,0.707,1.19,Verified
+3/5/13,3/5/13,After Market,3:01:00 PM CST,JMBA,Q4,-0.104,-0.09,Verified
+3/5/13,3/5/13,After Market,3:01:00 PM CST,MGCD,Q1,<empty>,-0.1,Verified
+3/5/13,3/5/13,After Market,3:01:00 PM CST,NCS,Q1,-0.004,-0.19,Verified
+3/5/13,3/5/13,After Market,3:01:00 PM CST,NTRI,Q4,-0.14,-0.18,Verified
+3/5/13,3/5/13,After Market,3:01:00 PM CST,PAY,Q1,0.373,0.51,Verified
+3/5/13,3/5/13,After Market,3:01:00 PM CST,VNET,Q4,0.093,0.115,Verified
+3/5/13,3/5/13,After Market,3:02:00 PM CST,INSV,Q4,-0.02,-0.01,Verified
+3/5/13,3/5/13,Unspecified,3:05:00 PM CST,GEVO,Q4,-0.478,-0.34,Verified
+3/5/13,3/5/13,After Market,3:05:00 PM CST,OME,Q4,0.15,-0.03,Verified
+3/5/13,3/5/13,After Market,3:05:00 PM CST,RSYS,Q4,<empty>,0.03,Verified
+3/5/13,3/5/13,After Market,3:05:00 PM CST,STXS,Q4,-0.4,-0.55,Verified
+3/5/13,3/5/13,After Market,3:05:00 PM CST,SWHC,Q3,0.208,0.26,Verified
+3/5/13,3/5/13,After Market,3:05:00 PM CST,SYX,Q4,0.18,-0.06,Verified
+3/5/13,3/5/13,After Market,3:07:00 PM CST,ZIPR,Q4,<empty>,-0.1,Verified
+3/5/13,3/5/13,After Market,3:10:00 PM CST,AVAV,Q3,0.37,0.17,Verified
+3/5/13,3/5/13,After Market,3:21:00 PM CST,IG,Q4,0,-0.03,Verified
+3/5/13,3/5/13,After Market,3:30:00 PM CST,MITT,Q4,0.864,0.62,Verified
+3/5/13,3/5/13,After Market,3:30:00 PM CST,RWC,Q4,0.01,0.02,Verified
+3/5/13,3/5/13,After Market,3:42:00 PM CST,MCEP,Q4,0.47,0.36,Verified
+3/5/13,3/5/13,After Market,4:00:00 PM CST,NDZ,Q1,0.07,0.07,Verified
+3/5/13,3/5/13,After Market,4:00:00 PM CST,NYMT,Q4,0.24,0.19,Verified
+3/5/13,3/5/13,After Market,4:00:00 PM CST,QIHU,Q4,0.043,0.22,Verified
+3/5/13,3/5/13,After Market,4:27:00 PM CST,STKL,Q4,0.088,0.07,Verified
+3/5/13,3/5/13,After Market,4:28:00 PM CST,MPO,Q4,-0.009,-0.04,Verified
+3/5/13,3/5/13,After Market,5:00:00 PM CST,SSW,Q4,0.293,0.59,Verified
+3/5/13,3/5/13,After Market,5:01:00 PM CST,SQM,Q4,0.635,0.54,Verified
+3/5/13,3/5/13,After Market,5:10:00 PM CST,ASMI,Q4,<empty>,<empty>,Verified
+3/5/13,3/5/13,After Market,6:10:00 PM CST,GRP.U,Q4,0.625,0.535,Verified
+3/5/13,3/5/13,After Market,9:50:00 PM CST,HTCO,Q4,0.09,0.19,Verified
+3/6/13,,During Market,,MDF,Q4,<empty>,<empty>,Unconfirmed
+3/6/13,,Before Market,,SCRYY,Q4,<empty>,<empty>,Verified
+3/6/13,,During Market,,UDRL,Q4,<empty>,<empty>,Unconfirmed
+3/6/13,3/6/13,Before Market,12:00:00 AM CST,VIP,Q4,<empty>,<empty>,Verified
+3/6/13,3/6/13,Before Market,1:00:00 AM CST,END,Q4,0.008,-0.15,Verified
+3/6/13,3/6/13,Before Market,3:00:00 AM CST,CTCM,Q4,<empty>,0.41,Verified
+3/6/13,3/6/13,Before Market,5:00:00 AM CST,BIG,Q4,1.994,2.08,Verified
+3/6/13,3/6/13,Before Market,5:00:00 AM CST,QRE,Q4,0.267,-0.24,Verified
+3/6/13,3/6/13,Before Market,5:00:00 AM CST,SPLS,Q4,0.449,0.46,Verified
+3/6/13,3/6/13,Before Market,5:00:00 AM CST,THRM,Q4,0.15,0.17,Verified
+3/6/13,3/6/13,Before Market,5:00:00 AM CST,WD,Q4,0.628,0.54,Verified
+3/6/13,3/6/13,Before Market,5:15:00 AM CST,TFM,Q4,0.446,0.43,Verified
+3/6/13,3/6/13,Before Market,5:45:00 AM CST,RELV,Q4,<empty>,0.03,Verified
+3/6/13,3/6/13,Before Market,6:00:00 AM CST,AEGR,Q4,-0.621,-0.86,Verified
+3/6/13,3/6/13,Before Market,6:30:00 AM CST,MFB,Q4,0.213,0.22,Verified
+3/6/13,3/6/13,Before Market,6:30:00 AM CST,POZN,Q4,-0.207,-0.2,Verified
+3/6/13,3/6/13,Before Market,6:30:00 AM CST,ZLCS,Q4,-0.075,-0.06,Unconfirmed
+3/6/13,3/6/13,Before Market,6:45:00 AM CST,AACC,Q4,0.06,0.01,Verified
+3/6/13,3/6/13,Before Market,6:45:00 AM CST,BF.A,Q3,<empty>,0.73,Verified
+3/6/13,3/6/13,Before Market,6:45:00 AM CST,BF.B,Q3,0.696,0.73,Verified
+3/6/13,3/6/13,Before Market,7:00:00 AM CST,AEO,Q4,0.555,0.55,Verified
+3/6/13,3/6/13,Before Market,7:00:00 AM CST,FLL,Q4,0.002,-0.04,Verified
+3/6/13,3/6/13,Before Market,7:00:00 AM CST,HURC,Q1,<empty>,0.34,Verified
+3/6/13,3/6/13,Before Market,7:00:00 AM CST,LINC,Q4,0.11,0.31,Verified
+3/6/13,3/6/13,Before Market,7:00:00 AM CST,OSIR,Q4,-0.15,-0.08,Verified
+3/6/13,3/6/13,Before Market,7:00:00 AM CST,TRK,Q4,-0.03,0.09,Verified
+3/6/13,3/6/13,Before Market,7:00:00 AM CST,WMC,Q4,0.867,1.05,Verified
+3/6/13,3/6/13,Before Market,7:26:00 AM CST,DIIBF,Q4,<empty>,0.91,Verified
+3/6/13,3/6/13,Before Market,7:30:00 AM CST,MFA,Q4,0.201,0.2,Verified
+3/6/13,3/6/13,Before Market,7:30:00 AM CST,VLGEA,Q2,0.6,0.65,Unconfirmed
+3/6/13,3/6/13,Before Market,7:55:00 AM CST,WRES,Q4,0.04,0.06,Verified
+3/6/13,3/6/13,Before Market,8:15:00 AM CST,HOV,Q1,-0.094,-0.08,Verified
+3/6/13,3/6/13,Before Market,8:15:00 AM CST,MNDO,Q4,<empty>,0.07,Verified
+3/6/13,3/6/13,During Market,11:16:00 AM CST,WG,Q4,0.071,0.11,Verified
+3/6/13,3/6/13,After Market,3:00:00 PM CST,IDSY,Q4,-0.07,-0.02,Verified
+3/6/13,3/6/13,After Market,3:00:00 PM CST,MTN,Q2,1.713,1.65,Verified
+3/6/13,3/6/13,After Market,3:00:00 PM CST,MYRG,Q4,0.408,0.46,Verified
+3/6/13,3/6/13,After Market,3:00:00 PM CST,SIGA,Q4,0.067,-0.06,Verified
+3/6/13,3/6/13,After Market,3:01:00 PM CST,HF,Q4,0.37,0.52,Verified
+3/6/13,3/6/13,After Market,3:01:00 PM CST,HPP,Q4,0.21,0.23,Verified
+3/6/13,3/6/13,After Market,3:01:00 PM CST,KFY,Q3,0.286,0.31,Verified
+3/6/13,3/6/13,After Market,3:01:00 PM CST,PDII,Q4,-0.065,-1.64,Verified
+3/6/13,3/6/13,Unspecified,3:01:00 PM CST,SCTY,Q4,-0.488,-1.1,Verified
+3/6/13,3/6/13,After Market,3:01:00 PM CST,TACT,Q4,<empty>,0.23,Verified
+3/6/13,3/6/13,After Market,3:01:00 PM CST,VVTV,Q4,-0.11,-0.23,Verified
+3/6/13,3/6/13,After Market,3:02:00 PM CST,PETM,Q4,1.21,1.24,Verified
+3/6/13,3/6/13,After Market,3:02:00 PM CST,TCAP,Q4,0.549,0.57,Verified
+3/6/13,3/6/13,After Market,3:05:00 PM CST,BIOL,Q4,-0.005,0.05,Verified
+3/6/13,3/6/13,After Market,3:05:00 PM CST,CODI,Q4,0.27,-0.14,Verified
+3/6/13,3/6/13,After Market,3:05:00 PM CST,DSS,Q4,-0.05,-0.05,Verified
+3/6/13,3/6/13,After Market,3:05:00 PM CST,INTT,Q4,0.02,0.02,Verified
+3/6/13,3/6/13,After Market,3:05:00 PM CST,KWR,Q4,0.763,0.99,Verified
+3/6/13,3/6/13,After Market,3:05:00 PM CST,SCVL,Q4,0.212,0.16,Verified
+3/6/13,3/6/13,After Market,3:06:00 PM CST,FRP,Q4,-1.473,<empty>,Verified
+3/6/13,3/6/13,After Market,3:06:00 PM CST,NSYS,Q4,<empty>,0.1,Verified
+3/6/13,3/6/13,After Market,3:10:00 PM CST,FURX,Q4,-1.807,-0.9,Verified
+3/6/13,3/6/13,After Market,3:10:00 PM CST,LVB,Q4,0.475,0.51,Verified
+3/6/13,3/6/13,After Market,3:12:00 PM CST,DRYS,Q4,-0.113,-0.15,Verified
+3/6/13,3/6/13,After Market,3:15:00 PM CST,ALG,Q4,0.293,0.4,Verified
+3/6/13,3/6/13,After Market,3:15:00 PM CST,COKE,Q4,0.18,0.33,Verified
+3/6/13,3/6/13,After Market,3:15:00 PM CST,GSX,Q4,<empty>,-0.02,Verified
+3/6/13,3/6/13,After Market,3:15:00 PM CST,OILT,Q4,0.378,0.38,Verified
+3/6/13,3/6/13,After Market,3:15:00 PM CST,PSTR,Q4,0.14,0.62,Verified
+3/6/13,3/6/13,After Market,3:19:00 PM CST,PNY,Q1,1.156,1.18,Verified
+3/6/13,3/6/13,After Market,3:24:00 PM CST,ERII,Q4,-0.02,-0.04,Verified
+3/6/13,3/6/13,After Market,3:24:00 PM CST,NAVB,Q4,-0.08,-0.07,Verified
+3/6/13,3/6/13,After Market,3:27:00 PM CST,NATR,Q4,<empty>,0.28,Verified
+3/6/13,3/6/13,After Market,3:30:00 PM CST,AMTG,Q4,0.703,0.65,Verified
+3/6/13,3/6/13,After Market,3:30:00 PM CST,ASI,Q4,-0.385,-0.06,Verified
+3/6/13,3/6/13,After Market,3:30:00 PM CST,HTHT,Q4,0.02,0.014,Verified
+3/6/13,3/6/13,After Market,3:30:00 PM CST,SMTC,Q4,0.337,0.32,Verified
+3/6/13,3/6/13,After Market,3:45:00 PM CST,MLR,Q4,0.17,0.15,Verified
+3/6/13,3/6/13,After Market,3:48:00 PM CST,JBT,Q4,0.62,0.64,Verified
+3/6/13,3/6/13,After Market,4:00:00 PM CST,BORN,Q4,<empty>,0.135,Verified
+3/6/13,3/6/13,After Market,4:00:00 PM CST,CSU,Q4,0.094,0.07,Verified
+3/6/13,3/6/13,After Market,4:00:00 PM CST,LHCG,Q4,0.369,0.43,Verified
+3/6/13,3/6/13,After Market,4:02:00 PM CST,UBA,Q1,0.235,0.12,Unconfirmed
+3/6/13,3/6/13,After Market,4:05:00 PM CST,CIX,Q4,<empty>,0.05,Verified
+3/6/13,3/6/13,After Market,4:15:00 PM CST,CLNY,Q4,0.36,0.41,Verified
+3/6/13,3/6/13,After Market,4:16:00 PM CST,NC,Q4,<empty>,2.81,Verified
+3/6/13,3/6/13,After Market,4:25:00 PM CST,ACW,Q4,-0.457,-3.29,Verified
+3/6/13,3/6/13,After Market,4:40:00 PM CST,FUNC,Q4,<empty>,0.38,Verified
+3/6/13,3/6/13,After Market,4:49:00 PM CST,SN,Q4,0.153,0.05,Verified
+3/6/13,3/6/13,After Market,5:18:00 PM CST,NMFC,Q4,0.335,<empty>,Verified
+3/6/13,3/6/13,After Market,5:59:00 PM CST,ALJ,Q4,0.578,0.58,Verified
+3/6/13,3/6/13,After Market,6:16:00 PM CST,FCTY,Q4,0.09,0.1,Verified
+3/6/13,3/6/13,After Market,6:30:00 PM CST,XOXO,Q4,0.083,0.13,Verified
+3/6/13,3/6/13,After Market,7:00:00 PM CST,GNCMA,Q4,0.09,<empty>,Verified
+3/7/13,,Before Market,,DK,Q4,0.989,1.06,Verified
+3/7/13,,After Market,,FSIN,Q4,<empty>,<empty>,Unconfirmed
+3/7/13,,After Market,,GRP,Q4,<empty>,<empty>,Unconfirmed
+3/7/13,,Before Market,,IGATY,Q2,<empty>,<empty>,Unconfirmed
+3/7/13,,After Market,,TPCG,Q4,<empty>,<empty>,Unconfirmed
+3/7/13,3/7/13,Before Market,12:13:00 AM CST,DEG,Q4,<empty>,<empty>,Verified
+3/7/13,3/7/13,Before Market,2:00:00 AM CST,BITA,Q4,0.18,0.26,Verified
+3/7/13,3/7/13,Before Market,3:31:00 AM CST,SCR,Q4,0.07,-0.06,Verified
+3/7/13,3/7/13,Before Market,4:00:00 AM CST,CNQ,Q4,0.442,0.32,Verified
+3/7/13,3/7/13,Before Market,4:00:00 AM CST,TGA,Q4,0.32,0.552,Verified
+3/7/13,3/7/13,Before Market,4:45:00 AM CST,DANG,Q4,-0.298,-0.05,Verified
+3/7/13,3/7/13,Before Market,5:00:00 AM CST,DSGX,Q4,0.143,0.12,Verified
+3/7/13,3/7/13,Before Market,5:00:00 AM CST,EPL,Q4,0.47,0.67,Verified
+3/7/13,3/7/13,Before Market,5:00:00 AM CST,IQNT,Q4,-0.042,-2.76,Verified
+3/7/13,3/7/13,Before Market,5:00:00 AM CST,REN,Q4,0.018,-0.03,Verified
+3/7/13,3/7/13,Before Market,5:00:00 AM CST,SFD,Q3,<empty>,0.58,Verified
+3/7/13,3/7/13,Before Market,5:00:00 AM CST,SFE,Q4,-0.23,-0.51,Verified
+3/7/13,3/7/13,Before Market,5:30:00 AM CST,FXCM,Q4,0.145,0.13,Verified
+3/7/13,3/7/13,Before Market,5:30:00 AM CST,NSM,Q4,0.658,0.71,Verified
+3/7/13,3/7/13,Before Market,5:30:00 AM CST,PCRX,Q4,-0.405,-0.5,Verified
+3/7/13,3/7/13,Before Market,5:30:00 AM CST,SCON,Q4,<empty>,-0.05,Verified
+3/7/13,3/7/13,Before Market,5:55:00 AM CST,JRCC,Q4,-1.402,-1.59,Verified
+3/7/13,3/7/13,Before Market,6:00:00 AM CST,CIEN,Q1,-0.246,0.12,Verified
+3/7/13,3/7/13,Before Market,6:00:00 AM CST,CNSL,Q4,0.167,0.2,Verified
+3/7/13,3/7/13,Before Market,6:00:00 AM CST,FGP,Q2,0.802,0.73,Verified
+3/7/13,3/7/13,Before Market,6:00:00 AM CST,FLY,Q4,0.854,<empty>,Verified
+3/7/13,3/7/13,Before Market,6:00:00 AM CST,HITK,Q3,0.698,0.43,Verified
+3/7/13,3/7/13,Before Market,6:00:00 AM CST,JW.A,Q3,0.825,0.93,Verified
+3/7/13,3/7/13,Before Market,6:00:00 AM CST,JW.B,Q3,<empty>,0.93,Verified
+3/7/13,3/7/13,Before Market,6:00:00 AM CST,LRE,Q4,0.38,-0.02,Verified
+3/7/13,3/7/13,Before Market,6:00:00 AM CST,MDXG,Q4,-0.015,-0.02,Verified
+3/7/13,3/7/13,Before Market,6:00:00 AM CST,NXST,Q4,0.47,4.99,Verified
+3/7/13,3/7/13,Before Market,6:00:00 AM CST,PMBC,Q4,<empty>,-0.07,Verified
+3/7/13,3/7/13,Before Market,6:00:00 AM CST,SRPT,Q4,-0.375,-2.36,Verified
+3/7/13,3/7/13,Before Market,6:00:00 AM CST,THLD,Q4,-0.123,-0.1,Verified
+3/7/13,3/7/13,Before Market,6:00:00 AM CST,VRS,Q4,<empty>,0.48,Verified
+3/7/13,3/7/13,Before Market,6:07:00 AM CST,NAV,Q1,-1.667,-1.42,Verified
+3/7/13,3/7/13,Before Market,6:25:00 AM CST,MOCO,Q4,<empty>,0.19,Verified
+3/7/13,3/7/13,Unspecified,6:30:00 AM CST,CADX,Q4,-0.159,-0.15,Verified
+3/7/13,3/7/13,Before Market,6:30:00 AM CST,CASM,Q4,<empty>,-0.18,Verified
+3/7/13,3/7/13,Before Market,6:30:00 AM CST,CECE,Q4,0.183,0.18,Verified
+3/7/13,3/7/13,Before Market,6:30:00 AM CST,RGEN,Q4,0.07,0.3,Verified
+3/7/13,3/7/13,Before Market,6:30:00 AM CST,TWMC,Q4,<empty>,0.38,Verified
+3/7/13,3/7/13,Before Market,6:55:00 AM CST,EDAC,Q4,<empty>,0.26,Verified
+3/7/13,3/7/13,Before Market,7:00:00 AM CST,BKCC,Q4,0.124,0.18,Verified
+3/7/13,3/7/13,Before Market,7:00:00 AM CST,BLT,Q4,0.227,0.18,Verified
+3/7/13,3/7/13,Before Market,7:00:00 AM CST,EGT,Q4,<empty>,0.02,Verified
+3/7/13,3/7/13,Before Market,7:00:00 AM CST,FUR,Q4,0.265,0.14,Verified
+3/7/13,3/7/13,Before Market,7:00:00 AM CST,ITPOF,Q4,<empty>,0.16,Verified
+3/7/13,3/7/13,Before Market,7:00:00 AM CST,JRN,Q4,0.26,0.3,Verified
+3/7/13,3/7/13,Before Market,7:00:00 AM CST,NX,Q1,-0.058,-0.17,Verified
+3/7/13,3/7/13,Before Market,7:00:00 AM CST,PRFT,Q4,<empty>,0.23,Verified
+3/7/13,3/7/13,Before Market,7:00:00 AM CST,TUC,Q4,0.18,0.17,Verified
+3/7/13,3/7/13,Before Market,7:00:00 AM CST,USPH,Q4,0.332,0.34,Verified
+3/7/13,3/7/13,Before Market,7:03:00 AM CST,CLDX,Q4,-0.253,-0.27,Verified
+3/7/13,3/7/13,Before Market,7:15:00 AM CST,PFBI,Q4,<empty>,0.34,Verified
+3/7/13,3/7/13,Before Market,7:30:00 AM CST,CMN,Q2,0.375,0.38,Verified
+3/7/13,3/7/13,Before Market,7:30:00 AM CST,REIS,Q4,0.08,0.58,Verified
+3/7/13,3/7/13,Before Market,7:45:00 AM CST,ORBT,Q4,0.14,0.24,Verified
+3/7/13,3/7/13,Before Market,7:52:00 AM CST,INVE,Q4,-0.03,0.01,Verified
+3/7/13,3/7/13,Before Market,8:00:00 AM CST,PRIM,Q4,0.299,0.33,Verified
+3/7/13,3/7/13,Before Market,8:10:00 AM CST,KR,Q4,0.696,0.88,Verified
+3/7/13,3/7/13,During Market,11:24:00 AM CST,MSEX,Q4,0.18,0.17,Verified
+3/7/13,3/7/13,During Market,11:26:00 AM CST,ECBE,Q4,-0.03,0.04,Verified
+3/7/13,3/7/13,During Market,2:00:00 PM CST,FIZZ,Q3,<empty>,0.18,Verified
+3/7/13,3/7/13,After Market,3:00:00 PM CST,DAEG,Q3,<empty>,0.03,Verified
+3/7/13,3/7/13,After Market,3:00:00 PM CST,FNSR,Q3,0.075,-0.04,Verified
+3/7/13,3/7/13,After Market,3:00:00 PM CST,OGXI,Q4,-0.513,-0.28,Verified
+3/7/13,3/7/13,After Market,3:01:00 PM CST,CDR,Q4,0.094,0.12,Verified
+3/7/13,3/7/13,After Market,3:01:00 PM CST,COO,Q1,1.195,1.23,Verified
+3/7/13,3/7/13,After Market,3:01:00 PM CST,EBS,Q4,0.455,0.45,Verified
+3/7/13,3/7/13,After Market,3:01:00 PM CST,LOV,Q4,-0.095,-0.51,Verified
+3/7/13,3/7/13,After Market,3:01:00 PM CST,MEET,Q4,-0.07,0.03,Verified
+3/7/13,3/7/13,After Market,3:01:00 PM CST,MNTG,Q4,<empty>,-0.2,Verified
+3/7/13,3/7/13,After Market,3:01:00 PM CST,POWR,Q4,0.105,0.13,Verified
+3/7/13,3/7/13,After Market,3:01:00 PM CST,RSE,Q4,<empty>,0.38,Verified
+3/7/13,3/7/13,After Market,3:01:00 PM CST,SKUL,Q4,0.473,0.47,Verified
+3/7/13,3/7/13,After Market,3:01:00 PM CST,ZQK,Q1,-0.072,-0.16,Verified
+3/7/13,3/7/13,After Market,3:03:00 PM CST,HRB,Q3,-0.033,-0.22,Verified
+3/7/13,3/7/13,After Market,3:05:00 PM CST,ARSD,Q4,0.17,0.12,Verified
+3/7/13,3/7/13,After Market,3:05:00 PM CST,CCIX,Q4,<empty>,0.4,Verified
+3/7/13,3/7/13,After Market,3:05:00 PM CST,CYTX,Q4,-0.155,-0.06,Verified
+3/7/13,3/7/13,After Market,3:05:00 PM CST,MAIN,Q4,0.496,0.58,Verified
+3/7/13,3/7/13,After Market,3:05:00 PM CST,MED,Q4,0.25,0.28,Verified
+3/7/13,3/7/13,After Market,3:05:00 PM CST,MLNK,Q2,<empty>,-0.29,Verified
+3/7/13,3/7/13,After Market,3:05:00 PM CST,QADB,Q4,0.12,0.11,Verified
+3/7/13,3/7/13,After Market,3:05:00 PM CST,WDAY,Q4,-0.25,-0.16,Verified
+3/7/13,3/7/13,After Market,3:07:00 PM CST,P,Q4,-0.092,-0.04,Verified
+3/7/13,3/7/13,After Market,3:10:00 PM CST,AVCA,Q4,-0.01,-0.16,Verified
+3/7/13,3/7/13,After Market,3:10:00 PM CST,JSDA,Q4,<empty>,-0.01,Verified
+3/7/13,3/7/13,After Market,3:10:00 PM CST,SQNM,Q4,-0.243,-0.29,Verified
+3/7/13,3/7/13,After Market,3:15:00 PM CST,THO,Q2,0.373,0.37,Verified
+3/7/13,3/7/13,After Market,3:17:00 PM CST,CHTP,Q4,-0.078,-0.03,Verified
+3/7/13,3/7/13,After Market,3:21:00 PM CST,III,Q4,-0.005,0.05,Verified
+3/7/13,3/7/13,After Market,3:26:00 PM CST,CMTL,Q2,0.139,0.14,Verified
+3/7/13,3/7/13,After Market,3:30:00 PM CST,WX,Q4,0.254,0.38,Verified
+3/7/13,3/7/13,After Market,3:31:00 PM CST,ABCD,Q4,-0.21,<empty>,Verified
+3/7/13,3/7/13,After Market,3:40:00 PM CST,BFS,Q4,0.61,0.54,Verified
+3/7/13,3/7/13,After Market,3:48:00 PM CST,RNET,Q4,0.228,0.2,Verified
+3/7/13,3/7/13,After Market,3:50:00 PM CST,TECUA,Q4,<empty>,<empty>,Verified
+3/7/13,3/7/13,After Market,3:50:00 PM CST,TECUB,Q4,<empty>,<empty>,Verified
+3/7/13,3/7/13,After Market,3:56:00 PM CST,APAGF,Q4,0.33,0.21,Verified
+3/7/13,3/7/13,After Market,4:00:00 PM CST,GLPW,Q4,0.39,0.51,Verified
+3/7/13,3/7/13,After Market,4:00:00 PM CST,SGK,Q4,<empty>,0.15,Verified
+3/7/13,3/7/13,After Market,4:01:00 PM CST,CORT,Q4,-0.085,-0.09,Verified
+3/7/13,3/7/13,After Market,4:01:00 PM CST,IDT,Q2,0.14,0.41,Verified
+3/7/13,3/7/13,After Market,4:24:00 PM CST,FDUS,Q4,0.38,0.43,Verified
+3/7/13,3/7/13,After Market,5:52:00 PM CST,IHC,Q4,<empty>,0.46,Verified
+3/7/13,3/7/13,After Market,6:10:00 PM CST,DNN,Q4,-0.02,-0.01,Verified
+3/7/13,3/7/13,After Market,6:24:00 PM CST,AMIC,Q4,<empty>,0.19,Verified
+3/7/13,3/7/13,After Market,7:30:00 PM CST,BPZ,Q4,-0.13,0.12,Verified
+3/7/13,3/7/13,After Market,7:40:00 PM CST,CPK,Q4,0.865,1.02,Verified
+3/8/13,3/7/13,Before Market,11:12:00 PM CST,STAN,Q4,0.27,0.26,Verified
+3/8/13,3/8/13,Before Market,4:30:00 AM CST,FRM,Q4,0.03,0.1,Verified
+3/8/13,3/8/13,Before Market,5:00:00 AM CST,DM,Q4,0.017,0.04,Verified
+3/8/13,3/8/13,Before Market,5:30:00 AM CST,FSYS,Q4,-0.026,0.01,Verified
+3/8/13,3/8/13,Before Market,5:30:00 AM CST,HYGS,Q4,-0.28,-0.42,Verified
+3/8/13,3/8/13,Before Market,6:00:00 AM CST,DRTX,Q4,-0.867,<empty>,Verified
+3/8/13,3/8/13,Before Market,6:00:00 AM CST,FL,Q4,0.721,0.73,Verified
+3/8/13,3/8/13,Before Market,6:30:00 AM CST,KMG,Q2,0.17,0.14,Verified
+3/8/13,3/8/13,Before Market,6:30:00 AM CST,MEA,Q4,-0.02,-0.06,Verified
+3/8/13,3/8/13,Before Market,6:30:00 AM CST,MEMS,Q4,-0.04,-0.06,Verified
+3/8/13,3/8/13,Before Market,6:31:00 AM CST,GCO,Q4,2.131,2.16,Verified
+3/8/13,3/8/13,Before Market,6:45:00 AM CST,ANN,Q4,0.053,0.05,Verified
+3/8/13,3/8/13,Before Market,7:00:00 AM CST,ARCO,Q4,0.205,0.21,Verified
+3/8/13,3/8/13,Unspecified,7:00:00 AM CST,TAHO,Q4,<empty>,<empty>,Verified
+3/8/13,3/8/13,Before Market,7:30:00 AM CST,GMO,Q4,-0.023,-0.03,Verified
+3/8/13,3/8/13,Before Market,8:15:00 AM CST,TRC,Q4,<empty>,0,Verified
+3/8/13,3/8/13,During Market,9:55:00 AM CST,LSBI,Q4,<empty>,0.43,Verified
+3/8/13,3/8/13,During Market,12:00:00 PM CST,NWLI,Q4,4.87,6.2,Verified
+3/8/13,3/8/13,After Market,3:09:00 PM CST,BRID,Q1,<empty>,0.19,Verified
+3/8/13,3/8/13,After Market,3:21:00 PM CST,UVE,Q4,<empty>,0.11,Verified
+3/8/13,3/8/13,After Market,3:54:00 PM CST,ATAX,Q4,<empty>,0.04,Verified
+3/8/13,3/8/13,After Market,4:39:00 PM CST,NBS,Q4,-0.053,<empty>,Verified
+3/11/13,,Before Market,,ANX,Q4,-0.13,<empty>,Unconfirmed
+3/11/13,,Unspecified,,GEOY,Q4,<empty>,<empty>,Unconfirmed
+3/11/13,,Unspecified,,LBCP,Q4,<empty>,<empty>,Unconfirmed
+3/11/13,,After Market,,SOMX,Q4,<empty>,<empty>,Unconfirmed
+3/11/13,,Before Market,,SSL,Q2,<empty>,<empty>,Verified
+3/11/13,3/11/13,Before Market,4:00:00 AM CDT,CHYR,Q4,-0.09,-1.17,Verified
+3/11/13,3/11/13,Before Market,5:33:00 AM CDT,BTN,Q4,-0.02,0.11,Verified
+3/11/13,3/11/13,Before Market,5:34:00 AM CDT,CSIQ,Q4,-0.835,-1.01,Verified
+3/11/13,3/11/13,Before Market,6:00:00 AM CDT,EAC,Q4,0.137,-0.1,Verified
+3/11/13,3/11/13,Before Market,6:16:00 AM CDT,RRST,Q4,0.12,0.14,Verified
+3/11/13,3/11/13,Before Market,6:26:00 AM CDT,IDRA,Q4,-0.19,-0.24,Verified
+3/11/13,3/11/13,Before Market,6:30:00 AM CDT,DKS,Q4,1.067,1.03,Verified
+3/11/13,3/11/13,Before Market,6:41:00 AM CDT,NNBR,Q4,0.163,0.16,Verified
+3/11/13,3/11/13,Before Market,7:00:00 AM CDT,GSL,Q4,<empty>,0.17,Verified
+3/11/13,3/11/13,Before Market,7:00:00 AM CDT,RVM,Q4,<empty>,<empty>,Verified
+3/11/13,3/11/13,Before Market,7:30:00 AM CDT,CYTR,Q4,-0.185,<empty>,Verified
+3/11/13,3/11/13,Before Market,8:00:00 AM CDT,ESYS,Q3,<empty>,0.18,Verified
+3/11/13,3/11/13,During Market,8:47:00 AM CDT,SXCL,Q4,<empty>,-0.01,Verified
+3/11/13,3/11/13,During Market,9:58:00 AM CDT,ELRNF,Q4,<empty>,0.25,Verified
+3/11/13,3/11/13,During Market,9:59:00 AM CDT,ARDNA,Q4,<empty>,1.97,Verified
+3/11/13,3/11/13,During Market,12:55:00 PM CDT,LLEN,Q3,0.17,0.42,Verified
+3/11/13,3/11/13,During Market,1:15:00 PM CDT,EPOC,Q4,0.01,-0.04,Verified
+3/11/13,3/11/13,After Market,3:00:00 PM CDT,CASY,Q3,0.473,0.4,Verified
+3/11/13,3/11/13,Unspecified,3:00:00 PM CDT,URBN,Q4,0.565,0.56,Verified
+3/11/13,3/11/13,After Market,3:01:00 PM CDT,BDE,Q4,-0.032,0.05,Verified
+3/11/13,3/11/13,After Market,3:01:00 PM CDT,DMND,Q2,0.048,0.05,Verified
+3/11/13,3/11/13,After Market,3:01:00 PM CDT,EMAN,Q4,0.05,0.04,Verified
+3/11/13,3/11/13,After Market,3:01:00 PM CDT,GEVA,Q4,-0.617,-0.62,Verified
+3/11/13,3/11/13,After Market,3:01:00 PM CDT,MNTX,Q4,0.16,0.16,Verified
+3/11/13,3/11/13,After Market,3:01:00 PM CDT,ODC,Q2,0.48,0.31,Verified
+3/11/13,3/11/13,After Market,3:04:00 PM CDT,HEK,Q4,-0.039,0.03,Verified
+3/11/13,3/11/13,After Market,3:05:00 PM CDT,FLOW,Q3,0.057,0.06,Verified
+3/11/13,3/11/13,After Market,3:05:00 PM CDT,GST,Q4,0.032,0.07,Verified
+3/11/13,3/11/13,After Market,3:05:00 PM CDT,GVP,Q4,<empty>,-0.02,Verified
+3/11/13,3/11/13,After Market,3:05:00 PM CDT,PULS,Q4,<empty>,-0.2,Verified
+3/11/13,3/11/13,After Market,3:05:00 PM CDT,SGMS,Q4,0.055,-0.29,Verified
+3/11/13,3/11/13,After Market,3:05:00 PM CDT,XNPT,Q4,-0.42,0.07,Verified
+3/11/13,3/11/13,After Market,3:10:00 PM CDT,DTSI,Q4,<empty>,-0.33,Verified
+3/11/13,3/11/13,After Market,3:15:00 PM CDT,ALOG,Q2,0.685,1.05,Verified
+3/11/13,3/11/13,After Market,3:15:00 PM CDT,AMBT,Q4,<empty>,<empty>,Verified
+3/11/13,3/11/13,After Market,3:15:00 PM CDT,APTS,Q4,<empty>,0.04,Verified
+3/11/13,3/11/13,After Market,3:19:00 PM CDT,CQB,Q4,-0.34,-7.2,Verified
+3/11/13,3/11/13,After Market,3:30:00 PM CDT,HIL,Q4,-0.018,-0.58,Verified
+3/11/13,3/11/13,After Market,3:30:00 PM CDT,KERX,Q4,-0.072,-0.09,Verified
+3/11/13,3/11/13,After Market,3:30:00 PM CDT,PLOW,Q4,-0.043,-0.05,Verified
+3/11/13,3/11/13,After Market,3:30:00 PM CDT,STEI,Q1,0.125,0.15,Verified
+3/11/13,3/11/13,After Market,3:30:00 PM CDT,WEBC,Q2,<empty>,1.62,Verified
+3/11/13,3/11/13,After Market,3:33:00 PM CDT,SAFT,Q4,0.63,0.62,Verified
+3/11/13,3/11/13,After Market,3:38:00 PM CDT,CIA,Q4,0.115,-0.01,Verified
+3/11/13,3/11/13,After Market,3:44:00 PM CDT,BIOS,Q4,0.013,-0.03,Verified
+3/11/13,3/11/13,After Market,3:49:00 PM CDT,CPTP,Q4,<empty>,<empty>,Verified
+3/11/13,3/11/13,After Market,3:54:00 PM CDT,EKDKQ,Q4,<empty>,<empty>,Verified
+3/11/13,3/11/13,After Market,3:54:00 PM CDT,UMH,Q4,<empty>,0.62,Verified
+3/11/13,3/11/13,After Market,4:00:00 PM CDT,PWRD,Q4,0.402,0.469,Verified
+3/11/13,3/11/13,After Market,4:00:00 PM CDT,SVN,Q4,<empty>,0.019,Verified
+3/12/13,3/11/13,After Market,4:29:00 PM CDT,IN,Q4,0.11,-0.08,Verified
+3/11/13,3/11/13,After Market,5:01:00 PM CDT,XRM,Q4,<empty>,-0.7,Verified
+3/11/13,3/11/13,After Market,5:56:00 PM CDT,HMIN,Q4,0.06,1.74,Verified
+3/11/13,3/11/13,After Market,6:12:00 PM CDT,UGNE,Q4,<empty>,-0.16,Verified
+3/11/13,3/11/13,After Market,6:20:00 PM CDT,FCEL,Q1,-0.043,-0.07,Verified
+3/11/13,3/11/13,After Market,6:42:00 PM CDT,WLFC,Q4,<empty>,-0.09,Verified
+3/11/13,3/11/13,After Market,7:01:00 PM CDT,MOTR,Q4,<empty>,-0.52,Verified
+3/11/13,3/11/13,After Market,8:05:00 PM CDT,GIFI,Q4,0.525,-0.56,Verified
+3/11/13,3/11/13,After Market,9:06:00 PM CDT,GFA,Q4,0.055,<empty>,Verified
+3/12/13,,After Market,,BPAX,Q4,<empty>,<empty>,Unconfirmed
+3/12/13,3/12/13,Before Market,2:01:00 AM CDT,COST,Q2,1.057,1.24,Verified
+3/12/13,3/12/13,Before Market,5:00:00 AM CDT,RDNT,Q4,0.06,-0.11,Verified
+3/12/13,3/12/13,Before Market,5:00:00 AM CDT,SSI,Q4,1.183,1.09,Verified
+3/12/13,3/12/13,Before Market,5:01:00 AM CDT,CVI,Q4,0.97,1.2,Verified
+3/12/13,3/12/13,Before Market,5:29:00 AM CDT,EJ,Q4,-0.05,0.08,Verified
+3/12/13,3/12/13,Before Market,5:30:00 AM CDT,LACO,Q4,<empty>,0.07,Verified
+3/12/13,3/12/13,Before Market,5:33:00 AM CDT,CNTF,Q4,<empty>,-0.06,Verified
+3/12/13,3/12/13,Before Market,5:59:00 AM CDT,BONT,Q4,<empty>,3.71,Verified
+3/12/13,3/12/13,Before Market,6:00:00 AM CDT,AMED,Q4,0.22,0.23,Verified
+3/12/13,3/12/13,Before Market,6:00:00 AM CDT,BPI,Q4,0.299,0.29,Verified
+3/12/13,3/12/13,Before Market,6:00:00 AM CDT,CACH,Q4,<empty>,-0.18,Verified
+3/12/13,3/12/13,Before Market,6:00:00 AM CDT,LMIA,Q4,0.45,0.38,Verified
+3/12/13,3/12/13,Before Market,6:00:00 AM CDT,LPI,Q4,0.106,0.11,Verified
+3/12/13,3/12/13,Before Market,6:30:00 AM CDT,EXK,Q4,0.24,0.13,Verified
+3/12/13,3/12/13,Before Market,6:30:00 AM CDT,UWN,Q3,0.01,0.01,Verified
+3/12/13,3/12/13,Before Market,6:45:00 AM CDT,AEPI,Q1,<empty>,1.23,Verified
+3/12/13,3/12/13,Before Market,6:45:00 AM CDT,MDW,Q4,-0.02,<empty>,Verified
+3/12/13,3/12/13,Before Market,6:45:00 AM CDT,SYPR,Q4,0.01,-0.04,Verified
+3/12/13,3/12/13,Unspecified,6:45:00 AM CDT,TLF,Q4,<empty>,0.22,Verified
+3/12/13,3/12/13,Unspecified,7:00:00 AM CDT,MILL,Q3,0.07,-0.14,Verified
+3/12/13,3/12/13,Before Market,7:00:00 AM CDT,TICC,Q4,0.245,0.25,Verified
+3/12/13,3/12/13,Before Market,7:19:00 AM CDT,TLP,Q4,0.69,0.39,Verified
+3/12/13,3/12/13,Before Market,7:45:00 AM CDT,CVU,Q4,0.44,0.43,Verified
+3/12/13,3/12/13,Before Market,8:00:00 AM CDT,ADGE,Q4,<empty>,-0.03,Verified
+3/12/13,3/12/13,Before Market,8:00:00 AM CDT,RAVN,Q4,0.25,0.3,Verified
+3/12/13,3/12/13,During Market,11:00:00 AM CDT,SGA,Q4,0.97,1.02,Verified
+3/12/13,3/12/13,During Market,11:13:00 AM CDT,YORW,Q4,0.178,0.18,Verified
+3/12/13,3/12/13,Unspecified,3:00:00 PM CDT,BSTC,Q4,0.07,0.16,Verified
+3/12/13,3/12/13,After Market,3:00:00 PM CDT,EVOL,Q4,0.11,0.12,Verified
+3/12/13,3/12/13,After Market,3:00:00 PM CDT,GNMK,Q4,-0.227,-0.15,Verified
+3/12/13,3/12/13,After Market,3:00:00 PM CDT,KTOS,Q4,-0.053,-1.61,Verified
+3/12/13,3/12/13,After Market,3:00:00 PM CDT,LMNR,Q1,-0.27,-0.28,Verified
+3/12/13,3/12/13,After Market,3:00:00 PM CDT,OXGN,Q4,<empty>,<empty>,Verified
+3/12/13,3/12/13,After Market,3:00:00 PM CDT,PPHM,Q3,-0.06,-0.04,Verified
+3/12/13,3/12/13,After Market,3:00:00 PM CDT,SUMR,Q4,0.02,-0.09,Verified
+3/12/13,3/12/13,After Market,3:00:00 PM CDT,TSRX,Q4,-0.456,-0.36,Verified
+3/12/13,3/12/13,After Market,3:01:00 PM CDT,ACAD,Q4,-0.082,-0.11,Verified
+3/12/13,3/12/13,After Market,3:01:00 PM CDT,FOLD,Q4,-0.362,-0.25,Verified
+3/12/13,3/12/13,After Market,3:01:00 PM CDT,GCAP,Q4,0.045,-0.09,Verified
+3/12/13,3/12/13,After Market,3:01:00 PM CDT,HRZL,Q4,<empty>,-0.38,Verified
+3/12/13,3/12/13,After Market,3:01:00 PM CDT,WSR,Q4,0.25,0.09,Verified
+3/12/13,3/12/13,After Market,3:04:00 PM CDT,EGL,Q4,0.65,0.77,Verified
+3/12/13,3/12/13,After Market,3:04:00 PM CDT,MAXY,Q4,-0.09,-0.06,Verified
+3/12/13,3/12/13,After Market,3:05:00 PM CDT,ATHX,Q4,-0.12,-0.07,Verified
+3/12/13,3/12/13,After Market,3:05:00 PM CDT,COOL,Q1,-0.065,-0.02,Verified
+3/12/13,3/12/13,After Market,3:05:00 PM CDT,GALE,Q4,-0.104,<empty>,Verified
+3/12/13,3/12/13,After Market,3:05:00 PM CDT,GSIG,Q4,0.115,0.44,Verified
+3/12/13,3/12/13,After Market,3:05:00 PM CDT,KW,Q4,-0.07,0.14,Verified
+3/12/13,3/12/13,After Market,3:05:00 PM CDT,XOMA,Q4,-0.243,0.03,Verified
+3/12/13,3/12/13,After Market,3:05:00 PM CDT,ZLTQ,Q4,-0.133,-0.18,Verified
+3/12/13,3/12/13,After Market,3:06:00 PM CDT,GCA,Q4,0.16,0.17,Verified
+3/12/13,3/12/13,After Market,3:10:00 PM CDT,GSB,Q4,<empty>,0,Verified
+3/12/13,3/12/13,After Market,3:13:00 PM CDT,IPAR,Q4,0.183,0.21,Verified
+3/12/13,3/12/13,After Market,3:20:00 PM CDT,ENZ,Q2,-0.06,-0.14,Verified
+3/12/13,3/12/13,After Market,3:29:00 PM CDT,VELT,Q4,0.507,0.39,Verified
+3/12/13,3/12/13,After Market,3:30:00 PM CDT,BREW,Q4,0.01,0.01,Verified
+3/12/13,3/12/13,After Market,3:30:00 PM CDT,GERN,Q4,-0.138,-0.12,Verified
+3/12/13,3/12/13,After Market,3:30:00 PM CDT,JCS,Q4,<empty>,0.01,Verified
+3/12/13,3/12/13,After Market,3:30:00 PM CDT,SURG,Q2,0.073,0.05,Verified
+3/12/13,3/12/13,After Market,3:39:00 PM CDT,DOLE,Q4,-0.015,-0.59,Verified
+3/12/13,3/12/13,After Market,3:45:00 PM CDT,OMEX,Q4,0.02,-0.01,Verified
+3/12/13,3/12/13,After Market,3:47:00 PM CDT,ZN,Q4,<empty>,<empty>,Verified
+3/12/13,3/12/13,After Market,3:48:00 PM CDT,MGPI,Q4,<empty>,0.01,Verified
+3/12/13,3/12/13,After Market,3:55:00 PM CDT,IRET,Q3,0.165,0.16,Verified
+3/12/13,3/12/13,After Market,3:59:00 PM CDT,SEH,Q1,<empty>,-0.01,Verified
+3/12/13,3/12/13,After Market,4:08:00 PM CDT,KRO,Q4,0.013,-0.16,Verified
+3/12/13,3/12/13,After Market,4:30:00 PM CDT,NL,Q4,<empty>,0.05,Verified
+3/12/13,3/12/13,After Market,8:13:00 PM CDT,ERJ,Q4,0.905,0.68,Verified
+3/13/13,,After Market,,BMTI,Q4,<empty>,<empty>,Unconfirmed
+3/13/13,,Unspecified,,EONGY,Q4,0.08,<empty>,Verified
+3/13/13,,After Market,,ORCC,Q4,<empty>,<empty>,Unconfirmed
+3/13/13,3/13/13,Before Market,2:00:00 AM CDT,GSOL,Q4,0.22,0.37,Verified
+3/13/13,3/13/13,Before Market,2:19:00 AM CDT,TRMD,Q4,<empty>,<empty>,Verified
+3/13/13,3/13/13,Before Market,2:41:00 AM CDT,ESLT,Q4,1.09,1.62,Verified
+3/13/13,3/13/13,Before Market,5:45:00 AM CDT,MAG,Q4,<empty>,0.25,Verified
+3/13/13,3/13/13,Before Market,6:00:00 AM CDT,ATRS,Q4,-0.025,-0.04,Verified
+3/13/13,3/13/13,Before Market,6:00:00 AM CDT,DRL,Q4,<empty>,0.2,Verified
+3/13/13,3/13/13,Before Market,6:00:00 AM CDT,EXPR,Q4,0.738,0.75,Verified
+3/13/13,3/13/13,Before Market,6:00:00 AM CDT,SNSS,Q4,-0.195,-0.2,Verified
+3/13/13,3/13/13,Before Market,6:30:00 AM CDT,ADUS,Q4,0.2,0.3,Verified
+3/13/13,3/13/13,Before Market,6:30:00 AM CDT,KOPN,Q4,<empty>,-0.08,Verified
+3/13/13,3/13/13,Before Market,6:45:00 AM CDT,BGMD,Q4,-0.32,-0.14,Verified
+3/13/13,3/13/13,Before Market,6:45:00 AM CDT,DSCO,Q4,-0.277,-0.16,Verified
+3/13/13,3/13/13,Unspecified,7:00:00 AM CDT,PHMD,Q4,0.223,0.45,Verified
+3/13/13,3/13/13,Before Market,8:00:00 AM CDT,TREE,Q4,0.02,0.19,Verified
+3/13/13,3/13/13,Before Market,8:10:00 AM CDT,MMUS,Q4,<empty>,-0.26,Verified
+3/13/13,3/13/13,Before Market,8:11:00 AM CDT,GNE,Q4,<empty>,0.08,Verified
+3/13/13,3/13/13,Before Market,8:11:00 AM CDT,PERI,Q4,0.33,0.32,Verified
+3/13/13,3/13/13,Unspecified,11:38:00 AM CDT,FEIM,Q3,<empty>,0.18,Verified
+3/13/13,3/13/13,After Market,3:00:00 PM CDT,EXE,Q4,<empty>,-0.3,Verified
+3/13/13,3/13/13,After Market,3:00:00 PM CDT,FNHC,Q4,<empty>,0.13,Verified
+3/13/13,3/13/13,After Market,3:00:00 PM CDT,HOTT,Q4,0.265,0.29,Verified
+3/13/13,3/13/13,After Market,3:00:00 PM CDT,PIP,Q4,-0.04,<empty>,Verified
+3/13/13,3/13/13,After Market,3:01:00 PM CDT,CBK,Q4,-0.23,-0.11,Verified
+3/13/13,3/13/13,After Market,3:01:00 PM CDT,OREX,Q4,-0.453,-0.41,Verified
+3/13/13,3/13/13,After Market,3:01:00 PM CDT,SIGM,Q4,-0.46,-0.54,Verified
+3/13/13,3/13/13,Unspecified,3:02:00 PM CDT,DCTH,Q4,-0.16,<empty>,Verified
+3/13/13,3/13/13,After Market,3:03:00 PM CDT,VRA,Q4,0.571,0.62,Verified
+3/13/13,3/13/13,After Market,3:05:00 PM CDT,CCXI,Q4,-0.29,-0.28,Verified
+3/13/13,3/13/13,After Market,3:05:00 PM CDT,EOX,Q4,-0.014,-0.08,Verified
+3/13/13,3/13/13,After Market,3:05:00 PM CDT,INUV,Q4,-0.015,-0.04,Verified
+3/13/13,3/13/13,After Market,3:05:00 PM CDT,MTDR,Q4,0.12,-0.38,Verified
+3/13/13,3/13/13,After Market,3:06:00 PM CDT,CWTR,Q4,-0.8,-0.65,Verified
+3/13/13,3/13/13,After Market,3:13:00 PM CDT,BFAM,Q4,0.143,<empty>,Verified
+3/13/13,3/13/13,After Market,3:15:00 PM CDT,PRSC,Q4,0.24,0.22,Verified
+3/13/13,3/13/13,After Market,3:23:00 PM CDT,TBIO,Q4,-0.02,-0.03,Verified
+3/13/13,3/13/13,After Market,3:45:00 PM CDT,ARTNA,Q4,0.212,0.2,Verified
+3/13/13,3/13/13,After Market,4:00:00 PM CDT,AIQ,Q4,<empty>,-0.48,Verified
+3/13/13,3/13/13,After Market,4:00:00 PM CDT,CBPO,Q4,<empty>,0.27,Verified
+3/13/13,3/13/13,After Market,4:00:00 PM CDT,JADE,Q4,<empty>,-0.11,Verified
+3/13/13,3/13/13,After Market,4:01:00 PM CDT,PTGI,Q4,0.11,-0.65,Verified
+3/13/13,3/13/13,After Market,4:09:00 PM CDT,VALU,Q3,<empty>,0.18,Verified
+3/13/13,3/13/13,After Market,4:16:00 PM CDT,SCMP,Q4,0.12,0.32,Verified
+3/13/13,3/13/13,After Market,4:24:00 PM CDT,NTI,Q4,1.437,1.08,Verified
+3/13/13,3/13/13,After Market,4:30:00 PM CDT,MW,Q4,-0.046,-0.07,Verified
+3/13/13,3/13/13,After Market,4:47:00 PM CDT,FTK,Q4,0.167,0.44,Verified
+3/13/13,3/13/13,After Market,4:50:00 PM CDT,BKEP,Q4,0.085,0,Verified
+3/13/13,3/13/13,After Market,4:56:00 PM CDT,NGS,Q4,0.225,0.29,Verified
+3/13/13,3/13/13,After Market,5:22:00 PM CDT,VGZ,Q4,-0.115,<empty>,Verified
+3/13/13,3/13/13,After Market,5:27:00 PM CDT,CWCO,Q4,0.21,<empty>,Verified
+3/13/13,3/13/13,After Market,7:12:00 PM CDT,CPL,Q4,0.21,<empty>,Verified
+3/13/13,3/13/13,After Market,8:07:00 PM CDT,DBLE,Q4,<empty>,<empty>,Verified
+3/13/13,3/13/13,After Market,9:30:00 PM CDT,CHDX,Q4,<empty>,0.2,Verified
+3/14/13,,After Market,,BIDZ,Q4,<empty>,<empty>,Unconfirmed
+3/14/13,,Before Market,,CMRG,Q4,<empty>,<empty>,Unconfirmed
+3/14/13,,After Market,,MRVCD,Q4,<empty>,<empty>,Unconfirmed
+3/14/13,,After Market,,NABI,Q4,<empty>,<empty>,Unconfirmed
+3/14/13,,After Market,,PLFE,Q4,<empty>,<empty>,Unconfirmed
+3/14/13,,Before Market,,SUBCY,Q4,<empty>,<empty>,Unconfirmed
+3/14/13,,Unspecified,,TBAC,Q2,<empty>,<empty>,Unconfirmed
+3/14/13,,After Market,,WVT,Q4,<empty>,<empty>,Unconfirmed
+3/14/13,,After Market,,WWVY,Q4,<empty>,<empty>,Unconfirmed
+3/14/13,3/14/13,Before Market,5:00:00 AM CDT,HCOM,Q4,0.485,0.73,Verified
+3/14/13,3/14/13,Before Market,5:00:00 AM CDT,TAOM,Q4,-0.007,0.07,Verified
+3/14/13,3/14/13,Before Market,5:14:00 AM CDT,NBY,Q4,-0.09,-0.08,Verified
+3/14/13,3/14/13,Before Market,5:30:00 AM CDT,ONCY,Q4,-0.11,<empty>,Verified
+3/14/13,3/14/13,Before Market,5:50:00 AM CDT,CBRX,Q4,0.01,0.01,Verified
+3/14/13,3/14/13,Before Market,5:50:00 AM CDT,KIRK,Q4,0.742,0.82,Verified
+3/14/13,3/14/13,Before Market,6:00:00 AM CDT,AAON,Q4,0.21,0.31,Verified
+3/14/13,3/14/13,Before Market,6:00:00 AM CDT,ARQL,Q4,-0.128,-0.09,Verified
+3/14/13,3/14/13,Before Market,6:00:00 AM CDT,AZK,Q4,0.073,0.058,Verified
+3/14/13,3/14/13,Before Market,6:00:00 AM CDT,BKE,Q4,1.254,1.28,Verified
+3/14/13,3/14/13,Before Market,6:00:00 AM CDT,CNDO,Q4,-0.27,-0.36,Verified
+3/14/13,3/14/13,Before Market,6:00:00 AM CDT,CRTX,Q4,0.3,0.22,Verified
+3/14/13,3/14/13,Before Market,6:00:00 AM CDT,GSE,Q4,0.12,0.26,Verified
+3/14/13,3/14/13,Before Market,6:00:00 AM CDT,LCUT,Q4,<empty>,0.67,Verified
+3/14/13,3/14/13,Before Market,6:00:00 AM CDT,OPTT,Q3,<empty>,-0.14,Verified
+3/14/13,3/14/13,Before Market,6:03:00 AM CDT,SOL,Q4,-0.37,-0.58,Verified
+3/14/13,3/14/13,Before Market,6:30:00 AM CDT,DSX,Q4,0.089,0.06,Verified
+3/14/13,3/14/13,Before Market,6:30:00 AM CDT,DYN,Q4,0.075,-1.13,Verified
+3/14/13,3/14/13,Before Market,6:30:00 AM CDT,EBIX,Q4,0.44,0.48,Verified
+3/14/13,3/14/13,Before Market,6:40:00 AM CDT,NEON,Q4,-0.04,-0.06,Verified
+3/14/13,3/14/13,Unspecified,6:48:00 AM CDT,FORTY,Q4,<empty>,<empty>,Verified
+3/14/13,3/14/13,Before Market,6:49:00 AM CDT,PLPC,Q4,1.41,0.98,Verified
+3/14/13,3/14/13,Before Market,6:50:00 AM CDT,SNTA,Q4,-0.27,-0.29,Verified
+3/14/13,3/14/13,Before Market,7:00:00 AM CDT,ADES,Q4,-0.36,-0.54,Verified
+3/14/13,3/14/13,Before Market,7:00:00 AM CDT,GLP,Q4,0.51,0.81,Verified
+3/14/13,3/14/13,Before Market,7:00:00 AM CDT,LODE,Q4,-0.11,<empty>,Verified
+3/14/13,3/14/13,Unspecified,7:00:00 AM CDT,MACK,Q4,-0.264,-0.26,Verified
+3/14/13,3/14/13,Unspecified,7:00:00 AM CDT,ONTY,Q4,-0.153,-0.12,Verified
+3/14/13,3/14/13,Unspecified,7:15:00 AM CDT,CAPS,Q4,<empty>,<empty>,Verified
+3/14/13,3/14/13,Before Market,7:30:00 AM CDT,CORE,Q4,0.66,0.83,Verified
+3/14/13,3/14/13,Before Market,7:30:00 AM CDT,ORBC,Q4,-0.19,0.04,Verified
+3/14/13,3/14/13,Before Market,8:00:00 AM CDT,ACY,Q4,0.67,1.14,Verified
+3/14/13,3/14/13,Unspecified,8:00:00 AM CDT,HILL,Q4,-0.035,-0.03,Verified
+3/14/13,3/14/13,Before Market,8:05:00 AM CDT,IGLD,Q4,<empty>,<empty>,Verified
+3/14/13,3/14/13,During Market,8:44:00 AM CDT,MDGN,Q4,-0.27,<empty>,Unconfirmed
+3/14/13,3/14/13,After Market,3:00:00 PM CDT,COSI,Q4,-0.025,-0.03,Verified
+3/14/13,3/14/13,After Market,3:00:00 PM CDT,FXEN,Q4,0.003,-0.01,Verified
+3/14/13,3/14/13,After Market,3:00:00 PM CDT,HALL,Q4,0.11,0.09,Verified
+3/14/13,3/14/13,After Market,3:00:00 PM CDT,HOGS,Q4,0.31,<empty>,Verified
+3/14/13,3/14/13,After Market,3:00:00 PM CDT,ULTA,Q4,0.978,1,Verified
+3/14/13,3/14/13,After Market,3:00:00 PM CDT,ZUMZ,Q4,0.728,0.74,Verified
+3/14/13,3/14/13,After Market,3:01:00 PM CDT,ANAC,Q4,-0.442,-0.36,Verified
+3/14/13,3/14/13,After Market,3:01:00 PM CDT,ARO,Q4,0.224,0.24,Verified
+3/14/13,3/14/13,After Market,3:01:00 PM CDT,SUPN,Q4,-0.734,-0.51,Verified
+3/14/13,3/14/13,After Market,3:02:00 PM CDT,CKEC,Q4,0.285,0.43,Verified
+3/14/13,3/14/13,After Market,3:02:00 PM CDT,STRI,Q4,-0.08,-0.09,Verified
+3/14/13,3/14/13,After Market,3:05:00 PM CDT,GSAT,Q4,-0.06,-0.05,Verified
+3/14/13,3/14/13,After Market,3:05:00 PM CDT,KKD,Q4,0.112,0.11,Verified
+3/14/13,3/14/13,After Market,3:05:00 PM CDT,OMPI,Q4,0.137,0.15,Verified
+3/14/13,3/14/13,After Market,3:05:00 PM CDT,STEC,Q4,<empty>,-0.35,Verified
+3/14/13,3/14/13,After Market,3:08:00 PM CDT,MCP,Q4,-0.273,<empty>,Verified
+3/14/13,3/14/13,After Market,3:09:00 PM CDT,ALC,Q4,-0.02,-0.03,Verified
+3/14/13,3/14/13,After Market,3:14:00 PM CDT,ASTI,Q4,-0.11,-0.21,Verified
+3/14/13,3/14/13,After Market,3:15:00 PM CDT,NTK,Q4,<empty>,-0.82,Verified
+3/14/13,3/14/13,After Market,3:18:00 PM CDT,GLDD,Q4,0.18,0.01,Verified
+3/14/13,3/14/13,After Market,3:22:00 PM CDT,OBAS,Q4,<empty>,0.13,Verified
+3/14/13,3/14/13,After Market,3:30:00 PM CDT,AMCN,Q4,0.05,0.07,Verified
+3/14/13,3/14/13,After Market,3:45:00 PM CDT,OLP,Q4,0.39,0.39,Verified
+3/14/13,3/14/13,After Market,4:00:00 PM CDT,BTH,Q4,<empty>,1.27,Verified
+3/14/13,3/14/13,After Market,4:00:00 PM CDT,CPE,Q4,0.025,0.42,Verified
+3/14/13,3/14/13,After Market,4:06:00 PM CDT,EGY,Q4,0.28,-0.32,Verified
+3/14/13,3/14/13,After Market,4:15:00 PM CDT,AE,Q4,<empty>,1.81,Verified
+3/14/13,3/14/13,After Market,4:16:00 PM CDT,EDG,Q4,0.17,-1.07,Verified
+3/14/13,3/14/13,After Market,4:16:00 PM CDT,NWPX,Q4,0.28,0.48,Verified
+3/14/13,3/14/13,After Market,4:25:00 PM CDT,LPR,Q4,-0.07,-0.146,Verified
+3/14/13,3/14/13,After Market,5:11:00 PM CDT,EQU,Q4,<empty>,0.57,Verified
+3/14/13,3/14/13,After Market,6:13:00 PM CDT,ULTR,Q4,-0.12,-0.26,Verified
+3/14/13,3/14/13,After Market,7:09:00 PM CDT,AVHI,Q4,-0.57,-4.67,Verified
+3/14/13,3/14/13,After Market,7:24:00 PM CDT,IEP,Q4,<empty>,0.06,Verified
+3/15/13,,After Market,,WWAY,Q4,<empty>,<empty>,Unconfirmed
+3/15/13,3/15/13,Before Market,5:00:00 AM CDT,AXAS,Q4,-0.009,-0.03,Verified
+3/15/13,3/15/13,Before Market,5:00:00 AM CDT,LIWA,Q4,<empty>,0.52,Verified
+3/15/13,3/15/13,Before Market,5:30:00 AM CDT,HIBB,Q4,0.718,0.73,Verified
+3/15/13,3/15/13,Before Market,5:30:00 AM CDT,JST,Q4,0.19,0.23,Verified
+3/15/13,3/15/13,Before Market,5:45:00 AM CDT,CTRN,Q4,-0.07,-0.05,Verified
+3/15/13,3/15/13,Before Market,5:55:00 AM CDT,URRE,Q4,-0.2,<empty>,Verified
+3/15/13,3/15/13,Before Market,6:00:00 AM CDT,BWS,Q4,0.082,0.14,Verified
+3/15/13,3/15/13,Before Market,6:00:00 AM CDT,DXLG,Q4,0.095,0.09,Verified
+3/15/13,3/15/13,Before Market,6:00:00 AM CDT,OCC,Q1,<empty>,0.02,Verified
+3/15/13,3/15/13,Before Market,6:00:00 AM CDT,STON,Q4,-0.06,-0.2,Verified
+3/15/13,3/15/13,Before Market,6:15:00 AM CDT,CRME,Q4,-0.07,0.13,Verified
+3/15/13,3/15/13,Before Market,6:30:00 AM CDT,ZGNX,Q4,-0.17,-0.16,Verified
+3/15/13,3/15/13,Before Market,6:42:00 AM CDT,PGNX,Q4,-0.303,-0.01,Verified
+3/15/13,3/15/13,Before Market,7:00:00 AM CDT,CDTI,Q4,-0.075,-0.39,Verified
+3/15/13,3/15/13,Before Market,7:00:00 AM CDT,FSS,Q4,<empty>,0.08,Verified
+3/15/13,3/15/13,Before Market,7:02:00 AM CDT,KUTV,Q4,<empty>,-0.06,Verified
+3/15/13,3/15/13,Before Market,7:15:00 AM CDT,SNMX,Q4,-0.05,-0.06,Verified
+3/15/13,3/15/13,Before Market,8:15:00 AM CDT,CCL,Q1,0.037,0.08,Verified
+3/15/13,3/15/13,Before Market,8:15:00 AM CDT,CUK,Q1,0.06,<empty>,Verified
+3/15/13,3/15/13,Before Market,8:15:00 AM CDT,CUR,Q4,-0.04,<empty>,Verified
+3/15/13,3/15/13,During Market,8:45:00 AM CDT,NYMX,Q4,-0.05,<empty>,Verified
+3/15/13,3/15/13,After Market,3:05:00 PM CDT,SYNM,Q4,<empty>,-0.05,Verified
+3/15/13,3/15/13,After Market,3:14:00 PM CDT,PHII,Q4,<empty>,<empty>,Verified
+3/15/13,3/15/13,After Market,3:15:00 PM CDT,AXR,Q3,<empty>,0,Verified
+3/15/13,3/15/13,After Market,3:15:00 PM CDT,HTH,Q4,0.08,<empty>,Verified
+3/15/13,3/15/13,After Market,3:31:00 PM CDT,PCC,Q4,<empty>,-0.18,Verified
+3/15/13,3/15/13,After Market,3:43:00 PM CDT,UCFC,Q4,<empty>,0.08,Verified
+3/15/13,3/15/13,Unspecified,3:47:00 PM CDT,JVA,Q1,0.19,0.14,Verified
+3/15/13,3/15/13,After Market,4:02:00 PM CDT,KCAP,Q4,0.21,<empty>,Verified
+3/15/13,3/15/13,After Market,4:02:00 PM CDT,VHI,Q4,<empty>,-0.04,Verified
+3/15/13,3/15/13,After Market,4:15:00 PM CDT,CXPO,Q4,-0.015,-0.08,Verified
+3/15/13,3/15/13,After Market,4:40:00 PM CDT,AERT,Q4,<empty>,<empty>,Verified
+3/15/13,3/15/13,After Market,5:00:00 PM CDT,FU,Q4,<empty>,0.33,Verified
+3/15/13,3/15/13,Unspecified,5:14:00 PM CDT,USEG,Q4,-0.003,-0.27,Verified
+3/18/13,,Unspecified,,FCAL,Q4,0.107,-0.01,Verified
+3/18/13,,Unspecified,,GNOM,Q4,-0.53,<empty>,Unconfirmed
+3/18/13,,After Market,,GRZ,Q4,<empty>,<empty>,Unconfirmed
+3/18/13,3/18/13,Before Market,4:45:00 AM CDT,ESSX,Q4,-0.08,-0.12,Verified
+3/18/13,3/18/13,Before Market,5:00:00 AM CDT,AFH,Q4,0.1,0.15,Verified
+3/18/13,3/18/13,Before Market,5:00:00 AM CDT,IMOS,Q4,0.28,0.3,Verified
+3/18/13,3/18/13,Before Market,5:00:00 AM CDT,STRL,Q4,0.043,0.01,Verified
+3/18/13,3/18/13,Before Market,5:11:00 AM CDT,UTSI,Q4,-0.01,-0.05,Verified
+3/18/13,3/18/13,Before Market,5:11:00 AM CDT,VTUS,Q4,-0.257,-0.29,Verified
+3/18/13,3/18/13,Unspecified,5:19:00 AM CDT,APRI,Q4,-0.2,-0.53,Verified
+3/18/13,3/18/13,Before Market,5:30:00 AM CDT,HZNP,Q4,-0.495,-0.34,Verified
+3/18/13,3/18/13,Before Market,6:00:00 AM CDT,AMRC,Q4,0.09,0.11,Verified
+3/18/13,3/18/13,Before Market,6:00:00 AM CDT,HWCC,Q4,0.21,0.25,Verified
+3/18/13,3/18/13,Before Market,6:00:00 AM CDT,KIOR,Q4,-0.32,-0.28,Verified
+3/18/13,3/18/13,Before Market,6:00:00 AM CDT,TA,Q4,-0.11,-0.08,Verified
+3/18/13,3/18/13,Before Market,6:00:00 AM CDT,WILC,Q4,<empty>,0.18,Verified
+3/18/13,3/18/13,Before Market,6:30:00 AM CDT,HAST,Q4,0.26,0.15,Verified
+3/18/13,3/18/13,Before Market,6:41:00 AM CDT,INSM,Q4,-0.313,-0.49,Verified
+3/18/13,3/18/13,Before Market,6:45:00 AM CDT,IVAN,Q4,<empty>,-0.04,Verified
+3/18/13,3/18/13,Before Market,7:00:00 AM CDT,CLSN,Q4,-0.165,<empty>,Verified
+3/18/13,3/18/13,Before Market,7:00:00 AM CDT,LTS,Q4,-0.03,-0.01,Verified
+3/18/13,3/18/13,Before Market,7:00:00 AM CDT,PTX,Q4,0.035,-0.05,Verified
+3/18/13,3/18/13,Before Market,7:14:00 AM CDT,HSOL,Q4,<empty>,-1.24,Verified
+3/18/13,3/18/13,Before Market,7:16:00 AM CDT,NMRX,Q4,0.06,0.06,Verified
+3/18/13,3/18/13,Before Market,7:30:00 AM CDT,DEXO,Q4,-0.42,-0.7,Verified
+3/18/13,3/18/13,Before Market,8:00:00 AM CDT,CMLS,Q4,0.05,-0.51,Verified
+3/18/13,3/18/13,Before Market,8:00:00 AM CDT,RDI,Q4,<empty>,-0.06,Verified
+3/18/13,3/18/13,Before Market,8:25:00 AM CDT,RPRX,Q4,-0.28,-0.47,Verified
+3/18/13,3/18/13,During Market,1:11:00 PM CDT,BCBP,Q4,<empty>,<empty>,Verified
+3/18/13,3/18/13,After Market,1:27:00 PM CDT,GORO,Q4,0.22,0.17,Verified
+3/18/13,3/18/13,During Market,2:23:00 PM CDT,HEB,Q4,<empty>,<empty>,Verified
+3/18/13,3/18/13,During Market,2:30:00 PM CDT,OUTD,Q4,0.09,0.05,Verified
+3/18/13,3/18/13,During Market,2:40:00 PM CDT,EEI,Q2,<empty>,0.45,Verified
+3/18/13,3/18/13,After Market,3:00:00 PM CDT,ARTX,Q4,0.02,0,Verified
+3/18/13,3/18/13,After Market,3:00:00 PM CDT,ASTM,Q4,-0.227,-0.18,Verified
+3/18/13,3/18/13,After Market,3:00:00 PM CDT,CHRM,Q4,0.045,-0.13,Verified
+3/18/13,3/18/13,After Market,3:00:00 PM CDT,CMXI,Q4,-0.03,-0.04,Verified
+3/18/13,3/18/13,After Market,3:00:00 PM CDT,GAIA,Q4,<empty>,0.07,Verified
+3/18/13,3/18/13,After Market,3:00:00 PM CDT,TWER,Q4,-0.11,-0.12,Verified
+3/18/13,3/18/13,After Market,3:01:00 PM CDT,ACFN,Q4,-0.2,-0.3,Verified
+3/18/13,3/18/13,After Market,3:01:00 PM CDT,PRKR,Q4,<empty>,-0.07,Verified
+3/18/13,3/18/13,After Market,3:01:00 PM CDT,RMTI,Q4,-0.44,-0.66,Verified
+3/18/13,3/18/13,After Market,3:03:00 PM CDT,WAVX,Q4,<empty>,-0.13,Verified
+3/18/13,3/18/13,After Market,3:05:00 PM CDT,FALC,Q4,<empty>,0,Verified
+3/18/13,3/18/13,After Market,3:05:00 PM CDT,INTX,Q4,0.3,0.08,Verified
+3/18/13,3/18/13,After Market,3:07:00 PM CDT,ZIOP,Q4,-0.31,-0.48,Verified
+3/18/13,3/18/13,After Market,3:25:00 PM CDT,FF,Q4,0.215,0.15,Verified
+3/18/13,3/18/13,After Market,3:27:00 PM CDT,ALTV,Q4,<empty>,-1.24,Verified
+3/18/13,3/18/13,After Market,3:27:00 PM CDT,OMER,Q4,-0.34,-0.3,Verified
+3/18/13,3/18/13,After Market,3:35:00 PM CDT,ES,Q4,0.127,-0.12,Verified
+3/18/13,3/18/13,After Market,3:35:00 PM CDT,USU,Q4,0.1,-8.84,Verified
+3/18/13,3/18/13,After Market,3:49:00 PM CDT,STSI,Q4,-0.03,-0.07,Verified
+3/18/13,3/18/13,After Market,3:53:00 PM CDT,BTX,Q4,<empty>,-0.12,Verified
+3/18/13,3/18/13,After Market,4:00:00 PM CDT,CCRN,Q4,-0.017,-0.1,Verified
+3/18/13,3/18/13,After Market,4:00:00 PM CDT,EFUT,Q4,<empty>,0.143,Verified
+3/18/13,3/18/13,After Market,4:00:00 PM CDT,GURE,Q4,<empty>,0.05,Verified
+3/18/13,3/18/13,After Market,4:01:00 PM CDT,CTWS,Q4,0.172,0.16,Verified
+3/18/13,3/18/13,After Market,4:07:00 PM CDT,ENZN,Q4,0.05,-0.11,Verified
+3/18/13,3/18/13,Unspecified,4:26:00 PM CDT,GYRO,Q4,<empty>,<empty>,Verified
+3/18/13,3/18/13,After Market,4:31:00 PM CDT,OXBT,Q3,<empty>,-0.14,Verified
+3/18/13,3/18/13,After Market,4:36:00 PM CDT,HAMP,Q4,<empty>,-0.22,Verified
+3/18/13,3/18/13,Unspecified,4:59:00 PM CDT,INO,Q4,-0.04,0,Verified
+3/18/13,3/18/13,After Market,5:30:00 PM CDT,GCFB,Q4,<empty>,-0.15,Verified
+3/18/13,3/18/13,After Market,5:41:00 PM CDT,AGM,Q4,1.11,1.05,Verified
+3/18/13,3/18/13,After Market,7:00:00 PM CDT,SSRX,Q4,0.195,0.12,Verified
+3/18/13,3/18/13,After Market,9:30:00 PM CDT,WAC,Q4,0.53,0.64,Verified
+3/19/13,,Unspecified,,CBP,Q4,<empty>,<empty>,Unconfirmed
+3/19/13,,After Market,,DOM,Q4,<empty>,<empty>,Unconfirmed
+3/19/13,,After Market,,HLYS,Q4,<empty>,<empty>,Unconfirmed
+3/19/13,,Before Market,,JEF,Q1,<empty>,<empty>,Unconfirmed
+3/19/13,,Unspecified,,KITD,Q3,-0.22,<empty>,Unconfirmed
+3/19/13,3/19/13,Before Market,5:35:00 AM CDT,WBA,Q2,0.946,0.96,Verified
+3/19/13,3/19/13,Before Market,6:00:00 AM CDT,DSW,Q4,0.717,0.69,Verified
+3/19/13,3/19/13,Before Market,6:00:00 AM CDT,FDS,Q2,1.135,1.14,Verified
+3/19/13,3/19/13,Before Market,6:00:00 AM CDT,MBT,Q4,0.35,<empty>,Verified
+3/19/13,3/19/13,Before Market,6:00:00 AM CDT,RNF,Q4,0.725,0.44,Verified
+3/19/13,3/19/13,Before Market,6:00:00 AM CDT,RTK,Q4,0.02,-0.02,Verified
+3/19/13,3/19/13,Before Market,6:00:00 AM CDT,SVNT,Q4,-0.473,-0.39,Verified
+3/19/13,3/19/13,Before Market,7:00:00 AM CDT,ATV,Q4,<empty>,-0.3,Verified
+3/19/13,3/19/13,Before Market,7:00:00 AM CDT,MSTX,Q4,-0.13,-0.08,Verified
+3/19/13,3/19/13,Before Market,7:30:00 AM CDT,GKK,Q4,<empty>,-2.35,Verified
+3/19/13,3/19/13,Before Market,8:00:00 AM CDT,STEM,Q4,<empty>,-0.07,Verified
+3/19/13,3/19/13,During Market,8:46:00 AM CDT,SBLK,Q4,-0.475,0.05,Verified
+3/19/13,3/19/13,After Market,3:00:00 PM CDT,AIR,Q3,0.438,0.46,Verified
+3/19/13,3/19/13,After Market,3:01:00 PM CDT,FRAN,Q4,0.296,0.33,Verified
+3/19/13,3/19/13,After Market,3:02:00 PM CDT,ADBE,Q1,0.196,0.35,Verified
+3/19/13,3/19/13,After Market,3:05:00 PM CDT,FTEK,Q4,0.05,0,Verified
+3/19/13,3/19/13,After Market,3:05:00 PM CDT,PRMW,Q4,<empty>,-3.11,Verified
+3/19/13,3/19/13,After Market,3:11:00 PM CDT,WSM,Q4,1.283,1.34,Verified
+3/19/13,3/19/13,After Market,3:15:00 PM CDT,CTAS,Q3,0.62,0.6,Verified
+3/19/13,3/19/13,After Market,3:40:00 PM CDT,ALOT,Q4,<empty>,0.08,Verified
+3/18/13,3/19/13,After Market,4:05:00 PM CDT,FFEX,Q4,<empty>,-0.27,Verified
+3/19/13,3/19/13,After Market,4:30:00 PM CDT,OTIV,Q4,<empty>,-0.25,Verified
+3/19/13,3/19/13,After Market,7:03:00 PM CDT,LFL,Q4,0.23,<empty>,Verified
+3/20/13,3/20/13,Before Market,5:00:00 AM CDT,LEN,Q1,0.134,0.26,Verified
+3/20/13,3/20/13,Before Market,5:00:00 AM CDT,LEN.B,Q1,<empty>,0.26,Verified
+3/20/13,3/20/13,Before Market,5:57:00 AM CDT,GIS,Q3,0.572,0.64,Verified
+3/20/13,3/20/13,Before Market,6:30:00 AM CDT,FDX,Q3,1.365,1.23,Verified
+3/20/13,3/20/13,Before Market,6:30:00 AM CDT,TEAR,Q4,-0.105,-0.13,Verified
+3/20/13,3/20/13,Before Market,7:00:00 AM CDT,ATU,Q2,0.373,0.38,Verified
+3/20/13,3/20/13,After Market,8:00:00 AM CDT,PLBC,Q4,<empty>,0.08,Unconfirmed
+3/20/13,3/20/13,After Market,1:48:00 PM CDT,SPPR,Q4,0.015,-0.31,Verified
+3/20/13,3/20/13,After Market,3:00:00 PM CDT,MLHR,Q3,0.285,0.28,Verified
+3/20/13,3/20/13,After Market,3:00:00 PM CDT,PSUN,Q4,-0.157,-0.17,Verified
+3/20/13,3/20/13,After Market,3:01:00 PM CDT,ORCL,Q3,0.635,0.52,Verified
+3/20/13,3/20/13,After Market,3:01:00 PM CDT,TLYS,Q4,0.296,0.32,Verified
+3/20/13,3/20/13,After Market,3:01:00 PM CDT,TUMI,Q4,0.248,0.25,Verified
+3/20/13,3/20/13,After Market,3:02:00 PM CDT,JBL,Q2,0.46,0.53,Verified
+3/20/13,3/20/13,After Market,3:03:00 PM CDT,GES,Q4,0.861,0.95,Verified
+3/20/13,3/20/13,After Market,3:54:00 PM CDT,XSPY,Q4,<empty>,-0.09,Verified
+3/20/13,3/20/13,After Market,4:21:00 PM CDT,LUB,Q2,0.05,0,Verified
+3/20/13,3/20/13,After Market,4:41:00 PM CDT,CTP,Q4,0,-0.02,Verified
+3/20/13,3/20/13,After Market,5:32:00 PM CDT,CLC,Q1,0.46,0.47,Verified
+3/21/13,,Before Market,,ABKFQ,Q4,<empty>,<empty>,Unconfirmed
+3/21/13,,Unspecified,,CHU,Q4,<empty>,<empty>,Unconfirmed
+3/21/13,,After Market,,GDRZ,Q4,<empty>,<empty>,Unconfirmed
+3/21/13,,During Market,,NSBC,Q3,<empty>,<empty>,Unconfirmed
+3/21/13,,Unspecified,,SBS,Q4,1.14,<empty>,Verified
+3/21/13,,Before Market,,SKYEY,Q4,<empty>,<empty>,Verified
+3/21/13,,After Market,,WTSLA,Q4,<empty>,<empty>,Unconfirmed
+3/21/13,3/21/13,Unspecified,4:05:00 AM CDT,PTR,Q4,<empty>,<empty>,Verified
+3/21/13,3/21/13,Before Market,5:00:00 AM CDT,IHS,Q1,0.425,0.86,Verified
+3/21/13,3/21/13,Before Market,5:30:00 AM CDT,CTIB,Q4,0.02,-0.07,Verified
+3/21/13,3/21/13,Before Market,6:00:00 AM CDT,CATO,Q4,0.28,0.27,Verified
+3/21/13,3/21/13,Before Market,6:00:00 AM CDT,ENMD,Q4,<empty>,-0.02,Verified
+3/21/13,3/21/13,Before Market,6:00:00 AM CDT,HPJ,Q4,<empty>,0.04,Verified
+3/21/13,3/21/13,Before Market,6:00:00 AM CDT,MOV,Q4,0.24,0.41,Verified
+3/21/13,3/21/13,Before Market,6:00:00 AM CDT,RGDX,Q4,-0.06,-0.01,Verified
+3/21/13,3/21/13,Before Market,6:00:00 AM CDT,SCHL,Q3,-0.39,-0.63,Verified
+3/21/13,3/21/13,Before Market,6:15:00 AM CDT,LULU,Q4,0.741,0.75,Verified
+3/21/13,3/21/13,Before Market,6:15:00 AM CDT,PERY,Q4,0.48,0.5,Verified
+3/21/13,3/21/13,Before Market,6:45:00 AM CDT,MCS,Q3,0,-0.05,Verified
+3/21/13,3/21/13,Before Market,6:55:00 AM CDT,MAGS,Q4,<empty>,0.08,Verified
+3/21/13,3/21/13,Before Market,7:00:00 AM CDT,MPR,Q4,0.163,0.16,Verified
+3/21/13,3/21/13,Before Market,7:00:00 AM CDT,SPMD,Q4,<empty>,2.92,Verified
+3/21/13,3/21/13,Before Market,7:30:00 AM CDT,KBH,Q1,-0.225,-0.16,Verified
+3/21/13,3/21/13,Before Market,7:30:00 AM CDT,ROST,Q4,1.069,1.07,Verified
+3/21/13,3/21/13,Before Market,7:30:00 AM CDT,WOR,Q3,0.497,0.52,Verified
+3/21/13,3/21/13,Before Market,8:00:00 AM CDT,UG,Q4,<empty>,<empty>,Verified
+3/26/13,3/21/13,Before Market,2:16:00 PM CDT,FCFC,Q4,<empty>,-0.03,Unconfirmed
+3/21/13,3/21/13,After Market,3:01:00 PM CDT,ALIM,Q4,-0.25,-0.17,Verified
+3/21/13,3/21/13,After Market,3:01:00 PM CDT,NWY,Q4,0.082,0.1,Verified
+3/21/13,3/21/13,After Market,3:01:00 PM CDT,RUE,Q4,0.627,0.65,Verified
+3/21/13,3/21/13,After Market,3:01:00 PM CDT,VRNG,Q4,<empty>,<empty>,Verified
+3/21/13,3/21/13,After Market,3:02:00 PM CDT,DLGC,Q4,<empty>,0.1,Verified
+3/21/13,3/21/13,After Market,3:05:00 PM CDT,MU,Q2,-0.197,-0.28,Verified
+3/21/13,3/21/13,After Market,3:05:00 PM CDT,WTSL,Q4,-0.057,-0.06,Verified
+3/21/13,3/21/13,After Market,3:15:00 PM CDT,NKE,Q3,0.673,0.73,Verified
+3/21/13,3/21/13,After Market,3:19:00 PM CDT,AEZS,Q4,-0.37,-0.29,Verified
+3/21/13,3/21/13,After Market,3:21:00 PM CDT,FIGI,Q4,<empty>,-0.01,Verified
+3/21/13,3/21/13,After Market,3:21:00 PM CDT,TIBX,Q1,0.111,0.18,Verified
+3/21/13,3/21/13,After Market,4:10:00 PM CDT,NYNY,Q4,<empty>,<empty>,Verified
+3/21/13,3/21/13,After Market,5:49:00 PM CDT,SLW,Q4,0.491,0.5,Verified
+3/22/13,3/22/13,Before Market,5:42:00 AM CDT,BSI,Q4,<empty>,<empty>,Verified
+3/22/13,3/22/13,Before Market,6:00:00 AM CDT,DRI,Q3,1.011,1.02,Verified
+3/22/13,3/22/13,Before Market,6:00:00 AM CDT,TIF,Q4,1.368,1.4,Verified
+3/22/13,3/22/13,Before Market,6:30:00 AM CDT,PESI,Q4,0.015,-0.07,Verified
+3/22/13,3/22/13,Before Market,6:58:00 AM CDT,GNVC,Q4,-0.27,-0.24,Verified
+3/22/13,3/22/13,Before Market,7:00:00 AM CDT,INS,Q4,<empty>,0.04,Verified
+3/22/13,3/22/13,Before Market,7:30:00 AM CDT,NTS,Q4,<empty>,-0.01,Verified
+3/27/13,3/22/13,During Market,9:57:00 AM CDT,PWX,Q4,<empty>,<empty>,Verified
+3/22/13,3/22/13,After Market,3:24:00 PM CDT,NLP,Q4,<empty>,-0.32,Verified
+3/22/13,3/22/13,After Market,4:00:00 PM CDT,MTEX,Q4,<empty>,0.1,Verified
+3/22/13,3/22/13,After Market,4:11:00 PM CDT,PNBK,Q4,<empty>,0.01,Verified
+3/22/13,3/22/13,After Market,4:20:00 PM CDT,KFS,Q4,<empty>,<empty>,Verified
+3/24/13,3/24/13,Unspecified,1:17:00 PM CDT,SNP,Q4,<empty>,<empty>,Verified
+3/25/13,,Unspecified,,ELP,Q4,<empty>,<empty>,Unconfirmed
+3/25/13,,Unspecified,,GOL,Q4,-0.215,<empty>,Verified
+3/25/13,3/25/13,Before Market,5:30:00 AM CDT,JASO,Q4,-1.3,-2.65,Verified
+3/25/13,3/25/13,Before Market,6:00:00 AM CDT,DG,Q4,0.902,0.97,Verified
+3/25/13,3/25/13,Before Market,6:05:00 AM CDT,APOL,Q2,0.179,0.34,Verified
+3/25/13,3/25/13,Before Market,7:00:00 AM CDT,CXDC,Q4,<empty>,0.36,Verified
+3/25/13,3/25/13,Before Market,8:00:00 AM CDT,TIXC,Q4,<empty>,0.06,Verified
+3/25/13,3/25/13,Before Market,8:10:00 AM CDT,AXPW,Q4,<empty>,<empty>,Verified
+3/25/13,3/25/13,During Market,8:30:00 AM CDT,CASC,Q4,1.09,0.5,Verified
+3/25/13,3/25/13,During Market,1:23:00 PM CDT,FWV,Q4,<empty>,0.53,Verified
+3/25/13,3/25/13,After Market,3:00:00 PM CDT,GMAN,Q4,0.365,0.41,Verified
+3/25/13,3/25/13,Unspecified,3:01:00 PM CDT,REED,Q4,<empty>,<empty>,Verified
+3/25/13,3/25/13,After Market,3:01:00 PM CDT,RMKR,Q4,-0.02,-0.04,Verified
+3/25/13,3/25/13,After Market,3:02:00 PM CDT,SONC,Q2,0.044,0.06,Verified
+3/25/13,3/25/13,After Market,3:30:00 PM CDT,FMCN,Q4,<empty>,0.71,Verified
+3/25/13,3/25/13,After Market,3:42:00 PM CDT,PRTS,Q4,-0.075,-0.99,Verified
+3/25/13,3/25/13,After Market,4:38:00 PM CDT,CACB,Q4,0.04,0.03,Verified
+3/25/13,3/25/13,After Market,4:38:00 PM CDT,TRQ,Q4,-0.04,-0.18,Verified
+3/25/13,3/25/13,After Market,7:14:00 PM CDT,AUQ,Q4,0.068,0.05,Verified
+3/26/13,,After Market,,RBN,Q2,<empty>,<empty>,Unconfirmed
+3/26/13,,Unspecified,,WOSYD,Q1,<empty>,<empty>,Unconfirmed
+3/26/13,,Unspecified,,WOSYY,Q2,<empty>,<empty>,Verified
+3/26/13,,After Market,,ZZ,Q1,<empty>,<empty>,Unconfirmed
+3/26/13,3/26/13,Before Market,5:00:00 AM CDT,PLCE,Q4,1.034,1.15,Verified
+3/26/13,3/26/13,Before Market,6:00:00 AM CDT,ARDM,Q4,<empty>,-0.01,Verified
+3/26/13,3/26/13,Before Market,6:00:00 AM CDT,GPIC,Q4,<empty>,0.22,Verified
+3/26/13,3/26/13,Before Market,6:30:00 AM CDT,LTON,Q4,<empty>,0.15,Verified
+3/26/13,3/26/13,Before Market,6:30:00 AM CDT,PATH,Q4,-0.308,-1.15,Verified
+3/26/13,3/26/13,Before Market,7:00:00 AM CDT,CMT,Q4,<empty>,0.28,Verified
+3/26/13,3/26/13,Before Market,7:00:00 AM CDT,PRPH,Q4,<empty>,0.03,Verified
+3/26/13,3/26/13,Before Market,7:25:00 AM CDT,GV,Q4,<empty>,0.17,Verified
+3/26/13,3/26/13,Before Market,7:45:00 AM CDT,NEOG,Q3,0.275,0.27,Verified
+3/26/13,3/26/13,During Market,12:29:00 PM CDT,AAME,Q4,<empty>,0.04,Verified
+3/26/13,3/26/13,After Market,3:00:00 PM CDT,CPHC,Q4,<empty>,0.11,Verified
+3/26/13,3/26/13,After Market,3:00:00 PM CDT,DOVR,Q4,<empty>,0.16,Verified
+3/26/13,3/26/13,After Market,3:00:00 PM CDT,ISNS,Q4,<empty>,0.03,Verified
+3/26/13,3/26/13,After Market,3:05:00 PM CDT,ALXA,Q4,-0.46,-0.65,Verified
+3/26/13,3/26/13,After Market,3:05:00 PM CDT,BONE,Q4,-0.043,<empty>,Verified
+3/26/13,3/26/13,After Market,3:05:00 PM CDT,ENVI,Q4,-0.18,-0.15,Verified
+3/26/13,3/26/13,After Market,3:05:00 PM CDT,LNDC,Q3,0.184,0.18,Verified
+3/26/13,3/26/13,After Market,3:05:00 PM CDT,MBLX,Q4,-0.275,-0.28,Verified
+3/26/13,3/26/13,After Market,3:07:00 PM CDT,MFRM,Q4,0.316,0.3,Verified
+3/26/13,3/26/13,After Market,3:09:00 PM CDT,SAI,Q4,0.518,0.54,Verified
+3/26/13,3/26/13,After Market,3:15:00 PM CDT,ANTH,Q4,-0.157,-0.11,Verified
+3/26/13,3/26/13,After Market,3:16:00 PM CDT,CT,Q4,<empty>,4.22,Verified
+3/26/13,3/26/13,After Market,3:19:00 PM CDT,WLDN,Q4,0.01,0.04,Verified
+3/26/13,3/26/13,After Market,3:30:00 PM CDT,LUNA,Q4,<empty>,-0.04,Verified
+3/26/13,3/26/13,After Market,3:40:00 PM CDT,DGLY,Q4,<empty>,-0.05,Verified
+3/26/13,3/26/13,After Market,4:09:00 PM CDT,VSTM,Q4,-0.398,-0.39,Verified
+3/26/13,3/26/13,After Market,5:03:00 PM CDT,CHCI,Q4,<empty>,-0.1,Verified
+3/26/13,3/26/13,After Market,5:21:00 PM CDT,EVBS,Q4,<empty>,0.09,Verified
+3/26/13,3/26/13,After Market,6:21:00 PM CDT,CYLU,Q4,<empty>,<empty>,Verified
+3/27/13,,Before Market,,AIBYY,Q4,<empty>,<empty>,Verified
+3/27/13,,After Market,,CLNH,Q4,<empty>,<empty>,Unconfirmed
+3/27/13,,Unspecified,,ZNH,Q4,<empty>,<empty>,Unconfirmed
