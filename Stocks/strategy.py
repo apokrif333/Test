@@ -10,7 +10,6 @@ import time
 import typing
 import math
 import re
-import pandas as pd
 
 import alpha_vantage.timeseries
 import colorama
@@ -19,7 +18,7 @@ import googlefinance.client
 import holidays
 import pandas
 import termcolor
-import yahoofinancials
+from yahoofinancials import YahooFinancials
 import matplotlib.pyplot as plt
 
 # Initialize colored output
@@ -284,7 +283,7 @@ class Strategy:
                  data_base_dir: str = 'data',
                  broker: str = BROKER_FONDEXX,
                  log_file: str = sys.argv[0].lower().replace('.py', '.log'),
-                 disable_download: bool = True,
+                 disable_download: bool = False,
                  ib_cfd_list_path: str = 'misc/IB_CFD_Shares.xlsx',
                  log_time: bool = True,
                  balance_start: int = 10000,
@@ -506,7 +505,7 @@ class Strategy:
             commission = min(commission, volume * price)
             return commission + volume * self.DEFAULT_MARKET_FEES
         elif self.broker == self.BROKER_IB_CFD or self.broker == self.BROKER_IB_CFD_STRICT:
-            return max(0.35, volume * 0.0055) # return max(1.0, volume * 0.005)BROKER_IB_CFD_STRICT
+            return max(1.0, volume * 0.005)
         elif self.broker == self.BROKER_FONDEXX:
             return volume * (0.003 + self.DEFAULT_MARKET_FEES)
         else:
@@ -805,8 +804,8 @@ class Strategy:
         try:
             # Get parsed data
             self.log_info('Downloading yahoo daily data for %s' % ticker, category=self.LOG_DOWNLOAD)
-            yf = yahoofinancials.YahooFinancials(ticker)
-            data = yf.get_historical_stock_data(
+            yf = YahooFinancials(ticker)
+            data = yf.get_historical_price_data(
                 self.d2str(datetime.datetime(2000, 1, 1)),
                 self.d2str(datetime.datetime.now()),
                 'daily')
@@ -1502,13 +1501,13 @@ class Strategy:
             tickers[ticker] = 1
 
             # Calculate report date
-            report_date = pd.to_datetime(row['@date_'])  #  row['@date_'].to_pydatetime()
+            report_date = row['@date_'].to_pydatetime()
 
             # Get bars
             bar0 = self.get_day_data(ticker, report_date)
             bar1 = self.get_day_data(ticker, self.get_next_trade_day(report_date))
 
-            # Skip if no bar data for current and next working days
+            # Skip if no bar data for current and next working daysEVENTS_PORTFOLIO_123
             if bar0 is None or bar1 is None:
                 continue
 

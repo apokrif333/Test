@@ -25,14 +25,14 @@ class Earnings(strategy.Strategy):
             name='Earnings',
             start_balance: int = 10000,
             price_range: tuple = (5, 100),
-            min_avg_volume: int = 0,
+            min_avg_volume: int = 100000,
             portfolio_size: int = 20,
             portfolio_risk: float = 1,
             max_volume: int = 15000,
-            disable_download: bool = True,
+            disable_download: bool = False,
             long_same_day: bool = True,
             data_source: str = strategy.Strategy.DATA_YAHOO,
-            event_source: str = strategy.Strategy.EVENTS_PORTFOLIO_123,
+            event_source: str = strategy.Strategy.EVENTS_ESTIMIZE_FINAL,
             date_start=datetime.datetime(2012, 1, 1),
             date_end=datetime.datetime(2018, 9, 1)):
 
@@ -42,8 +42,8 @@ class Earnings(strategy.Strategy):
             data_source=data_source,
             event_source=event_source,
             broker=strategy.Strategy.BROKER_IB_CFD_STRICT,
-            day_margin=4,
-            overnight_margin=4,
+            day_margin=2,
+            overnight_margin=1,
             disable_download=disable_download,
             date_start=date_start,
             date_end=date_end,
@@ -68,15 +68,12 @@ class Earnings(strategy.Strategy):
         for e in report_list:
             if e.type == strategy.Event.EPS_ONLY:
                 if (e.eps_con and e.eps_act) != 0:
-                    #
                     if e.eps_change > 0 and (self.long_same_day or e.next_date is not None):
                         e.attrs.rank = e.eps_change + 1
                         e.attrs.pos = strategy.Trade.LONG
-                    #
                     elif e.eps_change < 0:
                         e.attrs.rank = e.eps_change - 1
                         e.attrs.pos = strategy.Trade.SHORT
-                    #
                     else:
                         e.attrs.rank = 0
                         e.attrs.pos = None
@@ -84,15 +81,12 @@ class Earnings(strategy.Strategy):
                     e.attrs.rank = 0
             elif e.type == strategy.Event.EPS_AND_REV:
                 if (e.eps_con and e.eps_act and e.rev_con and e.rev_act) != 0:
-                    #
                     if e.eps_change > 0 and e.rev_change > 0 and (self.long_same_day or e.next_date is not None):
                         e.attrs.rank = (e.eps_change + 1) * (e.rev_change + 1)
                         e.attrs.pos = strategy.Trade.LONG
-                    #
                     elif e.eps_change < 0 and e.rev_change < 0:
                         e.attrs.rank = - abs((e.eps_change - 1) * (e.rev_change - 1))
                         e.attrs.pos = strategy.Trade.SHORT
-                    #
                     else:
                         e.attrs.rank = 0
                         e.attrs.pos = None
@@ -216,40 +210,33 @@ class Earnings(strategy.Strategy):
 if __name__ == '__main__':
     st_list = []
     # st1 = Earnings(name='Earnings x10', start_balance=5000, portfolio_size=10)
-    # st1.run().plot_result()
-    # st2 = Earnings(name='Earnings x15', start_balance=5000, portfolio_size=15)
-    # st2.run().plot_result()
+    # st1.run()
+    st_list.append(Earnings(name='Earnings').run().plot_result(drawdown=True))
 
     '''
     st_list.append(Earnings(
-        name='Earnings 2008-2010',
-        date_start = datetime.datetime(2008, 1, 1),
-        date_end = datetime.datetime(2010, 1, 1)).run())
+        name='Earnings alpha',
+        start_balance=5000,
+        portfolio_size=20,
+        long_same_day=True,
+        data_source=strategy.Strategy.DATA_ALPHA,
+        event_source=strategy.Strategy.EVENTS_PORTFOLIO_123).run())
 
     st_list.append(Earnings(
-        name='Earnings 2010-2012',
-        date_start=datetime.datetime(2010, 1, 1),
-        date_end=datetime.datetime(2012, 1, 1)).run())
-
-    st_list.append(Earnings(
-        name='Earnings 2012-2014',
-        date_start=datetime.datetime(2012, 1, 1),
-        date_end=datetime.datetime(2014, 1, 1)).run())
-
-    st_list.append(Earnings(
-        name='Earnings 2014-2016',
-        date_start=datetime.datetime(2014, 1, 1),
-        date_end=datetime.datetime(2016, 1, 1)).run())
-
-    st_list.append(Earnings(
-        name='Earnings 2016-2018',
-        date_start=datetime.datetime(2016, 1, 1),
-        date_end=datetime.datetime(2018, 8, 1)).run())
-
-    strategy.Strategy.compare_balances(st_list, drawdown=True)
+        name='Earnings yahoo',
+        start_balance=5000,
+        portfolio_size=20,
+        long_same_day=True,
+        data_source=strategy.Strategy.DATA_YAHOO,
+        event_source=strategy.Strategy.EVENTS_PORTFOLIO_123).run())
     '''
 
-    st_list.append(Earnings(name='Earnings, longs next day').run().plot_result(drawdown=True))
+    # st_list.append(Earnings(
+    #     name='Earnings, longs next day',
+    #     start_balance=3000,
+    #     portfolio_size=20,
+    #     long_same_day=False,
+    #     event_source=strategy.Strategy.EVENTS_PORTFOLIO_123).run())
 
     # for year in range(2008, 2009):
     #     st = Earnings(
@@ -262,6 +249,8 @@ if __name__ == '__main__':
     #     st.run()
     #     st_list.append(st)
     #
+
+    # strategy.Strategy.compare_balances(st_list, drawdown=False)
 
     # st3.run().plot_result()
 
