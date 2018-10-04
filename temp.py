@@ -1,18 +1,21 @@
 import pandas as pd
+import numpy as np
 from datetime import datetime
 
-file_est = pd.read_csv('Final_Estimize_withTosCheck.csv')
+url_template = "http://climate.weather.gc.ca/climate_data/bulk_data_e.html?format=csv&stationID=5415&Year={year}&Month={month}&timeframe=1&submit=Download+Data"
 
-print(len(file_est))
-for i in range(len(file_est)):
-    temp = file_est['date'][i].split('/')
-    temp[0] = str(temp[0]) if len(temp[0]) == 2 else '0' + str(temp[0])
-    temp[1] = str(temp[1]) if len(temp[1]) == 2 else '0' + str(temp[1])
-    file_est.loc[i, 'date'] = str(temp[2]) + '-' + temp[0]  + '-' + temp[1] + str(' 00:00:00')
-    print(file_est.loc[i, 'date'])
 
-print(len(file_est['date']))
-file_123 = pd.read_excel('Portfolio123.xlsx')
-file_123['New_Date'] = file_est['date'].reset_index(drop=True)
+# Скачиваем данные и корректируем их
+def download_weather_month(year, month):
+    print(month)
+    url = url_template.format(year=year, month=month)
+    weather_data = pd.read_csv(url, skiprows=15, index_col='Date/Time', parse_dates=True)
+    weather_data = weather_data.dropna(axis=1)
+    weather_data.columns = [col.replace('/xb0', '') for col in weather_data.columns]
+    weather_data = weather_data.drop(['Year', 'Day', 'Month', 'Time'], axis=1)
+    return weather_data
 
-file_123.to_excel('New_file.xlsx')
+
+data_by_month = [download_weather_month(2012, i) for i in range(1, 13)]
+weather_2012 = pd.concat(data_by_month)
+weather_2012.to_csv('C:/Users/Lex/PycharmProjects/Start/GitHub/Jupyter_Notebook/data/weather_2012.csv')
